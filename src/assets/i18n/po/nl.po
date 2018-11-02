@@ -1271,7 +1271,7 @@ msgstr ""
 msgid "Non BIP44 wallet"
 msgstr "Niet-BIP44 portemonnee"
 
-msgid "Non eligible BTC wallet"
+msgid "Non eligible ACM wallet"
 msgstr ""
 
 msgid "Normal"
@@ -1304,8 +1304,8 @@ msgstr ""
 msgid "Note"
 msgstr "Notitie"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
-msgstr "Let op: als deze BCH portemonnee is gedupliceerd van een BTC portemonnee, dan delen zij de zelfde herstel zin."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
+msgstr "Let op: als deze BCH portemonnee is gedupliceerd van een ACM portemonnee, dan delen zij de zelfde herstel zin."
 
 msgid "Notifications"
 msgstr "Meldingen"

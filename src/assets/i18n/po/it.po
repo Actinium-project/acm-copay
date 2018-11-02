@@ -1271,8 +1271,8 @@ msgstr "Nessun portafoglio con fondi"
 msgid "Non BIP44 wallet"
 msgstr "Portafoglio non BIP44"
 
-msgid "Non eligible BTC wallet"
-msgstr "Portafoglio BTC non eleggibile"
+msgid "Non eligible ACM wallet"
+msgstr "Portafoglio ACM non eleggibile"
 
 msgid "Normal"
 msgstr "Normale"
@@ -1304,8 +1304,8 @@ msgstr "Indirizzo actinium non valido"
 msgid "Note"
 msgstr "Nota"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
-msgstr "Nota: se questo portafoglio BCH è stato duplicato da un portafoglio BTC, condividono la stessa frase di recupero."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
+msgstr "Nota: se questo portafoglio BCH è stato duplicato da un portafoglio ACM, condividono la stessa frase di recupero."
 
 msgid "Notifications"
 msgstr "Notifiche"

@@ -43,7 +43,7 @@ export class AltCurrencyPage {
         isoCode: 'LTL'
       },
       {
-        isoCode: 'BTC'
+        isoCode: 'ACM'
       }
     ];
   }

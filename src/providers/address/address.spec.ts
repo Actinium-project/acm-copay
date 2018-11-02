@@ -34,13 +34,13 @@ describe('AddressProvider', () => {
       'BCHTEST:qqycye950l689c98l7z5j43n4484ssnp4y3uu4ramr'
     ];
 
-    it("should get 'btc' string if address is BTC Livenet", () => {
+    it("should get 'btc' string if address is ACM Livenet", () => {
       BTCLivenetAddresses.forEach(BTCLivenetAddress => {
         expect(addressProvider.getCoin(BTCLivenetAddress)).toEqual('btc');
       });
     });
 
-    it("should get 'btc' string if address is BTC Testnet", () => {
+    it("should get 'btc' string if address is ACM Testnet", () => {
       BTCTestnetAddresses.forEach(BTCTestnetAddress => {
         expect(addressProvider.getCoin(BTCTestnetAddress)).toEqual('btc');
       });
@@ -60,7 +60,7 @@ describe('AddressProvider', () => {
   });
 
   describe('validateAddress', () => {
-    it('should validate if BTC livenet address is correct and return correct values', () => {
+    it('should validate if ACM livenet address is correct and return correct values', () => {
       let BTCLivenetAddress = '15qT4RJTjs7GSTReEmgXr4LbMjTVQ51LZA';
       let result = addressProvider.validateAddress(BTCLivenetAddress);
       expect(result).toEqual({
@@ -77,7 +77,7 @@ describe('AddressProvider', () => {
       });
     });
 
-    it('should validate if BTC testnet address is correct and return correct values', () => {
+    it('should validate if ACM testnet address is correct and return correct values', () => {
       let BTCTestnetAddress = 'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY';
       let result = addressProvider.validateAddress(BTCTestnetAddress);
       expect(result).toEqual({
@@ -142,7 +142,7 @@ describe('AddressProvider', () => {
   });
 
   describe('getNetwork', () => {
-    it('should return correct network for BTC livenet address', () => {
+    it('should return correct network for ACM livenet address', () => {
       let BTCLivenetAddress = '15qT4RJTjs7GSTReEmgXr4LbMjTVQ51LZA';
       let result = addressProvider.getNetwork(BTCLivenetAddress);
       expect(result).toEqual('livenet');
@@ -152,7 +152,7 @@ describe('AddressProvider', () => {
       expect(result).toEqual('livenet');
     });
 
-    it('should return correct network for BTC testnet address', () => {
+    it('should return correct network for ACM testnet address', () => {
       let BTCTestnetAddress = 'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY';
       let result = addressProvider.getNetwork(BTCTestnetAddress);
       expect(result).toEqual('testnet');
@@ -191,7 +191,7 @@ describe('AddressProvider', () => {
   });
 
   describe('checkCoinAndNetworkFromAddr', () => {
-    it('should return true if use correct coin and network for BTC livenet address', () => {
+    it('should return true if use correct coin and network for ACM livenet address', () => {
       let coin = 'btc';
       let network = 'livenet';
       let BTCLivenetAddress = '15qT4RJTjs7GSTReEmgXr4LbMjTVQ51LZA';
@@ -211,7 +211,7 @@ describe('AddressProvider', () => {
       expect(result).toEqual(true);
     });
 
-    it('should return true if use correct coin and network for BTC testnet address', () => {
+    it('should return true if use correct coin and network for ACM testnet address', () => {
       let coin = 'btc';
       let network = 'testnet';
       let BTCTestnetAddress = 'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY';
@@ -286,7 +286,7 @@ describe('AddressProvider', () => {
 
       coin = 'btc';
       network = 'testnet';
-      address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet
+      address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet
       result = addressProvider.checkCoinAndNetworkFromAddr(
         coin,
         network,
@@ -296,7 +296,7 @@ describe('AddressProvider', () => {
 
       coin = 'bch';
       network = 'livenet';
-      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet
       result = addressProvider.checkCoinAndNetworkFromAddr(
         coin,
         network,
@@ -385,16 +385,16 @@ describe('AddressProvider', () => {
   });
 
   describe('extractAddress', () => {
-    it('should return the correct extracted address for BTC', () => {
-      let address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet
+    it('should return the correct extracted address for ACM', () => {
+      let address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet
       let result = addressProvider.extractAddress(address);
       expect(result).toEqual('1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69');
 
-      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet with prefix
       result = addressProvider.extractAddress(address);
       expect(result).toEqual('1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69');
 
-      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // ACM livenet uri
       result = addressProvider.extractAddress(address);
       expect(result).toEqual('1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69');
     });
@@ -425,30 +425,30 @@ describe('AddressProvider', () => {
   });
 
   describe('isValid', () => {
-    it('should return true for addresses of BTC livenet', () => {
-      let address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet
+    it('should return true for addresses of ACM livenet', () => {
+      let address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet
       let result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet with prefix
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // ACM livenet uri
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
     });
 
-    it('should return true for addresses of BTC testnet', () => {
-      let address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet
+    it('should return true for addresses of ACM testnet', () => {
+      let address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet
       let result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet with prefix
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // ACM livenet uri
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
     });
@@ -481,7 +481,8 @@ describe('AddressProvider', () => {
     }); */
 
     it('should return false for invalid uri', () => {
-      let address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=invalid';
+      let address =
+        'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=invalid';
       let result = addressProvider.isValid(address);
       expect(result).toEqual(false);
 

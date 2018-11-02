@@ -7,12 +7,12 @@ describe('RateProvider', () => {
   let httpMock: HttpTestingController;
 
   const btcResponse = [
-    { code: 'BTC', name: 'Bitcoin', rate: 1 },
+    { code: 'ACM', name: 'Bitcoin', rate: 1 },
     { code: 'USD', name: 'US Dollar', rate: 11535.74 },
     { code: 'BCH', name: 'Bitcoin Cash', rate: 7.65734 }
   ];
   const bchResponse = [
-    { code: 'BTC', name: 'Bitcoin', rate: 0.130377 },
+    { code: 'ACM', name: 'Bitcoin', rate: 0.130377 },
     { code: 'USD', name: 'US Dollar', rate: 1503.3 },
     { code: 'BCH', name: 'Bitcoin Cash', rate: 1 }
   ];
@@ -35,10 +35,10 @@ describe('RateProvider', () => {
     httpMock.verify();
   });
 
-  it('should get BTC rates', () => {
+  it('should get ACM rates', () => {
     service.updateRatesBtc().then(() => {
       expect(service.isBtcAvailable()).toBe(true);
-      expect(service.getRate('BTC')).toEqual(1);
+      expect(service.getRate('ACM')).toEqual(1);
       expect(service.getRate('USD')).toEqual(11535.74);
       expect(service.getRate('BCH')).toEqual(7.65734);
     });
@@ -51,7 +51,7 @@ describe('RateProvider', () => {
   it('should get BCH rates', () => {
     service.updateRatesBch().then(() => {
       expect(service.isBchAvailable()).toBe(true);
-      expect(service.getRate('BTC', 'bch')).toEqual(0.130377);
+      expect(service.getRate('ACM', 'bch')).toEqual(0.130377);
       expect(service.getRate('USD', 'bch')).toEqual(1503.3);
       expect(service.getRate('BCH', 'bch')).toEqual(1);
     });
@@ -121,7 +121,7 @@ describe('RateProvider', () => {
     httpMock.verify();
   });
 
-  it('should covert BTC satoshis to fiat', () => {
+  it('should covert ACM satoshis to fiat', () => {
     // before we have rates
     expect(service.toFiat(0.25 * 1e8, 'USD', 'btc')).toBeNull();
 
@@ -138,7 +138,7 @@ describe('RateProvider', () => {
     httpMock.verify();
   });
 
-  it('should covert fiat to BTC satoshis', () => {
+  it('should covert fiat to ACM satoshis', () => {
     // before we have rates
     expect(service.fromFiat(0.25 * 1e8, 'USD', 'btc')).toBeNull();
 
@@ -164,12 +164,12 @@ describe('RateProvider', () => {
     service.updateRatesBtc().then(() => {
       expect(service.isBtcAvailable()).toBe(true);
       expect(service.listAlternatives(false)).toEqual([
-        { name: 'Bitcoin', isoCode: 'BTC' },
+        { name: 'Bitcoin', isoCode: 'ACM' },
         { name: 'US Dollar', isoCode: 'USD' },
         { name: 'Bitcoin Cash', isoCode: 'BCH' }
       ]);
       expect(service.listAlternatives(true)).toEqual([
-        { name: 'Bitcoin', isoCode: 'BTC' },
+        { name: 'Bitcoin', isoCode: 'ACM' },
         { name: 'Bitcoin Cash', isoCode: 'BCH' },
         { name: 'US Dollar', isoCode: 'USD' }
       ]);

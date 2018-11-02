@@ -147,7 +147,7 @@ describe('Provider: Incoming Data Provider', () => {
         expect(eventsSpy).toHaveBeenCalledWith('IncomingDataRedir', nextView);
       });
     });
-    it('Should handle BTC and BCH BitPay Invoices', () => {
+    it('Should handle ACM and BCH BitPay Invoices', () => {
       let data = [
         'actinium:?r=https://bitpay.com/i/CtcM753gnZ4Wpr5pmXU6i9',
         'bitcoincash:?r=https://bitpay.com/i/Rtz1RwWA7kdRRU3Wyo4YDY'

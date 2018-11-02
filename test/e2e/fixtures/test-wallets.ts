@@ -11,7 +11,7 @@ export const testWallets: LocalStorageData = [
   },
   {
     key: `balanceCache-24318897-a594-46e2-87fd-ba67ca980071`,
-    value: `{"balance":"0.00 BTC","updatedOn":1522444993}`
+    value: `{"balance":"0.00 ACM","updatedOn":1522444993}`
   },
   {
     key: `balanceCache-88669779-54f3-445a-9feb-06fb0093d162`,

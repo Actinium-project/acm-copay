@@ -1271,7 +1271,7 @@ msgstr "Keine Wallets mit Beträgen"
 msgid "Non BIP44 wallet"
 msgstr "Kein BIP44 Wallet"
 
-msgid "Non eligible BTC wallet"
+msgid "Non eligible ACM wallet"
 msgstr ""
 
 msgid "Normal"
@@ -1304,7 +1304,7 @@ msgstr "Keine gültige Bitcoin-Adresse"
 msgid "Note"
 msgstr "Notiz"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
 msgstr "Tipp: Wenn dieses Bitcoin Cash Wallet von einem Bitcoin Core Wallet kopiert wurde, besitzen diese dieselben Wiederherstellungs Sätze."
 
 msgid "Notifications"

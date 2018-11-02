@@ -1271,7 +1271,7 @@ msgstr "没有存有资金的钱包"
 msgid "Non BIP44 wallet"
 msgstr "非BIP44錢包"
 
-msgid "Non eligible BTC wallet"
+msgid "Non eligible ACM wallet"
 msgstr "不合格BTC钱包"
 
 msgid "Normal"
@@ -1304,7 +1304,7 @@ msgstr "无效的比特币的地址"
 msgid "Note"
 msgstr "备注"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
 msgstr "注意: 如此比特幣錢包由小比特幣复制，他們共享相同恢復短語"
 
 msgid "Notifications"

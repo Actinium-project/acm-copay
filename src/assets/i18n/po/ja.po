@@ -1273,7 +1273,7 @@ msgstr ""
 msgid "Non BIP44 wallet"
 msgstr "非 BIP44 ウォレット"
 
-msgid "Non eligible BTC wallet"
+msgid "Non eligible ACM wallet"
 msgstr ""
 
 msgid "Normal"
@@ -1306,7 +1306,7 @@ msgstr ""
 msgid "Note"
 msgstr "メモ"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
 msgstr "注意: このビットコインキャッシュウォレットがビットコインウォレットからの複製の場合、復元フレーズは一緒です。"
 
 msgid "Notifications"

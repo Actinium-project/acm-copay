@@ -11,20 +11,20 @@ describe('Replace Parameters Provider', () => {
   it('Should replace successfully parameters of the provided string, with no spaces between brackets', () => {
     replacedString = service.replace(
       'A total of {{amountBelowFeeStr}} {{coin}} were excluded. These funds come from UTXOs smaller than the network fee provided.',
-      { amountBelowFeeStr: '0.000100', coin: 'BTC' }
+      { amountBelowFeeStr: '0.000100', coin: 'ACM' }
     );
     expect(replacedString).toEqual(
-      'A total of 0.000100 BTC were excluded. These funds come from UTXOs smaller than the network fee provided.'
+      'A total of 0.000100 ACM were excluded. These funds come from UTXOs smaller than the network fee provided.'
     );
   });
 
   it('Should replace successfully parameters of the provided string, with spaces between brackets', () => {
     replacedString = service.replace(
       'A total of {{ amountBelowFeeStr }} {{ coin }} were excluded. These funds come from UTXOs smaller than the network fee provided.',
-      { amountBelowFeeStr: '0.000100', coin: 'BTC' }
+      { amountBelowFeeStr: '0.000100', coin: 'ACM' }
     );
     expect(replacedString).toEqual(
-      'A total of 0.000100 BTC were excluded. These funds come from UTXOs smaller than the network fee provided.'
+      'A total of 0.000100 ACM were excluded. These funds come from UTXOs smaller than the network fee provided.'
     );
   });
 

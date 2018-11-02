@@ -311,14 +311,14 @@ export class CoinbaseProvider {
           data[i].primary &&
           data[i].type == 'wallet' &&
           data[i].currency &&
-          data[i].currency.code == 'BTC'
+          data[i].currency.code == 'ACM'
         ) {
           return cb(null, data[i].id);
         }
       }
       this.logout();
       return cb(
-        'Your primary account should be a BTC WALLET. Set your wallet account as primary and try again'
+        'Your primary account should be a ACM WALLET. Set your wallet account as primary and try again'
       );
     });
   }

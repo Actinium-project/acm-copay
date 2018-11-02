@@ -1271,8 +1271,8 @@ msgstr "Нет кошельков с фондами"
 msgid "Non BIP44 wallet"
 msgstr "Не \"BIP44\" кошелек"
 
-msgid "Non eligible BTC wallet"
-msgstr "Неприемлемый \"BTC\" кошелек"
+msgid "Non eligible ACM wallet"
+msgstr "Неприемлемый \"ACM\" кошелек"
 
 msgid "Normal"
 msgstr "Обычная"
@@ -1304,7 +1304,7 @@ msgstr "Недействительный биткойн адрес"
 msgid "Note"
 msgstr "Примечание"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
 msgstr ""
 
 msgid "Notifications"

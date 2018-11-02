@@ -331,7 +331,7 @@ export class ConfigProvider {
     }
 
     if (this.configCache.wallet.settings.unitCode == 'bit') {
-      // Convert to BTC. Bits will be disabled
+      // Convert to ACM. Bits will be disabled
       this.configCache.wallet.settings.unitName =
         configDefault.wallet.settings.unitName;
       this.configCache.wallet.settings.unitToSatoshi =

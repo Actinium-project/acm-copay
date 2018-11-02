@@ -51,13 +51,13 @@ export class CustomAmountPage {
         this.navParams.data.currency
       );
 
-      // Amount in USD or BTC
+      // Amount in USD or ACM
       let _amount = parsedAmount.amount;
       let _currency = parsedAmount.currency;
       this.amountUnitStr = parsedAmount.amountUnitStr;
 
-      if (_currency != 'BTC' && _currency != 'BCH') {
-        // Convert to BTC or BCH
+      if (_currency != 'ACM' && _currency != 'BCH') {
+        // Convert to ACM or BCH
         let amountUnit = this.txFormatProvider.satToUnit(
           parsedAmount.amountSat
         );
@@ -70,7 +70,7 @@ export class CustomAmountPage {
         this.amountCoin = btcParsedAmount.amount;
         this.altAmountStr = btcParsedAmount.amountUnitStr;
       } else {
-        this.amountCoin = _amount; // BTC or BCH
+        this.amountCoin = _amount; // ACM or BCH
         this.altAmountStr = this.txFormatProvider.formatAlternativeStr(
           this.wallet.coin,
           parsedAmount.amountSat

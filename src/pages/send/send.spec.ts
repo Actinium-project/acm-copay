@@ -97,7 +97,7 @@ describe('SendPage', () => {
       ];
     });
 
-    it('should filter BTC wallets when search by wallet name', () => {
+    it('should filter ACM wallets when search by wallet name', () => {
       instance.hasBtcWallets = true;
       instance.wallet.coin = 'btc';
 
@@ -169,7 +169,7 @@ describe('SendPage', () => {
         }
       ];
     });
-    it('should filter BTC wallets and Contacts when search something', () => {
+    it('should filter ACM wallets and Contacts when search something', () => {
       instance.hasBtcWallets = true;
       instance.wallet.coin = 'btc';
       instance.search = 'test';
@@ -636,7 +636,7 @@ describe('SendPage', () => {
         expect(showLegacyAddrMessageSpy).toHaveBeenCalled();
       });
 
-      it('should handle paypro BTC livenet and call error modal', fakeAsync(() => {
+      it('should handle paypro ACM livenet and call error modal', fakeAsync(() => {
         const errorModalSpy = spyOn(instance, 'showErrorMessage');
         const mockPayPro = Promise.resolve({
           coin: 'btc',
@@ -654,7 +654,7 @@ describe('SendPage', () => {
         expect(errorModalSpy).toHaveBeenCalled();
       }));
 
-      it('should handle paypro BTC testnet and call error modal', fakeAsync(() => {
+      it('should handle paypro ACM testnet and call error modal', fakeAsync(() => {
         const errorModalSpy = spyOn(instance, 'showErrorMessage');
         const mockPayPro = Promise.resolve({
           coin: 'btc',

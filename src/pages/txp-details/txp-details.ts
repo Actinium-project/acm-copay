@@ -117,7 +117,7 @@ export class TxpDetailsPage {
     // for (let i = 0; i < 15; i++) {
 
     //   txp.outputs.push({
-    //     amountStr: "600 BTC",
+    //     amountStr: "600 ACM",
     //     toAddress: '2N8bhEwbKtMvR2jqMRcTCQqzHP6zXGToXcK',
     //     message: 'output #' + (Number(i) + 1)
     //   });

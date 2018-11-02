@@ -1271,7 +1271,7 @@ msgstr ""
 msgid "Non BIP44 wallet"
 msgstr "비 BIP44 지갑"
 
-msgid "Non eligible BTC wallet"
+msgid "Non eligible ACM wallet"
 msgstr ""
 
 msgid "Normal"
@@ -1304,7 +1304,7 @@ msgstr ""
 msgid "Note"
 msgstr "알림"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
 msgstr "알림: 이 BCH 지갑이 BCT 지갑으로부터 복제된 경우, 두 지갑은 동일한 복원 문구를 공유합니다."
 
 msgid "Notifications"

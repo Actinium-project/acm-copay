@@ -1271,8 +1271,8 @@ msgstr "Sin billeteras con fondos"
 msgid "Non BIP44 wallet"
 msgstr "Billetera no BIP44"
 
-msgid "Non eligible BTC wallet"
-msgstr "Billetera BTC no elegible"
+msgid "Non eligible ACM wallet"
+msgstr "Billetera ACM no elegible"
 
 msgid "Normal"
 msgstr "Normal"
@@ -1304,8 +1304,8 @@ msgstr "Dirección actinium inválida"
 msgid "Note"
 msgstr "Nota"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
-msgstr "Nota: Si esta billetera BCH fue duplicada desde una billetera BTC, entonces comparten la misma frase de recuperación."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
+msgstr "Nota: Si esta billetera BCH fue duplicada desde una billetera ACM, entonces comparten la misma frase de recuperación."
 
 msgid "Notifications"
 msgstr "Notificaciones"

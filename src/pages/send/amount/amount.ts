@@ -200,7 +200,7 @@ export class AmountPage extends WalletTabsChild {
       this.availableUnits.push({
         name: 'Bitcoin',
         id: 'btc',
-        shortName: 'BTC'
+        shortName: 'ACM'
       });
     }
 
@@ -578,7 +578,7 @@ export class AmountPage extends WalletTabsChild {
     if (this.unitIndex >= this.availableUnits.length) this.unitIndex = 0;
 
     if (this.availableUnits[this.unitIndex].isFiat) {
-      // Always return to BTC... TODO?
+      // Always return to ACM... TODO?
       this.altUnitIndex = 0;
     } else {
       this.altUnitIndex = _.findIndex(this.availableUnits, {

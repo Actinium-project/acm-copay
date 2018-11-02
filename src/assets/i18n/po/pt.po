@@ -1271,8 +1271,8 @@ msgstr "Não há carteiras com fundos"
 msgid "Non BIP44 wallet"
 msgstr "Carteira sem BIP44"
 
-msgid "Non eligible BTC wallet"
-msgstr "Carteira BTC não elegível"
+msgid "Non eligible ACM wallet"
+msgstr "Carteira ACM não elegível"
 
 msgid "Normal"
 msgstr "Normal"
@@ -1304,8 +1304,8 @@ msgstr "O endereço Bitcoin não é válido"
 msgid "Note"
 msgstr "Nota"
 
-msgid "Note: if this BCH wallet was duplicated from a BTC wallet, they share the same recovery phrase."
-msgstr "Nota: se esta carteira BCH foi duplicada de uma carteira BTC, elas compartilham a mesma frase de recuperação."
+msgid "Note: if this BCH wallet was duplicated from a ACM wallet, they share the same recovery phrase."
+msgstr "Nota: se esta carteira BCH foi duplicada de uma carteira ACM, elas compartilham a mesma frase de recuperação."
 
 msgid "Notifications"
 msgstr "Notificações"

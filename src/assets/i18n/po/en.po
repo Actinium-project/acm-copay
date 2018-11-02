@@ -1464,8 +1464,8 @@ msgstr "No wallets with funds"
 msgid "Non BIP44 wallet"
 msgstr "Non BIP44 wallet"
 
-msgid "Non eligible BTC wallet"
-msgstr "Non eligible BTC wallet"
+msgid "Non eligible ACM wallet"
+msgstr "Non eligible ACM wallet"
 
 msgid "Normal"
 msgstr "Normal"
@@ -1506,10 +1506,10 @@ msgid "Note"
 msgstr "Note"
 
 msgid ""
-"Note: if this BCH wallet was duplicated from a BTC wallet, they share the "
+"Note: if this BCH wallet was duplicated from a ACM wallet, they share the "
 "same recovery phrase."
 msgstr ""
-"Note: if this BCH wallet was duplicated from a BTC wallet, they share the "
+"Note: if this BCH wallet was duplicated from a ACM wallet, they share the "
 "same recovery phrase."
 
 msgid "Notifications"

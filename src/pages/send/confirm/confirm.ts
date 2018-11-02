@@ -588,7 +588,7 @@ export class ConfirmPage extends WalletTabsChild {
     let warningMsg = this.verifyExcludedUtxos(wallet, sendMaxInfo);
 
     const coinName =
-      this.wallet.coin === Coin.BTC ? 'Bitcoin (BTC)' : 'Bitcoin Cash (BCH)';
+      this.wallet.coin === Coin.ACM ? 'Actinium (ACM)' : 'Bitcoin Cash (BCH)';
 
     const minerFeeNoticeInfoSheet = this.actionSheetProvider.createInfoSheet(
       'miner-fee-notice',
