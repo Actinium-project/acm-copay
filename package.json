@@ -22,7 +22,7 @@
   },
   "dom_storage_quota": 200,
   "id": "jid1-x7bV5evAaI1P9Q",
-  "homepage": "https://actinium.org",
+  "homepage": "https://acm-copay.actinium.org",
   "license": "MIT",
   "repository": {
     "url": "git://github.com/Actinium-project/acm-copay.git",
@@ -106,10 +106,10 @@
     "protocols": {
       "name": "URL protocol schemes",
       "schemes": [
-        "actinium",
         "bitcoin",
         "bitcoincash",
-        "bchtest"
+        "bchtest",
+        "acm-copay"
       ]
     },
     "mac": {
