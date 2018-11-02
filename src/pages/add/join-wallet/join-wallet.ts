@@ -68,7 +68,7 @@ export class JoinWalletPage {
       bwsURL: [this.defaults.bws.url],
       selectedSeed: ['new'],
       recoveryPhrase: [null],
-      coin: [null, Validators.required]
+      coin: ['acm', Validators.required]
     });
 
     this.seedOptions = [
