@@ -1,5 +1,5 @@
 {
-  "name": "copay",
+  "name": "acm-copay",
   "description": "A Secure Bitcoin Wallet",
   "author": "BitPay",
   "version": "5.0.6",
@@ -179,7 +179,7 @@
     "@zxing/ngx-scanner": "1.2.1",
     "angular2-moment": "1.7.1",
     "bitauth": "git+https://github.com/bitpay/bitauth.git#copay",
-    "bitcore-wallet-client": "6.7.5",
+    "bitcore-wallet-client": "https://github.com/Actinium-project/acmcore-wallet-client.git",
     "buffer-compare": "1.1.1",
     "cordova": "8.0.0",
     "cordova-android": "7.1.1",
