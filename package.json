@@ -1,7 +1,7 @@
 {
   "name": "acm-copay",
-  "description": "A Secure Bitcoin Wallet",
-  "author": "BitPay",
+  "description": "A Secure Actinium Wallet",
+  "author": "The Actinium Code Developers",
   "version": "5.0.6",
   "keywords": [
     "bitcoin",
@@ -9,10 +9,11 @@
     "bitpay",
     "copay",
     "multisignature",
-    "bitcore"
+    "bitcore",
+    "actinium"
   ],
   "main": "electron/main.js",
-  "title": "Copay",
+  "title": "Actinium-Copay",
   "user-agent": "%name %ver (%osinfo)",
   "webkit": {
     "page-cache": false,
@@ -21,14 +22,14 @@
   },
   "dom_storage_quota": 200,
   "id": "jid1-x7bV5evAaI1P9Q",
-  "homepage": "https://copay.io",
+  "homepage": "https://actinium.org",
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/bitpay/copay.git",
+    "url": "git://github.com/Actinium-project/acm-copay.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/bitpay/copay/issues"
+    "url": "https://github.com/Actinium-project/acm-copay/issues"
   },
   "scripts": {
     "postinstall": "sed -i  -e \"s/.*require(...\\/...);//g\" node_modules/asn1.js-rfc5280/index.js && run-s e2e:update env:dev prompt",
@@ -95,7 +96,7 @@
   },
   "build": {
     "appId": "com.bitpay.copay.desktop2",
-    "productName": "Copay",
+    "productName": "Actinium-Copay",
     "afterPack": "./electron/afterPack.js",
     "files": [
       "./electron/main.js",
