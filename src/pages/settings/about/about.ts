@@ -41,7 +41,7 @@ export class AboutPage {
 
   public openExternalLink(): void {
     let url =
-      'https://github.com/bitpay/' +
+      'https://github.com/Actinium-project/' +
       this.appProvider.info.gitHubRepoName +
       '/tree/' +
       this.appProvider.info.commitHash +
