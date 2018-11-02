@@ -127,10 +127,10 @@ const configDefault: Config = {
     reconnectDelay: 5000,
     idleDurationMin: 4,
     settings: {
-      unitName: 'BTC',
+      unitName: 'ACM',
       unitToSatoshi: 100000000,
       unitDecimals: 8,
-      unitCode: 'btc',
+      unitCode: 'acm',
       alternativeName: 'US Dollar',
       alternativeIsoCode: 'USD',
       defaultLanguage: '',
@@ -140,7 +140,7 @@ const configDefault: Config = {
 
   // Bitcore wallet service URL
   bws: {
-    url: 'https://bws.bitpay.com/bws/api'
+    url: 'https://bws.actinium.org/bws/api'
   },
 
   download: {
@@ -190,11 +190,12 @@ const configDefault: Config = {
   },
 
   rates: {
-    url: 'https://insight.bitpay.com:443/api/rates'
+    url: 'https://api.actinium.org/v1/acm/rates'
   },
 
   release: {
-    url: 'https://api.github.com/repos/bitpay/copay/releases/latest'
+    url:
+      'https://api.github.com/repos/Actinum-project/acm-copay/releases/latest'
   },
 
   pushNotificationsEnabled: true,
@@ -213,7 +214,7 @@ const configDefault: Config = {
   },
 
   blockExplorerUrl: {
-    btc: 'insight.bitpay.com',
+    btc: 'explorer.actinium.org',
     bch: 'bch-insight.bitpay.com/#'
   }
 };
