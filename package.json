@@ -1,7 +1,7 @@
 {
   "name": "acm-copay",
   "description": "A Secure Actinium Wallet",
-  "author": "The Actinium Code Developers",
+  "author": "The Actinium Core Developers",
   "version": "5.0.6",
   "keywords": [
     "bitcoin",
@@ -22,7 +22,7 @@
   },
   "dom_storage_quota": 200,
   "id": "jid1-x7bV5evAaI1P9Q",
-  "homepage": "https://acm-copay.actinium.org",
+  "homepage": "https://actinium.org",
   "license": "MIT",
   "repository": {
     "url": "git://github.com/Actinium-project/acm-copay.git",
@@ -106,10 +106,10 @@
     "protocols": {
       "name": "URL protocol schemes",
       "schemes": [
+        "actinium",
         "bitcoin",
         "bitcoincash",
-        "bchtest",
-        "acm-copay"
+        "bchtest"
       ]
     },
     "mac": {
@@ -135,7 +135,7 @@
     "appx": {
       "identityName": "18C7659D.CopayforWindows",
       "publisher": "CN=F89609D1-EB3E-45FD-A58A-C2E3895FCE7B",
-      "publisherDisplayName": "BitPay Inc.",
+      "publisherDisplayName": "The Actinium Project",
       "applicationId": "ActiniumCopayforWindows",
       "displayName": "Actinium Copay for Windows"
     },
@@ -180,7 +180,7 @@
     "@zxing/ngx-scanner": "1.2.1",
     "angular2-moment": "1.7.1",
     "bitauth": "git+https://github.com/bitpay/bitauth.git#copay",
-    "bitcore-wallet-client": "https://github.com/Actinium-project/acmcore-wallet-client.git",
+    "acmcore-wallet-client": "https://github.com/Actinium-project/acmcore-wallet-client.git",
     "buffer-compare": "1.1.1",
     "cordova": "8.0.0",
     "cordova-android": "7.1.1",

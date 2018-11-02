@@ -358,7 +358,7 @@ export class BuyCoinbasePage {
     // purchased actinium from Coinbase to Copay in a
     // single transaction
     this.amount = (parsedAmount.amountSat / 100000000).toFixed(8);
-    this.currency = 'BTC';
+    this.currency = 'ACM';
 
     this.amountUnitStr = parsedAmount.amountUnitStr;
     this.onGoingProcessProvider.set('calculatingFee');

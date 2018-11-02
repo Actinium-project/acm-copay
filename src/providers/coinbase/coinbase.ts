@@ -311,7 +311,7 @@ export class CoinbaseProvider {
           data[i].primary &&
           data[i].type == 'wallet' &&
           data[i].currency &&
-          data[i].currency.code == 'BTC'
+          data[i].currency.code == 'ACM'
         ) {
           return cb(null, data[i].id);
         }

@@ -109,7 +109,7 @@ export class BitPayCardTopUpPage {
     this.amount = this.navParams.data.amount;
 
     let coin;
-    if (this.currency == 'BTC') coin = 'acm';
+    if (this.currency == 'ACM') coin = 'acm';
     else if (this.currency == 'BCH') coin = 'bch';
     else coin = null;
 
@@ -448,7 +448,7 @@ export class BitPayCardTopUpPage {
     let per = (fee / (amount + fee)) * 100;
 
     if (per > FEE_TOO_HIGH_LIMIT_PER) {
-      const coinName = this.wallet.coin === 'acm' ? 'Bitcoin' : 'Bitcoin Cash';
+      const coinName = this.wallet.coin === 'acm' ? 'Actinium' : 'Bitcoin Cash';
       const minerFeeInfoSheet = this.actionSheetProvider.createInfoSheet(
         'miner-fee',
         { coinName }

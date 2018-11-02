@@ -72,7 +72,7 @@ export class SellGlideraPage {
     this.isOpenSelector = false;
     this.navCtrl.swipeBackEnabled = false;
 
-    this.isFiat = this.navParams.data.currency != 'BTC' ? true : false;
+    this.isFiat = this.navParams.data.currency != 'ACM' ? true : false;
     this.amount = this.navParams.data.amount;
     this.currency = this.navParams.data.currency;
 

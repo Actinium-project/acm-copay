@@ -27,7 +27,7 @@ export class OnboardingPage {
     private actionSheetProvider: ActionSheetProvider
   ) {
     this.appName = this.app.info.nameCase;
-    this.isCopay = this.appName == 'Copay' ? true : false;
+    this.isCopay = this.appName == 'Actinium Copay' ? true : false;
     this.isElectron = this.platformProvider.isElectron;
   }
 

@@ -198,9 +198,9 @@ export class AmountPage extends WalletTabsChild {
 
     if (parentWalletCoin === 'acm' || !parentWalletCoin) {
       this.availableUnits.push({
-        name: 'Bitcoin',
+        name: 'Actinium',
         id: 'acm',
-        shortName: 'BTC'
+        shortName: 'ACM'
       });
     }
 

@@ -293,10 +293,10 @@ describe('TxFormatProvider', () => {
     });
 
     it('should return amount parsed correctly if the currency is ACM', () => {
-      let result = txFormatProvider.parseAmount('acm', 0.012235, 'BTC', false);
+      let result = txFormatProvider.parseAmount('acm', 0.012235, 'ACM', false);
       expect(result).toEqual({
         amount: '0.01223500',
-        currency: 'BTC',
+        currency: 'ACM',
         alternativeIsoCode: 'USD',
         amountSat: 1223500,
         amountUnitStr: '0.012235 ACM'
@@ -354,7 +354,7 @@ describe('TxFormatProvider', () => {
       let result = txFormatProvider.parseAmount('acm', 1505, 'sat', false);
       expect(result).toEqual({
         amount: '0.00001505',
-        currency: 'BTC',
+        currency: 'ACM',
         alternativeIsoCode: 'USD',
         amountSat: 1505,
         amountUnitStr: '0.000015 ACM'

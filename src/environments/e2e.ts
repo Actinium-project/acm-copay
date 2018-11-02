@@ -14,7 +14,7 @@ const env: EnvironmentSchema = {
   name: 'e2e',
   enableAnimations: false,
   ratesAPI: {
-    btc: `${host}/bitpay.com/api/rates`,
+    acm: `${host}/bitpay.com/api/rates`,
     bch: `${host}/bitpay.com/api/rates/bch`
   },
   activateScanner: false

@@ -20,7 +20,7 @@ import { TouchIdProvider } from '../touchid/touchid';
 import { TxFormatProvider } from '../tx-format/tx-format';
 
 export enum Coin {
-  BTC = 'acm',
+  ACM = 'acm',
   BCH = 'bch'
 }
 
@@ -1206,7 +1206,7 @@ export class WalletProvider {
       // Get current languge
       prefs.language = this.languageProvider.getCurrent();
 
-      // Set OLD wallet in bits to btc
+      // Set OLD wallet in bits to acm
       prefs.unit = 'acm'; // DEPRECATED
 
       updateRemotePreferencesFor(lodash.clone(clients), prefs)

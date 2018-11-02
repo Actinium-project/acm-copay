@@ -189,7 +189,7 @@ export class SendPage extends WalletTabsChild {
   public async goToReceive() {
     await this.walletTabsProvider.goToTabIndex(0);
     const coinName =
-      this.wallet.coin === Coin.BTC ? 'actinium' : 'bitcoin cash';
+      this.wallet.coin === Coin.ACM ? 'actinium' : 'bitcoin cash';
     const infoSheet = this.actionSheetProvider.createInfoSheet(
       'receiving-bitcoin',
       { coinName }
@@ -307,7 +307,7 @@ export class SendPage extends WalletTabsChild {
         const parsedData = this.incomingDataProvider.parseData(this.search);
         if (parsedData && parsedData.type == 'PayPro') {
           const coin: string =
-            this.search.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.BTC;
+            this.search.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.ACM;
           this.incomingDataProvider
             .getPayProDetails(this.search)
             .then(payProDetails => {

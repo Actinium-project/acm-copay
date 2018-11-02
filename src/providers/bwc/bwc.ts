@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 
 import { Logger } from '../../providers/logger/logger';
 
-import * as BWC from 'bitcore-wallet-client';
+import * as BWC from 'acmcore-wallet-client';
 
 @Injectable()
 export class BwcProvider {

@@ -97,7 +97,7 @@ export class TxFormatProvider {
     }).bind(this);
 
     if (
-      (!this.rate.isBtcAvailable() && coin == 'via') ||
+      (!this.rate.isBtcAvailable() && coin == 'acm') ||
       (!this.rate.isBchAvailable() && coin == 'bch')
     )
       return null;
@@ -184,7 +184,7 @@ export class TxFormatProvider {
     let alternativeIsoCode = settings.alternativeIsoCode;
 
     // If fiat currency
-    if (currency != 'BCH' && currency != 'BTC' && currency != 'sat') {
+    if (currency != 'BCH' && currency != 'ACM' && currency != 'sat') {
       let formattedAmount = onlyIntegers
         ? this.filter.formatFiatAmount(amount.toFixed(0))
         : this.filter.formatFiatAmount(amount);

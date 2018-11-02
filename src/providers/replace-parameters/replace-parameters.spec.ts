@@ -11,7 +11,7 @@ describe('Replace Parameters Provider', () => {
   it('Should replace successfully parameters of the provided string, with no spaces between brackets', () => {
     replacedString = service.replace(
       'A total of {{amountBelowFeeStr}} {{coin}} were excluded. These funds come from UTXOs smaller than the network fee provided.',
-      { amountBelowFeeStr: '0.000100', coin: 'BTC' }
+      { amountBelowFeeStr: '0.000100', coin: 'ACM' }
     );
     expect(replacedString).toEqual(
       'A total of 0.000100 ACM were excluded. These funds come from UTXOs smaller than the network fee provided.'
@@ -21,7 +21,7 @@ describe('Replace Parameters Provider', () => {
   it('Should replace successfully parameters of the provided string, with spaces between brackets', () => {
     replacedString = service.replace(
       'A total of {{ amountBelowFeeStr }} {{ coin }} were excluded. These funds come from UTXOs smaller than the network fee provided.',
-      { amountBelowFeeStr: '0.000100', coin: 'BTC' }
+      { amountBelowFeeStr: '0.000100', coin: 'ACM' }
     );
     expect(replacedString).toEqual(
       'A total of 0.000100 ACM were excluded. These funds come from UTXOs smaller than the network fee provided.'
@@ -69,7 +69,7 @@ describe('Replace Parameters Provider', () => {
   it('Should return string without replacements if the spaces inside the brackets are not respected correctly', () => {
     replacedString = service.replace('Hello {{world }}. I love {{ appName }}', {
       world: 'world!',
-      appName: 'Copay'
+      appName: 'Actinium-Copay'
     });
     expect(replacedString).toEqual('Hello {{world }}. I love Copay');
   });

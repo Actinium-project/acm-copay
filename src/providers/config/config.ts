@@ -106,7 +106,7 @@ export interface Config {
   };
 
   blockExplorerUrl: {
-    btc: string;
+    acm: string;
     bch: string;
   };
 }
@@ -214,7 +214,7 @@ const configDefault: Config = {
   },
 
   blockExplorerUrl: {
-    btc: 'explorer.actinium.org',
+    acm: 'explorer.actinium.org',
     bch: 'bch-insight.bitpay.com/#'
   }
 };

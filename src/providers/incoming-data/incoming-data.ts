@@ -168,7 +168,7 @@ export class IncomingDataProvider {
     this.logger.debug(
       'Incoming-data: Payment Protocol with non-backwards-compatible request'
     );
-    let coin = data.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.BTC;
+    let coin = data.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.ACM;
     data = decodeURIComponent(data.replace(/actinium(cash)?:\?r=/, ''));
 
     this.goToPayPro(data, coin);
@@ -178,7 +178,7 @@ export class IncomingDataProvider {
     this.logger.debug('Incoming-data: Bitcoin URI');
     let amountFromRedirParams =
       redirParams && redirParams.amount ? redirParams.amount : '';
-    const coin = Coin.BTC;
+    const coin = Coin.ACM;
     let parsed = this.bwcProvider.getBitcore().URI(data);
     let address = parsed.address ? parsed.address.toString() : '';
     let message = parsed.message;
@@ -249,7 +249,7 @@ export class IncomingDataProvider {
     redirParams?: RedirParams
   ): void {
     this.logger.debug('Incoming-data: Bitcoin plain address');
-    const coin = Coin.BTC;
+    const coin = Coin.ACM;
     if (redirParams && redirParams.activePage === 'ScanPage') {
       this.showMenu({
         data,
@@ -699,7 +699,7 @@ export class IncomingDataProvider {
   }
 
   public getPayProDetails(data: string): Promise<any> {
-    let coin: string = data.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.BTC;
+    let coin: string = data.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.ACM;
     data = decodeURIComponent(data.replace(/actinium(cash)?:\?r=/, ''));
 
     let disableLoader = true;

@@ -13,13 +13,13 @@ export class AddressProvider {
     this.bitcore = this.bwcProvider.getBitcore();
     this.bitcoreCash = this.bwcProvider.getBitcoreCash();
     this.Bitcore = {
-      btc: {
+      acm: {
         lib: this.bitcore,
-        translateTo: 'bch'
+        translateTo: 'acm'
       },
       bch: {
         lib: this.bitcoreCash,
-        translateTo: 'acm'
+        translateTo: 'bch'
       }
     };
   }

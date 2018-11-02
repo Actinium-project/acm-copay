@@ -15,7 +15,7 @@ export class RateProvider {
   private SAT_TO_BTC: number;
   private BTC_TO_SAT: number;
 
-  private rateServiceUrl = env.ratesAPI.btc;
+  private rateServiceUrl = env.ratesAPI.acm;
   private bchRateServiceUrl = env.ratesAPI.bch;
 
   constructor(private http: HttpClient, private logger: Logger) {
