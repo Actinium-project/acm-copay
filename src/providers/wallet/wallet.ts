@@ -20,7 +20,7 @@ import { TouchIdProvider } from '../touchid/touchid';
 import { TxFormatProvider } from '../tx-format/tx-format';
 
 export enum Coin {
-  BTC = 'btc',
+  BTC = 'acm',
   BCH = 'bch'
 }
 
@@ -1661,7 +1661,7 @@ export class WalletProvider {
     if (coin == 'bch') {
       return network == 'testnet' ? 'bchtest' : 'bitcoincash';
     } else {
-      return 'bitcoin';
+      return 'actinium';
     }
   }
 
