@@ -84,7 +84,7 @@ export class SettingsPage {
       this.language.getCurrent()
     );
     this.walletsBtc = this.profileProvider.getWallets({
-      coin: 'btc'
+      coin: 'acm'
     });
     this.walletsBch = this.profileProvider.getWallets({
       coin: 'bch'
@@ -201,9 +201,9 @@ export class SettingsPage {
 
   public openHelpExternalLink(): void {
     let url =
-      this.appName == 'Copay'
-        ? 'https://github.com/bitpay/copay/issues'
-        : 'https://help.bitpay.com/bitpay-app';
+      this.appName == 'Actinium-Copay'
+        ? 'https://github.com/Actinium-project/acm-copay/issues'
+        : 'https://help.actinium.org/actinium-copay-app';
     let optIn = true;
     let title = null;
     let message = this.translate.instant(
