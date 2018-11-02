@@ -113,7 +113,7 @@ msgstr ""
 msgid "All addresses"
 msgstr "Все адреса"
 
-msgid "All of your bitcoin wallet balance may not be available for immediate spending."
+msgid "All of your actinium wallet balance may not be available for immediate spending."
 msgstr "В данный момент весь баланс вашего кошелька может быть недоступен для совершения платежей."
 
 msgid "Allow camera access"
@@ -149,7 +149,7 @@ msgstr "Слишком большая сумма"
 msgid "An update to this app is available. For your security, please update to the latest version."
 msgstr "Доступно обновление. Для вашей же безопасности, пожалуйста, обновитесь до последней версии."
 
-msgid "Anyone with your recovery phrase can access or spend your bitcoin."
+msgid "Anyone with your recovery phrase can access or spend your actinium."
 msgstr ""
 
 msgid "Apply changes"
@@ -551,7 +551,7 @@ msgstr "Создать новый кошелек"
 msgid "Create a new wallet to start using this app."
 msgstr ""
 
-msgid "Create bitcoin wallet"
+msgid "Create actinium wallet"
 msgstr "Создать биткойн-кошелёк"
 
 msgid "Create personal wallet"
@@ -662,7 +662,7 @@ msgstr "Дублировать ( Bitcoin Cash )"
 msgid "Duplicating wallet..."
 msgstr "Дублирование кошелька..."
 
-msgid "Each bitcoin wallet can generate billions of addresses from your 12-word recovery phrase. A new address is automatically generated and shown each time you receive a payment."
+msgid "Each actinium wallet can generate billions of addresses from your 12-word recovery phrase. A new address is automatically generated and shown each time you receive a payment."
 msgstr ""
 
 msgid "Economy"
@@ -962,7 +962,7 @@ msgstr "Я записал"
 msgid "I understand"
 msgstr "Я понимаю"
 
-msgid "I understand that if this app is moved to another device or deleted, my bitcoin can only be recovered with the recovery phrase"
+msgid "I understand that if this app is moved to another device or deleted, my actinium can only be recovered with the recovery phrase"
 msgstr ""
 
 msgid "I understand that my funds are held securely on this device, not by a company"
@@ -1229,7 +1229,7 @@ msgstr "Нет"
 msgid "No Private Key"
 msgstr ""
 
-msgid "No backup, no bitcoin."
+msgid "No backup, no actinium."
 msgstr "Нет резервной копии - нет биткойнов."
 
 msgid "No contacts yet"
@@ -1298,7 +1298,7 @@ msgstr ""
 msgid "Not right now"
 msgstr ""
 
-msgid "Not valid bitcoin address"
+msgid "Not valid actinium address"
 msgstr "Недействительный биткойн адрес"
 
 msgid "Note"
@@ -1400,7 +1400,7 @@ msgstr ""
 msgid "Paste this code on {website}. This gift card cannot be recovered if your claim code is lost."
 msgstr ""
 
-msgid "Pay 0% fees to turn bitcoin into dollars."
+msgid "Pay 0% fees to turn actinium into dollars."
 msgstr "Платите нулевую комиссию за конвертацию биткойн в доллары США."
 
 msgid "Pay To"
@@ -1688,7 +1688,7 @@ msgstr "Поиск транзакций"
 msgid "Search a contact"
 msgstr "Поиск контакта"
 
-msgid "Search or enter bitcoin address"
+msgid "Search or enter actinium address"
 msgstr "Найти или ввести биткойн-адрес"
 
 msgid "Search your currency"
@@ -1895,7 +1895,7 @@ msgstr "Считывание кошелька..."
 msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "ЭТО ДЕЙСТВИЕ НЕ МОЖЕТ БЫТЬ ОТМЕНЕНО"
 
-msgid "Take control of your money, get started with bitcoin."
+msgid "Take control of your money, get started with actinium."
 msgstr ""
 
 msgid "Tap and hold to show"
@@ -1925,13 +1925,13 @@ msgstr ""
 msgid "The Wallet Service URL"
 msgstr "URL услуги кошелька"
 
-msgid "The amount of bitcoin immediately spendable from this wallet."
+msgid "The amount of actinium immediately spendable from this wallet."
 msgstr "Сумма биткойнов доступных для совершения платежей."
 
-msgid "The amount of bitcoin stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
+msgid "The amount of actinium stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
 msgstr "Сумма биткойнов, выделенных в качестве входов для ожидающих рассмотрения платежей. Сумма определяется непотраченными выходами, ассоциированными с этим кошельком, и может превышать сумму, ассоциированную с предложенными платежами."
 
-msgid "The amount of bitcoin stored in this wallet with less than 1 blockchain confirmation."
+msgid "The amount of actinium stored in this wallet with less than 1 blockchain confirmation."
 msgstr "Сумма биткойнов с менее, чем одним подтверждением."
 
 msgid "The derivation path"
@@ -1973,10 +1973,10 @@ msgstr "Запрос не распознан сервером"
 msgid "The spend proposal is not pending"
 msgstr "Предложенный платёж больше не на рассмотрении"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or bitcoin testers to experiment, without having to use real bitcoins."
+msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
 msgstr ""
 
-msgid "The total amount of bitcoin stored in this wallet."
+msgid "The total amount of actinium stored in this wallet."
 msgstr "Сумма биткойнов в этом кошельке."
 
 msgid "The transaction history and every new incoming transaction are cached in the app. This feature clean this up and synchronizes again from the server"
@@ -1997,10 +1997,10 @@ msgstr ""
 msgid "This app is not available for your device."
 msgstr ""
 
-msgid "This app stores your bitcoin with cutting-edge security."
+msgid "This app stores your actinium with cutting-edge security."
 msgstr ""
 
-msgid "This bitcoin payment request has expired."
+msgid "This actinium payment request has expired."
 msgstr "Этот запрос платежа истёк."
 
 msgid "This field is only for users who, in previous versions (it's not supported anymore), set a password to protect their recovery phrase. This field is not for your encrypt password."
@@ -2033,7 +2033,7 @@ msgstr "Хронология"
 msgid "To"
 msgstr "Кому"
 
-msgid "To get started, you'll need to create a bitcoin wallet and get some bitcoin."
+msgid "To get started, you'll need to create a actinium wallet and get some actinium."
 msgstr "Чтобы начать работу, вам нужно создать кошелёк и получить биткойн."
 
 msgid "To {{reason}} you must first add your BitPay account - {{email}}"
@@ -2108,7 +2108,7 @@ msgstr ""
 msgid "Try again in {{expires}}"
 msgstr "Попробуйте снова через {{expires}}"
 
-msgid "Turn bitcoin into dollars, swipe anywhere Visa® is accepted."
+msgid "Turn actinium into dollars, swipe anywhere Visa® is accepted."
 msgstr ""
 
 msgid "Type the recovery phrase (usually 12 words)"
@@ -2384,13 +2384,13 @@ msgstr ""
 msgid "You can make contributions by signing up on our Crowdin community translation website. We’re looking forward to hearing from you!"
 msgstr ""
 
-msgid "You can scan bitcoin addresses, payment requests, paper wallets, and more."
+msgid "You can scan actinium addresses, payment requests, paper wallets, and more."
 msgstr "Вы можете сканировать биткойн-адреса, запросы платежей, бумажные кошельки, и многое другое."
 
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
 msgstr ""
 
-msgid "You can spend bitcoin at millions of websites and stores worldwide."
+msgid "You can spend actinium at millions of websites and stores worldwide."
 msgstr ""
 
 msgid "You can still export it from \"Export Wallet\" option."
@@ -2402,8 +2402,8 @@ msgstr ""
 msgid "You can use your Mercado Livre gift cards on your Mercado Pago account for everyday expenses like utilities and metro rides."
 msgstr ""
 
-msgid "You control your bitcoin."
-msgstr "Вы контролируете Ваши bitcoin-ы."
+msgid "You control your actinium."
+msgstr "Вы контролируете Ваши actinium-ы."
 
 msgid "You could sign the transaction later in your wallet details"
 msgstr ""
@@ -2414,10 +2414,10 @@ msgstr ""
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr ""
 
-msgid "Your bitcoin wallet is ready!"
+msgid "Your actinium wallet is ready!"
 msgstr "Ваш кошелёк готов!"
 
-msgid "Your extended private keys are all that is needed to access your bitcoin funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
+msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
 msgstr ""
 
 msgid "Your fee is lower than recommended."
@@ -2468,7 +2468,7 @@ msgstr ""
 msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (BitPay's public BWS instance)."
 msgstr ""
 
-msgid "{{fee}} {{coin}} will be deducted for bitcoin networking fees."
+msgid "{{fee}} {{coin}} will be deducted for actinium networking fees."
 msgstr ""
 
 msgid "{{updatingTxHistoryProgress}} transactions downloaded"

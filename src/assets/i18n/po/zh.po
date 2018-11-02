@@ -113,7 +113,7 @@ msgstr ""
 msgid "All addresses"
 msgstr "所有地址"
 
-msgid "All of your bitcoin wallet balance may not be available for immediate spending."
+msgid "All of your actinium wallet balance may not be available for immediate spending."
 msgstr "所有您的比特币的钱包余额可能无法用于直接支出。"
 
 msgid "Allow camera access"
@@ -149,7 +149,7 @@ msgstr "量太大"
 msgid "An update to this app is available. For your security, please update to the latest version."
 msgstr "本程序有一个可用的更新。为了您的安全，请更新到最新版本。"
 
-msgid "Anyone with your recovery phrase can access or spend your bitcoin."
+msgid "Anyone with your recovery phrase can access or spend your actinium."
 msgstr ""
 
 msgid "Apply changes"
@@ -551,7 +551,7 @@ msgstr "创建一个新的钱包"
 msgid "Create a new wallet to start using this app."
 msgstr ""
 
-msgid "Create bitcoin wallet"
+msgid "Create actinium wallet"
 msgstr "创建比特币的钱包"
 
 msgid "Create personal wallet"
@@ -662,7 +662,7 @@ msgstr "复制(比特币现金)"
 msgid "Duplicating wallet..."
 msgstr "正在复制钱包……"
 
-msgid "Each bitcoin wallet can generate billions of addresses from your 12-word recovery phrase. A new address is automatically generated and shown each time you receive a payment."
+msgid "Each actinium wallet can generate billions of addresses from your 12-word recovery phrase. A new address is automatically generated and shown each time you receive a payment."
 msgstr ""
 
 msgid "Economy"
@@ -962,7 +962,7 @@ msgstr "我已经写下"
 msgid "I understand"
 msgstr "我知道了"
 
-msgid "I understand that if this app is moved to another device or deleted, my bitcoin can only be recovered with the recovery phrase"
+msgid "I understand that if this app is moved to another device or deleted, my actinium can only be recovered with the recovery phrase"
 msgstr ""
 
 msgid "I understand that my funds are held securely on this device, not by a company"
@@ -1229,7 +1229,7 @@ msgstr "无"
 msgid "No Private Key"
 msgstr ""
 
-msgid "No backup, no bitcoin."
+msgid "No backup, no actinium."
 msgstr "没有备份，没有比特币。"
 
 msgid "No contacts yet"
@@ -1298,7 +1298,7 @@ msgstr ""
 msgid "Not right now"
 msgstr ""
 
-msgid "Not valid bitcoin address"
+msgid "Not valid actinium address"
 msgstr "无效的比特币的地址"
 
 msgid "Note"
@@ -1400,7 +1400,7 @@ msgstr "粘贴备份的纯文本代码"
 msgid "Paste this code on {website}. This gift card cannot be recovered if your claim code is lost."
 msgstr ""
 
-msgid "Pay 0% fees to turn bitcoin into dollars."
+msgid "Pay 0% fees to turn actinium into dollars."
 msgstr "0%付费以比特币变成美元。"
 
 msgid "Pay To"
@@ -1688,7 +1688,7 @@ msgstr "搜索交易"
 msgid "Search a contact"
 msgstr "查找联系人"
 
-msgid "Search or enter bitcoin address"
+msgid "Search or enter actinium address"
 msgstr "搜索或输入比特币地址"
 
 msgid "Search your currency"
@@ -1895,7 +1895,7 @@ msgstr "正在导出钱包"
 msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "此操作无法撤消"
 
-msgid "Take control of your money, get started with bitcoin."
+msgid "Take control of your money, get started with actinium."
 msgstr "控制好你的钱，开始使用比特币。"
 
 msgid "Tap and hold to show"
@@ -1925,13 +1925,13 @@ msgstr "全球最安全最快捷的资产交换"
 msgid "The Wallet Service URL"
 msgstr "钱包服务 URL"
 
-msgid "The amount of bitcoin immediately spendable from this wallet."
+msgid "The amount of actinium immediately spendable from this wallet."
 msgstr "比特币立即可从这个钱包的金额。"
 
-msgid "The amount of bitcoin stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
+msgid "The amount of actinium stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
 msgstr "比特币存储在分配作为你挂起的事务建议的输入这个钱包中的金额。量确定使用未用余额交易记录输出与这个钱包关联，可能会与您挂起的事务建议相关联的实际数额超过。"
 
-msgid "The amount of bitcoin stored in this wallet with less than 1 blockchain confirmation."
+msgid "The amount of actinium stored in this wallet with less than 1 blockchain confirmation."
 msgstr "比特币存储在与小于 1 blockchain 确认这个钱包中的金额。"
 
 msgid "The derivation path"
@@ -1973,10 +1973,10 @@ msgstr "服务器不理解此请求"
 msgid "The spend proposal is not pending"
 msgstr "花费提议不是未决"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or bitcoin testers to experiment, without having to use real bitcoins."
+msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
 msgstr ""
 
-msgid "The total amount of bitcoin stored in this wallet."
+msgid "The total amount of actinium stored in this wallet."
 msgstr "比特币存储在这个钱包的总量。"
 
 msgid "The transaction history and every new incoming transaction are cached in the app. This feature clean this up and synchronizes again from the server"
@@ -1997,10 +1997,10 @@ msgstr "显然我们做错了什么。我们怎样才能提高您的用户体验
 msgid "This app is not available for your device."
 msgstr "此app不适用于您的设备。"
 
-msgid "This app stores your bitcoin with cutting-edge security."
+msgid "This app stores your actinium with cutting-edge security."
 msgstr "此应用程序商店你比特币与尖端的安全。"
 
-msgid "This bitcoin payment request has expired."
+msgid "This actinium payment request has expired."
 msgstr "这比特币付款请求已过期。"
 
 msgid "This field is only for users who, in previous versions (it's not supported anymore), set a password to protect their recovery phrase. This field is not for your encrypt password."
@@ -2033,7 +2033,7 @@ msgstr "时间轴"
 msgid "To"
 msgstr "发送到"
 
-msgid "To get started, you'll need to create a bitcoin wallet and get some bitcoin."
+msgid "To get started, you'll need to create a actinium wallet and get some actinium."
 msgstr "若要开始，您将需要创建一个比特币的钱包，并获得一些比特币。"
 
 msgid "To {{reason}} you must first add your BitPay account - {{email}}"
@@ -2108,7 +2108,7 @@ msgstr "重试"
 msgid "Try again in {{expires}}"
 msgstr "在 {{expires}} 中再试一次"
 
-msgid "Turn bitcoin into dollars, swipe anywhere Visa® is accepted."
+msgid "Turn actinium into dollars, swipe anywhere Visa® is accepted."
 msgstr "将比特币兑换成美元，在任何接受Visa®的地方都可以刷卡。"
 
 msgid "Type the recovery phrase (usually 12 words)"
@@ -2384,13 +2384,13 @@ msgstr ""
 msgid "You can make contributions by signing up on our Crowdin community translation website. We’re looking forward to hearing from you!"
 msgstr "您可以通过签约我们 Crowdin 社区翻译网站作出贡献。我们期待你的听力 ！"
 
-msgid "You can scan bitcoin addresses, payment requests, paper wallets, and more."
+msgid "You can scan actinium addresses, payment requests, paper wallets, and more."
 msgstr "您可以扫描比特币地址、 付款申请、 纸钱包和更多。"
 
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
 msgstr "你可以看到最新的事态发展和贡献这个开放源码应用程序通过在 GitHub 上访问我们的项目。"
 
-msgid "You can spend bitcoin at millions of websites and stores worldwide."
+msgid "You can spend actinium at millions of websites and stores worldwide."
 msgstr "你可以花比特币在数以百万计的网站和世界各地的商店。"
 
 msgid "You can still export it from \"Export Wallet\" option."
@@ -2402,7 +2402,7 @@ msgstr "你可以换其他货币，如美元、 欧元或英镑。"
 msgid "You can use your Mercado Livre gift cards on your Mercado Pago account for everyday expenses like utilities and metro rides."
 msgstr ""
 
-msgid "You control your bitcoin."
+msgid "You control your actinium."
 msgstr "您可以控制您的比特币。"
 
 msgid "You could sign the transaction later in your wallet details"
@@ -2414,10 +2414,10 @@ msgstr "你不应设置高于 {{maxFeeRecommended}} satoshis/字节 的交易手
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr "您的 BitPay 卡是准备好了。添加到您的卡开始使用它在商店和自动取款机全球基金。"
 
-msgid "Your bitcoin wallet is ready!"
+msgid "Your actinium wallet is ready!"
 msgstr "你的比特币钱包是准备好了 ！"
 
-msgid "Your extended private keys are all that is needed to access your bitcoin funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
+msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
 msgstr "访问您的比特币基金只需要的是您的扩展私钥。请确保保护好您的私钥，并将它们存储在安全的设备上。BitPay无法访问您的私钥，因此您自己负责您的密钥。如果您与外部服务共享密钥访问，则您将对被盗或违规的风险承担责任。只有高级用户才能直接处理扩展的私钥。"
 
 msgid "Your fee is lower than recommended."
@@ -2468,7 +2468,7 @@ msgstr ""
 msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (BitPay's public BWS instance)."
 msgstr "{{appName}}依赖Bitcore Wallet Service(BWS)进行区块链信息、网络和复制层同步。默认配置指向https：/bws.bitpay.com(BitPay's public BWS instance)。"
 
-msgid "{{fee}} {{coin}} will be deducted for bitcoin networking fees."
+msgid "{{fee}} {{coin}} will be deducted for actinium networking fees."
 msgstr "{{fee}}{{coin}}将扣除比特币网络费"
 
 msgid "{{updatingTxHistoryProgress}} transactions downloaded"

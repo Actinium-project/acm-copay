@@ -117,7 +117,7 @@ function createMenu() {
 }
 // The setAsDefaultProtocolClient only works on packaged versions of the application
 
-app.setAsDefaultProtocolClient('bitcoin');
+app.setAsDefaultProtocolClient('actinium');
 app.setAsDefaultProtocolClient('bitcoincash');
 app.setAsDefaultProtocolClient('bchtest');
 app.setAsDefaultProtocolClient(appConfig.name);

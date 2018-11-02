@@ -302,7 +302,7 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-custom-config": {},
       "cordova-plugin-customurlscheme": {
-        "URL_SCHEME": "bitcoin",
+        "URL_SCHEME": "actinium",
         "SECOND_URL_SCHEME": "copay",
         "THIRD_URL_SCHEME": "bitcoincash",
         "ANDROID_SCHEME": " ",

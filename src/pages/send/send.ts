@@ -188,7 +188,7 @@ export class SendPage extends WalletTabsChild {
 
   public async goToReceive() {
     await this.walletTabsProvider.goToTabIndex(0);
-    const coinName = this.wallet.coin === Coin.BTC ? 'bitcoin' : 'bitcoin cash';
+    const coinName = this.wallet.coin === Coin.BTC ? 'actinium' : 'bitcoin cash';
     const infoSheet = this.actionSheetProvider.createInfoSheet(
       'receiving-bitcoin',
       { coinName }

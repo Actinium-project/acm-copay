@@ -149,7 +149,7 @@ describe('Provider: Incoming Data Provider', () => {
     });
     it('Should handle BTC and BCH BitPay Invoices', () => {
       let data = [
-        'bitcoin:?r=https://bitpay.com/i/CtcM753gnZ4Wpr5pmXU6i9',
+        'actinium:?r=https://bitpay.com/i/CtcM753gnZ4Wpr5pmXU6i9',
         'bitcoincash:?r=https://bitpay.com/i/Rtz1RwWA7kdRRU3Wyo4YDY'
       ];
       data.forEach(element => {
@@ -250,10 +250,10 @@ describe('Provider: Incoming Data Provider', () => {
     });
     it('Should handle Bitcoin URI', () => {
       let data = [
-        'bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa', // Genesis Bitcoin Address
-        'bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa?message=test%20message', // Bitcoin Address with message and not amount
-        'bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa?amount=1.0000', // Bitcoin Address with amount
-        'bitcoin:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa?amount=1.0000&label=Genesis%20Bitcoin%20Address&message=test%20message' // Basic Payment Protocol
+        'actinium:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa', // Genesis Bitcoin Address
+        'actinium:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa?message=test%20message', // Bitcoin Address with message and not amount
+        'actinium:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa?amount=1.0000', // Bitcoin Address with amount
+        'actinium:1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa?amount=1.0000&label=Genesis%20Bitcoin%20Address&message=test%20message' // Basic Payment Protocol
       ];
       data.forEach(element => {
         let parsed = bwcProvider.getBitcore().URI(element);
@@ -301,7 +301,7 @@ describe('Provider: Incoming Data Provider', () => {
 
       let parsed = bwcProvider
         .getBitcore()
-        .URI(data.replace(/^bitcoincash:/, 'bitcoin:'));
+        .URI(data.replace(/^bitcoincash:/, 'actinium:'));
 
       let oldAddr = parsed.address ? parsed.address.toString() : '';
 
@@ -338,7 +338,7 @@ describe('Provider: Incoming Data Provider', () => {
 
       let parsed = bwcProvider
         .getBitcore()
-        .URI(data.replace(/^bchtest:/, 'bitcoin:'));
+        .URI(data.replace(/^bchtest:/, 'actinium:'));
 
       let oldAddr = parsed.address ? parsed.address.toString() : '';
 

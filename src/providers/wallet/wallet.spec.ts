@@ -130,10 +130,10 @@ describe('Provider: Wallet Provider', () => {
       expect(protocol).toEqual('bchtest');
     });
 
-    it('should return bitcoin if coin is btc', () => {
+    it('should return actinium if coin is btc', () => {
       let coin = 'btc';
       let protocol = walletProvider.getProtocolHandler(coin);
-      expect(protocol).toEqual('bitcoin');
+      expect(protocol).toEqual('actinium');
     });
   });
 });

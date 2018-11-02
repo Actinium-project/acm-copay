@@ -635,7 +635,7 @@ export class BitPayCardTopUpPage {
         break;
       case 'minerFee':
         url =
-          'https://support.bitpay.com/hc/en-us/articles/115003393863-What-are-bitcoin-miner-fees-Why-are-miner-fees-so-high-';
+          'https://support.bitpay.com/hc/en-us/articles/115003393863-What-are-actinium-miner-fees-Why-are-miner-fees-so-high-';
         title = this.translate.instant('Miner Fee');
         break;
     }

@@ -113,7 +113,7 @@ msgstr ""
 msgid "All addresses"
 msgstr ""
 
-msgid "All of your bitcoin wallet balance may not be available for immediate spending."
+msgid "All of your actinium wallet balance may not be available for immediate spending."
 msgstr "모든 비트코인 지갑 잔액은 즉각적으로 지출할 수 없습니다."
 
 msgid "Allow camera access"
@@ -149,7 +149,7 @@ msgstr "금액이 너무 큽니다"
 msgid "An update to this app is available. For your security, please update to the latest version."
 msgstr "이 앱의 업데이트 버전을 이용하실 수 있습니다. 보안을 위해, 최신 버전을 업데이트해주세요."
 
-msgid "Anyone with your recovery phrase can access or spend your bitcoin."
+msgid "Anyone with your recovery phrase can access or spend your actinium."
 msgstr ""
 
 msgid "Apply changes"
@@ -551,7 +551,7 @@ msgstr ""
 msgid "Create a new wallet to start using this app."
 msgstr ""
 
-msgid "Create bitcoin wallet"
+msgid "Create actinium wallet"
 msgstr "비트코인 지갑 만들기"
 
 msgid "Create personal wallet"
@@ -662,7 +662,7 @@ msgstr ""
 msgid "Duplicating wallet..."
 msgstr "지갑 복제 중..."
 
-msgid "Each bitcoin wallet can generate billions of addresses from your 12-word recovery phrase. A new address is automatically generated and shown each time you receive a payment."
+msgid "Each actinium wallet can generate billions of addresses from your 12-word recovery phrase. A new address is automatically generated and shown each time you receive a payment."
 msgstr ""
 
 msgid "Economy"
@@ -962,7 +962,7 @@ msgstr ""
 msgid "I understand"
 msgstr "이해합니다"
 
-msgid "I understand that if this app is moved to another device or deleted, my bitcoin can only be recovered with the recovery phrase"
+msgid "I understand that if this app is moved to another device or deleted, my actinium can only be recovered with the recovery phrase"
 msgstr ""
 
 msgid "I understand that my funds are held securely on this device, not by a company"
@@ -1229,7 +1229,7 @@ msgstr ""
 msgid "No Private Key"
 msgstr ""
 
-msgid "No backup, no bitcoin."
+msgid "No backup, no actinium."
 msgstr "백업도, 비트코인도 없습니다."
 
 msgid "No contacts yet"
@@ -1298,7 +1298,7 @@ msgstr ""
 msgid "Not right now"
 msgstr ""
 
-msgid "Not valid bitcoin address"
+msgid "Not valid actinium address"
 msgstr ""
 
 msgid "Note"
@@ -1400,7 +1400,7 @@ msgstr ""
 msgid "Paste this code on {website}. This gift card cannot be recovered if your claim code is lost."
 msgstr ""
 
-msgid "Pay 0% fees to turn bitcoin into dollars."
+msgid "Pay 0% fees to turn actinium into dollars."
 msgstr "비트코인을 달러로 바꾸는데 0%의 수수료가 듭니다."
 
 msgid "Pay To"
@@ -1688,7 +1688,7 @@ msgstr ""
 msgid "Search a contact"
 msgstr ""
 
-msgid "Search or enter bitcoin address"
+msgid "Search or enter actinium address"
 msgstr "비트코인 주소를 검색 또는 입력해주세요"
 
 msgid "Search your currency"
@@ -1895,7 +1895,7 @@ msgstr "지갑 스윕 중..."
 msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "이 작업은 되돌릴 수 없습니다"
 
-msgid "Take control of your money, get started with bitcoin."
+msgid "Take control of your money, get started with actinium."
 msgstr ""
 
 msgid "Tap and hold to show"
@@ -1925,13 +1925,13 @@ msgstr ""
 msgid "The Wallet Service URL"
 msgstr ""
 
-msgid "The amount of bitcoin immediately spendable from this wallet."
+msgid "The amount of actinium immediately spendable from this wallet."
 msgstr "이 지갑에서 즉시 사용 가능한 비트코인 양."
 
-msgid "The amount of bitcoin stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
+msgid "The amount of actinium stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
 msgstr "귀하의 보류 중인 거래 제안에 입금된 이 지갑에 저장된 비트코인 양. 이 양은 이 지갑과 관련된 미사용 거래 출금을 사용하여 결정되며 보류 중인 거래 제안과 관련된 실제 양보다 많을 수 있습니다."
 
-msgid "The amount of bitcoin stored in this wallet with less than 1 blockchain confirmation."
+msgid "The amount of actinium stored in this wallet with less than 1 blockchain confirmation."
 msgstr "1 블록체인 확인 미만의 이 지갑에 저장된 비트코인 양."
 
 msgid "The derivation path"
@@ -1973,10 +1973,10 @@ msgstr "서버가 이해할 수 없는 요청입니다"
 msgid "The spend proposal is not pending"
 msgstr "보류 중인 지출 제안이 아닙니다"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or bitcoin testers to experiment, without having to use real bitcoins."
+msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
 msgstr ""
 
-msgid "The total amount of bitcoin stored in this wallet."
+msgid "The total amount of actinium stored in this wallet."
 msgstr "이 지갑에 저장된 비트코인 양 합계."
 
 msgid "The transaction history and every new incoming transaction are cached in the app. This feature clean this up and synchronizes again from the server"
@@ -1997,10 +1997,10 @@ msgstr ""
 msgid "This app is not available for your device."
 msgstr ""
 
-msgid "This app stores your bitcoin with cutting-edge security."
+msgid "This app stores your actinium with cutting-edge security."
 msgstr "이 앱은 최첨단 보안 기능으로 귀하의 비트코인을 저장합니다."
 
-msgid "This bitcoin payment request has expired."
+msgid "This actinium payment request has expired."
 msgstr "이 비트코인 지불 요청은 만료되었습니다."
 
 msgid "This field is only for users who, in previous versions (it's not supported anymore), set a password to protect their recovery phrase. This field is not for your encrypt password."
@@ -2033,7 +2033,7 @@ msgstr "타임라인"
 msgid "To"
 msgstr "수신:"
 
-msgid "To get started, you'll need to create a bitcoin wallet and get some bitcoin."
+msgid "To get started, you'll need to create a actinium wallet and get some actinium."
 msgstr "시작하시려면, 비트코인 지갑을 생성하셔야 합니다."
 
 msgid "To {{reason}} you must first add your BitPay account - {{email}}"
@@ -2108,7 +2108,7 @@ msgstr ""
 msgid "Try again in {{expires}}"
 msgstr "{{expires}} 내에 다시 시도해주세요"
 
-msgid "Turn bitcoin into dollars, swipe anywhere Visa® is accepted."
+msgid "Turn actinium into dollars, swipe anywhere Visa® is accepted."
 msgstr ""
 
 msgid "Type the recovery phrase (usually 12 words)"
@@ -2384,13 +2384,13 @@ msgstr ""
 msgid "You can make contributions by signing up on our Crowdin community translation website. We’re looking forward to hearing from you!"
 msgstr "저희의 Crowdin 커뮤니티 번역 웹사이트에 가입하여 기여하실 수 있습니다. 귀하의 소식을 기다리겠습니다!"
 
-msgid "You can scan bitcoin addresses, payment requests, paper wallets, and more."
+msgid "You can scan actinium addresses, payment requests, paper wallets, and more."
 msgstr "비트코인 주소, 지불 요청, 페이퍼 지갑 등을 스캔하실 수 있습니다."
 
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
 msgstr "GitHub에서 저희의 프로젝트에 방문하여 이 오픈 소스 앱에 기여하시거나 최신 개발 사항을 확인하실 수 있습니다."
 
-msgid "You can spend bitcoin at millions of websites and stores worldwide."
+msgid "You can spend actinium at millions of websites and stores worldwide."
 msgstr "전 세계 수백만 웹사이트 및 상점에서 비트코인을 사용하실 수 있습니다."
 
 msgid "You can still export it from \"Export Wallet\" option."
@@ -2402,7 +2402,7 @@ msgstr "US 달러, 유로 또는 파운드와 같은 다른 통화로 바꾸실 
 msgid "You can use your Mercado Livre gift cards on your Mercado Pago account for everyday expenses like utilities and metro rides."
 msgstr ""
 
-msgid "You control your bitcoin."
+msgid "You control your actinium."
 msgstr "귀하의 비트코인을 제어하실 수 있습니다."
 
 msgid "You could sign the transaction later in your wallet details"
@@ -2414,10 +2414,10 @@ msgstr "수수료를 {{maxFeeRecommended}} satoshis/byte보다 높게 설정하�
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr "귀하의 BitPay 카드가 준비되었습니다. 전 세계 상점 및 ATM에서 이용하시려면 카드에 자금을 추가해주세요."
 
-msgid "Your bitcoin wallet is ready!"
+msgid "Your actinium wallet is ready!"
 msgstr "귀하의 비트코인 지갑이 준비되었습니다!"
 
-msgid "Your extended private keys are all that is needed to access your bitcoin funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
+msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
 msgstr ""
 
 msgid "Your fee is lower than recommended."
@@ -2468,7 +2468,7 @@ msgstr ""
 msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (BitPay's public BWS instance)."
 msgstr ""
 
-msgid "{{fee}} {{coin}} will be deducted for bitcoin networking fees."
+msgid "{{fee}} {{coin}} will be deducted for actinium networking fees."
 msgstr ""
 
 msgid "{{updatingTxHistoryProgress}} transactions downloaded"

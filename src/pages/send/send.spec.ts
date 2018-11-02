@@ -214,12 +214,12 @@ describe('SendPage', () => {
         instance.navParams.data.amount = undefined;
         instance.navParams.data.coin = undefined;
         instance.search =
-          'bitcoin:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
+          'actinium:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeFalsy();
         expect(redirSpy).toHaveBeenCalledWith(
-          'bitcoin:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e',
+          'actinium:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e',
           {
             amount: undefined,
             coin: undefined
@@ -298,7 +298,7 @@ describe('SendPage', () => {
           'getPayProDetails'
         ).and.returnValue(mockPayPro);
         instance.search =
-          'bitcoin:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ';
+          'actinium:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeTruthy();
@@ -341,12 +341,12 @@ describe('SendPage', () => {
         instance.navParams.data.amount = undefined;
         instance.navParams.data.coin = undefined;
         instance.search =
-          'bitcoin:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ';
+          'actinium:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeFalsy();
         expect(redirSpy).toHaveBeenCalledWith(
-          'bitcoin:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ',
+          'actinium:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ',
           {
             amount: undefined,
             coin: undefined
@@ -425,7 +425,7 @@ describe('SendPage', () => {
           'getPayProDetails'
         ).and.returnValue(mockPayPro);
         instance.search =
-          'bitcoin:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
+          'actinium:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeTruthy();
@@ -516,7 +516,7 @@ describe('SendPage', () => {
           'getPayProDetails'
         ).and.returnValue(mockPayPro);
         instance.search =
-          'bitcoin:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
+          'actinium:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeTruthy();
@@ -552,7 +552,7 @@ describe('SendPage', () => {
           'getPayProDetails'
         ).and.returnValue(mockPayPro);
         instance.search =
-          'bitcoin:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ';
+          'actinium:?r=https://test.bitpay.com/i/S5jbsUtrHVuvYQN6XHPuvJ';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeTruthy();
@@ -647,7 +647,7 @@ describe('SendPage', () => {
           'getPayProDetails'
         ).and.returnValue(mockPayPro);
         instance.search =
-          'bitcoin:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
+          'actinium:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeTruthy();
@@ -665,7 +665,7 @@ describe('SendPage', () => {
           'getPayProDetails'
         ).and.returnValue(mockPayPro);
         instance.search =
-          'bitcoin:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
+          'actinium:?r=https://bitpay.com/i/MB6kXuVY9frBW1DyoZkE5e';
         instance.processInput();
         tick();
         expect(instance.invalidAddress).toBeTruthy();

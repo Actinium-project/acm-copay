@@ -42,7 +42,7 @@
       <div class="send-header-wrapper">
         <span class="send-heading" translate>Recipient</span>
         <ion-item class="search-wrapper" [ngClass]="{'invalid': invalidAddress && search != ''}">
-          <ion-input placeholder="{{'Search or enter bitcoin address' | translate}}" [(ngModel)]="search" (ngModelChange)="processInput()"></ion-input>
+          <ion-input placeholder="{{'Search or enter actinium address' | translate}}" [(ngModel)]="search" (ngModelChange)="processInput()"></ion-input>
           <ion-icon *ngIf="invalidAddress && search != ''" item-end class="backspace-icon" name="backspace" (click)="search = ''"></ion-icon>
           <ion-icon item-end class="scan-icon" (click)="openScanner()">
             <img src="assets/img/scan-ico.svg">
@@ -125,7 +125,7 @@
       </div>
     </div>
     <div *ngIf="!hasBtcWallets && !hasBchWallets" class="no-wallet-message">
-      <span translate>To get started, you'll need to create a bitcoin wallet and get some bitcoin.</span>
+      <span translate>To get started, you'll need to create a actinium wallet and get some actinium.</span>
     </div>
   </div>
 </ion-content>

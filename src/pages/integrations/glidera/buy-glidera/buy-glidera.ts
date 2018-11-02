@@ -149,7 +149,7 @@ export class BuyGlideraPage {
   }
 
   public buyConfirm(): void {
-    let message = 'Buy bitcoin for ' + this.amount + ' ' + this.currency;
+    let message = 'Buy actinium for ' + this.amount + ' ' + this.currency;
     let okText = 'Confirm';
     let cancelText = 'Cancel';
     this.popupProvider

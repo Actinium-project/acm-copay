@@ -12,12 +12,12 @@ describe('AddressProvider', () => {
   describe('getCoin', () => {
     let BTCLivenetAddresses = [
       '15qT4RJTjs7GSTReEmgXr4LbMjTVQ51LZA',
-      'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'
+      'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'
     ];
 
     let BTCTestnetAddresses = [
       'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY',
-      'bitcoin:n3LHh1WTFSpSVKXNFQo4U5eLAqowCadFHY'
+      'actinium:n3LHh1WTFSpSVKXNFQo4U5eLAqowCadFHY'
     ];
 
     let BCHLivenetAddresses = [
@@ -147,7 +147,7 @@ describe('AddressProvider', () => {
       let result = addressProvider.getNetwork(BTCLivenetAddress);
       expect(result).toEqual('livenet');
 
-      BTCLivenetAddress = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69';
+      BTCLivenetAddress = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69';
       result = addressProvider.getNetwork(BTCLivenetAddress);
       expect(result).toEqual('livenet');
     });
@@ -157,7 +157,7 @@ describe('AddressProvider', () => {
       let result = addressProvider.getNetwork(BTCTestnetAddress);
       expect(result).toEqual('testnet');
 
-      BTCTestnetAddress = 'bitcoin:n3LHh1WTFSpSVKXNFQo4U5eLAqowCadFHY';
+      BTCTestnetAddress = 'actinium:n3LHh1WTFSpSVKXNFQo4U5eLAqowCadFHY';
       result = addressProvider.getNetwork(BTCTestnetAddress);
       expect(result).toEqual('testnet');
     });
@@ -202,7 +202,7 @@ describe('AddressProvider', () => {
       );
       expect(result).toEqual(true);
 
-      BTCLivenetAddress = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69';
+      BTCLivenetAddress = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69';
       result = addressProvider.checkCoinAndNetworkFromAddr(
         coin,
         network,
@@ -222,7 +222,7 @@ describe('AddressProvider', () => {
       );
       expect(result).toEqual(true);
 
-      BTCTestnetAddress = 'bitcoin:n3LHh1WTFSpSVKXNFQo4U5eLAqowCadFHY';
+      BTCTestnetAddress = 'actinium:n3LHh1WTFSpSVKXNFQo4U5eLAqowCadFHY';
       result = addressProvider.checkCoinAndNetworkFromAddr(
         coin,
         network,
@@ -296,7 +296,7 @@ describe('AddressProvider', () => {
 
       coin = 'bch';
       network = 'livenet';
-      address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet
       result = addressProvider.checkCoinAndNetworkFromAddr(
         coin,
         network,
@@ -390,11 +390,11 @@ describe('AddressProvider', () => {
       let result = addressProvider.extractAddress(address);
       expect(result).toEqual('1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69');
 
-      address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
       result = addressProvider.extractAddress(address);
       expect(result).toEqual('1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69');
 
-      address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
       result = addressProvider.extractAddress(address);
       expect(result).toEqual('1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69');
     });
@@ -430,11 +430,11 @@ describe('AddressProvider', () => {
       let result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
     });
@@ -444,11 +444,11 @@ describe('AddressProvider', () => {
       let result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // BTC livenet with prefix
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
 
-      address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
+      address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=0.00090000'; // BTC livenet uri
       result = addressProvider.isValid(address);
       expect(result).toEqual(true);
     });
@@ -481,7 +481,7 @@ describe('AddressProvider', () => {
     }); */
 
     it('should return false for invalid uri', () => {
-      let address = 'bitcoin:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=invalid';
+      let address = 'actinium:1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69?amount=invalid';
       let result = addressProvider.isValid(address);
       expect(result).toEqual(false);
 

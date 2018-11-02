@@ -28,7 +28,7 @@ export type InfoSheetType =
   | 'miner-fee-notice'
   | 'payment-request'
   | 'persistent-logs'
-  | 'receiving-bitcoin'
+  | 'receiving-actinium'
   | 'sensitive-info'
   | 'electron-info';
 

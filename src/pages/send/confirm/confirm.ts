@@ -765,7 +765,7 @@ export class ConfirmPage extends WalletTabsChild {
     this.hideSlideButton = true;
     if (this.paymentExpired) {
       this.showErrorInfoSheet(
-        this.translate.instant('This bitcoin payment request has expired.')
+        this.translate.instant('This actinium payment request has expired.')
       );
       return undefined;
     }

@@ -427,7 +427,7 @@ export class ShapeshiftConfirmPage {
       let fee = this.sendMaxInfo.fee / 1e8;
       let msg = this.replaceParametersProvider.replace(
         this.translate.instant(
-          '{{fee}} {{coin}} will be deducted for bitcoin networking fees.'
+          '{{fee}} {{coin}} will be deducted for actinium networking fees.'
         ),
         { fee, coin: this.fromWallet.coin.toUpperCase() }
       );

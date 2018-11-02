@@ -58,7 +58,7 @@ export class IncomingDataProvider {
 
   private isValidPayProNonBackwardsCompatible(data: string): boolean {
     data = this.sanitizeUri(data);
-    return !!/^bitcoin(cash)?:\?r=[\w+]/.exec(data);
+    return !!/^actinium(cash)?:\?r=[\w+]/.exec(data);
   }
 
   private isValidBitcoinUri(data: string): boolean {
@@ -75,7 +75,7 @@ export class IncomingDataProvider {
     data = this.sanitizeUri(data);
     return !!this.bwcProvider
       .getBitcore()
-      .URI.isValid(data.replace(/^(bitcoincash:|bchtest:)/, 'bitcoin:'));
+      .URI.isValid(data.replace(/^(bitcoincash:|bchtest:)/, 'actinium:'));
   }
 
   private isValidPlainUrl(data: string): boolean {
@@ -169,7 +169,7 @@ export class IncomingDataProvider {
       'Incoming-data: Payment Protocol with non-backwards-compatible request'
     );
     let coin = data.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.BTC;
-    data = decodeURIComponent(data.replace(/bitcoin(cash)?:\?r=/, ''));
+    data = decodeURIComponent(data.replace(/actinium(cash)?:\?r=/, ''));
 
     this.goToPayPro(data, coin);
   }
@@ -212,7 +212,7 @@ export class IncomingDataProvider {
     const coin = Coin.BCH;
     let parsed = this.bwcProvider
       .getBitcore()
-      .URI(data.replace(/^(bitcoincash:|bchtest:)/, 'bitcoin:'));
+      .URI(data.replace(/^(bitcoincash:|bchtest:)/, 'actinium:'));
 
     let oldAddr = parsed.address ? parsed.address.toString() : '';
     if (!oldAddr)
@@ -700,7 +700,7 @@ export class IncomingDataProvider {
 
   public getPayProDetails(data: string): Promise<any> {
     let coin: string = data.indexOf('bitcoincash') === 0 ? Coin.BCH : Coin.BTC;
-    data = decodeURIComponent(data.replace(/bitcoin(cash)?:\?r=/, ''));
+    data = decodeURIComponent(data.replace(/actinium(cash)?:\?r=/, ''));
 
     let disableLoader = true;
     return this.payproProvider.getPayProDetails(data, coin, disableLoader);

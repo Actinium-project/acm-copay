@@ -46,10 +46,10 @@ Name: "{commondesktop}\{#MyAppName}"; Filename: "{app}\{#MyAppExeName}"; IconFil
 Filename: "{app}\{#MyAppExeName}"; Description: "{cm:LaunchProgram,{#StringChange(MyAppName, '&', '&&')}}"; Flags: nowait postinstall skipifsilent
 
 [Registry]
-Root: HKCR; Subkey: "bitcoin"; ValueType: "string"; ValueData: "URL:Bitcoin Custom Protocol"; Flags: uninsdeletekey
-Root: HKCR; Subkey: "bitcoin"; ValueType: "string"; ValueName: "URL Protocol"; ValueData: ""
-Root: HKCR; Subkey: "bitcoin\DefaultIcon"; ValueType: "string"; ValueData: "{app}\{#MyAppExeName},0"
-Root: HKCR; Subkey: "bitcoin\shell\open\command"; ValueType: "string"; ValueData: """{app}\{#MyAppExeName}"" ""%1"""
+Root: HKCR; Subkey: "actinium"; ValueType: "string"; ValueData: "URL:Actinium Custom Protocol"; Flags: uninsdeletekey
+Root: HKCR; Subkey: "actinium"; ValueType: "string"; ValueName: "URL Protocol"; ValueData: ""
+Root: HKCR; Subkey: "actinium\DefaultIcon"; ValueType: "string"; ValueData: "{app}\{#MyAppExeName},0"
+Root: HKCR; Subkey: "actinium\shell\open\command"; ValueType: "string"; ValueData: """{app}\{#MyAppExeName}"" ""%1"""
 
 Root: HKCR; Subkey: "bitcoincash"; ValueType: "string"; ValueData: "URL:Bitcoin Cash Custom Protocol"; Flags: uninsdeletekey
 Root: HKCR; Subkey: "bitcoincash"; ValueType: "string"; ValueName: "URL Cash Protocol"; ValueData: ""

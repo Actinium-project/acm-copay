@@ -425,9 +425,9 @@ export class CopayApp {
     if (pathData.indexOf('bitcoincash:/') != -1) {
       this.logger.debug('Bitcoin Cash URL found');
       this.handleOpenUrl(pathData.substring(pathData.indexOf('bitcoincash:/')));
-    } else if (pathData.indexOf('bitcoin:/') != -1) {
-      this.logger.debug('Bitcoin URL found');
-      this.handleOpenUrl(pathData.substring(pathData.indexOf('bitcoin:/')));
+    } else if (pathData.indexOf('actinium:/') != -1) {
+      this.logger.debug('Actinium URL found');
+      this.handleOpenUrl(pathData.substring(pathData.indexOf('actinium:/')));
     } else if (pathData.indexOf(this.appProvider.info.name + '://') != -1) {
       this.logger.debug(this.appProvider.info.name + ' URL found');
       this.handleOpenUrl(

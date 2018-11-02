@@ -27,12 +27,12 @@
           <span *ngIf="tx.type == 'sell'">Sold</span>
         </div>
         <div *ngIf="tx.type == 'send' && (tx.to || tx.from) && tx.status != 'completed'">
-          <span *ngIf="tx.to">Receiving purchased bitcoin</span>
-          <span *ngIf="tx.from">Sending bitcoin to sell</span>
+          <span *ngIf="tx.to">Receiving purchased actinium</span>
+          <span *ngIf="tx.from">Sending actinium to sell</span>
         </div>
         <div *ngIf="(tx.type == 'sell' || tx.type == 'buy') && tx.status != 'completed'">
-          <span *ngIf="tx.type == 'buy'">Buying bitcoin</span>
-          <span *ngIf="tx.type == 'sell'">Selling bitcoin</span>
+          <span *ngIf="tx.type == 'buy'">Buying actinium</span>
+          <span *ngIf="tx.type == 'sell'">Selling actinium</span>
         </div>
       </div>
       <div class="price">
@@ -100,8 +100,8 @@
 
     <ion-item *ngIf="tx.description">
       <ion-label>
-        <span *ngIf="tx.from && tx.type == 'send'">Sent bitcoin from</span>
-        <span *ngIf="tx.to && tx.type == 'send'">Receive bitcoin in</span>
+        <span *ngIf="tx.from && tx.type == 'send'">Sent actinium from</span>
+        <span *ngIf="tx.to && tx.type == 'send'">Receive actinium in</span>
       </ion-label>
       <ion-note item-end>
         {{tx.description}}
