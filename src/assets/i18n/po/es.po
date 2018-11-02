@@ -282,7 +282,7 @@ msgid "Broadcasting transaction..."
 msgstr "Finalizando transacción..."
 
 msgid "Buying Bitcoin..."
-msgstr "Comprando Bitcoins..."
+msgstr "Comprando Actiniums..."
 
 msgid "Buying Gift Card..."
 msgstr "Comprando Tarjeta de Regalo..."
@@ -1710,7 +1710,7 @@ msgid "Self-signed Certificate"
 msgstr "Certificado autofirmado"
 
 msgid "Selling Bitcoin..."
-msgstr "Vendiendo Bitcoins..."
+msgstr "Vendiendo Actiniums..."
 
 msgid "Send"
 msgstr "Enviar"

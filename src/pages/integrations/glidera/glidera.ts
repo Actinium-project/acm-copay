@@ -161,7 +161,7 @@ export class GlideraPage {
     this.navCtrl.push(AmountPage, {
       nextPage: 'BuyGlideraPage',
       currency: this.currency,
-      coin: 'btc',
+      coin: 'acm',
       fixedUnit: true
     });
   }
@@ -170,7 +170,7 @@ export class GlideraPage {
     this.navCtrl.push(AmountPage, {
       nextPage: 'SellGlideraPage',
       currency: this.currency,
-      coin: 'btc',
+      coin: 'acm',
       fixedUnit: true
     });
   }

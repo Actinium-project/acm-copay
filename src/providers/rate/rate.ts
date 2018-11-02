@@ -105,7 +105,7 @@ export class RateProvider {
 
   public toFiat(satoshis: number, code: string, chain: string): number {
     if (
-      (!this.isBtcAvailable() && chain == 'btc') ||
+      (!this.isBtcAvailable() && chain == 'acm') ||
       (!this.isBchAvailable() && chain == 'bch')
     ) {
       return null;
@@ -115,7 +115,7 @@ export class RateProvider {
 
   public fromFiat(amount: number, code: string, chain: string): number {
     if (
-      (!this.isBtcAvailable() && chain == 'btc') ||
+      (!this.isBtcAvailable() && chain == 'acm') ||
       (!this.isBchAvailable() && chain == 'bch')
     ) {
       return null;
@@ -141,12 +141,12 @@ export class RateProvider {
   public whenRatesAvailable(chain: string): Promise<any> {
     return new Promise(resolve => {
       if (
-        (this.ratesBtcAvailable && chain == 'btc') ||
+        (this.ratesBtcAvailable && chain == 'acm') ||
         (this.ratesBchAvailable && chain == 'bch')
       )
         resolve();
       else {
-        if (chain == 'btc') {
+        if (chain == 'acm') {
           this.updateRatesBtc().then(() => {
             resolve();
           });

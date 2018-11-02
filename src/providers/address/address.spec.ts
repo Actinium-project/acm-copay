@@ -34,15 +34,15 @@ describe('AddressProvider', () => {
       'BCHTEST:qqycye950l689c98l7z5j43n4484ssnp4y3uu4ramr'
     ];
 
-    it("should get 'btc' string if address is ACM Livenet", () => {
+    it("should get 'acm' string if address is ACM Livenet", () => {
       BTCLivenetAddresses.forEach(BTCLivenetAddress => {
-        expect(addressProvider.getCoin(BTCLivenetAddress)).toEqual('btc');
+        expect(addressProvider.getCoin(BTCLivenetAddress)).toEqual('acm');
       });
     });
 
-    it("should get 'btc' string if address is ACM Testnet", () => {
+    it("should get 'acm' string if address is ACM Testnet", () => {
       BTCTestnetAddresses.forEach(BTCTestnetAddress => {
-        expect(addressProvider.getCoin(BTCTestnetAddress)).toEqual('btc');
+        expect(addressProvider.getCoin(BTCTestnetAddress)).toEqual('acm');
       });
     });
 
@@ -67,9 +67,9 @@ describe('AddressProvider', () => {
         address: '15qT4RJTjs7GSTReEmgXr4LbMjTVQ51LZA',
         isValid: true,
         network: 'livenet',
-        coin: 'btc',
+        coin: 'acm',
         translation: {
-          origCoin: 'btc',
+          origCoin: 'acm',
           origAddress: '15qT4RJTjs7GSTReEmgXr4LbMjTVQ51LZA',
           resultCoin: 'bch',
           resultAddress: 'CMJLdTeXcv5oLbL4vX1TRZxcyrfuLP7NP2'
@@ -84,9 +84,9 @@ describe('AddressProvider', () => {
         address: 'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY',
         isValid: true,
         network: 'testnet',
-        coin: 'btc',
+        coin: 'acm',
         translation: {
-          origCoin: 'btc',
+          origCoin: 'acm',
           origAddress: 'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY',
           resultCoin: 'bch',
           resultAddress: 'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY'
@@ -105,7 +105,7 @@ describe('AddressProvider', () => {
         translation: {
           origCoin: 'bch',
           origAddress: 'qq9jk8jskjsmgqnzygwjsghp3knautm2dcnc5e4k7n',
-          resultCoin: 'btc',
+          resultCoin: 'acm',
           resultAddress: '122462mHhZgJqwqGfmmSjFHJcU4pjCKuV9'
         }
       });
@@ -122,7 +122,7 @@ describe('AddressProvider', () => {
         translation: {
           origCoin: 'bch',
           origAddress: 'qqr99gt5qdk4qyaxxvzeapgjuxkg6x9ueue95fakj7',
-          resultCoin: 'btc',
+          resultCoin: 'acm',
           resultAddress: 'mg6PLV5yyUS6Gy55fJ7f994dQ7RpfJNYC9'
         }
       });
@@ -192,7 +192,7 @@ describe('AddressProvider', () => {
 
   describe('checkCoinAndNetworkFromAddr', () => {
     it('should return true if use correct coin and network for ACM livenet address', () => {
-      let coin = 'btc';
+      let coin = 'acm';
       let network = 'livenet';
       let BTCLivenetAddress = '15qT4RJTjs7GSTReEmgXr4LbMjTVQ51LZA';
       let result = addressProvider.checkCoinAndNetworkFromAddr(
@@ -212,7 +212,7 @@ describe('AddressProvider', () => {
     });
 
     it('should return true if use correct coin and network for ACM testnet address', () => {
-      let coin = 'btc';
+      let coin = 'acm';
       let network = 'testnet';
       let BTCTestnetAddress = 'mscoRRUxbicZdUms3EqDr9jwtCmbbPgfcY';
       let result = addressProvider.checkCoinAndNetworkFromAddr(
@@ -274,7 +274,7 @@ describe('AddressProvider', () => {
     });
 
     it('should return false if we send an invalid address, coin or network', () => {
-      let coin = 'btc';
+      let coin = 'acm';
       let network = 'livenet';
       let address = 'invalidAddress';
       let result = addressProvider.checkCoinAndNetworkFromAddr(
@@ -284,7 +284,7 @@ describe('AddressProvider', () => {
       );
       expect(result).toBeFalsy();
 
-      coin = 'btc';
+      coin = 'acm';
       network = 'testnet';
       address = '1CVuVALD6Zo7ms24n3iUXv162kvUzsHr69'; // ACM livenet
       result = addressProvider.checkCoinAndNetworkFromAddr(
@@ -314,7 +314,7 @@ describe('AddressProvider', () => {
       );
       expect(result).toBeFalsy();
 
-      coin = 'btc';
+      coin = 'acm';
       network = 'livenet';
       address = 'BITCOINCASH:qz8ds306px5n65gffn8u69vvnksfw6huwyjczrvkh3'; // BCH livenet
       result = addressProvider.checkCoinAndNetworkFromAddr(
@@ -328,10 +328,10 @@ describe('AddressProvider', () => {
 
   describe('checkCoinAndNetworkFromPayPro', () => {
     it('should return true if use correct coin and network for paypro details', () => {
-      let coin = 'btc';
+      let coin = 'acm';
       let network = 'livenet';
       let payproDetails = {
-        coin: 'btc',
+        coin: 'acm',
         network: 'livenet'
       };
       let result = addressProvider.checkCoinAndNetworkFromPayPro(
@@ -356,10 +356,10 @@ describe('AddressProvider', () => {
     });
 
     it('should return false if use incorrect coin or network for paypro details', () => {
-      let coin = 'btc';
+      let coin = 'acm';
       let network = 'testnet';
       let payproDetails = {
-        coin: 'btc',
+        coin: 'acm',
         network: 'livenet'
       };
       let result = addressProvider.checkCoinAndNetworkFromPayPro(
@@ -372,7 +372,7 @@ describe('AddressProvider', () => {
       coin = 'bch';
       network = 'livenet';
       payproDetails = {
-        coin: 'btc',
+        coin: 'acm',
         network: 'livenet'
       };
       result = addressProvider.checkCoinAndNetworkFromPayPro(

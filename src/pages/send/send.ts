@@ -96,7 +96,7 @@ export class SendPage extends WalletTabsChild {
   }
 
   ionViewWillEnter() {
-    this.walletsBtc = this.profileProvider.getWallets({ coin: 'btc' });
+    this.walletsBtc = this.profileProvider.getWallets({ coin: 'acm' });
     this.walletsBch = this.profileProvider.getWallets({ coin: 'bch' });
     this.hasBtcWallets = !_.isEmpty(this.walletsBtc);
     this.hasBchWallets = !_.isEmpty(this.walletsBch);
@@ -188,7 +188,8 @@ export class SendPage extends WalletTabsChild {
 
   public async goToReceive() {
     await this.walletTabsProvider.goToTabIndex(0);
-    const coinName = this.wallet.coin === Coin.BTC ? 'actinium' : 'bitcoin cash';
+    const coinName =
+      this.wallet.coin === Coin.BTC ? 'actinium' : 'bitcoin cash';
     const infoSheet = this.actionSheetProvider.createInfoSheet(
       'receiving-bitcoin',
       { coinName }
@@ -351,7 +352,7 @@ export class SendPage extends WalletTabsChild {
         return _.includes(wallet.name.toLowerCase(), this.search.toLowerCase());
       });
     }
-    if (this.hasBtcWallets && this.wallet.coin === 'btc') {
+    if (this.hasBtcWallets && this.wallet.coin === 'acm') {
       this.filteredWallets = this.walletBtcList.filter(wallet => {
         return _.includes(wallet.name.toLowerCase(), this.search.toLowerCase());
       });

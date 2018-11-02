@@ -521,7 +521,7 @@ export class ConfirmPage extends WalletTabsChild {
   }
 
   protected showHighFeeSheet() {
-    const coinName = this.wallet.coin === 'btc' ? 'Bitcoin' : 'Bitcoin Cash';
+    const coinName = this.wallet.coin === 'acm' ? 'Bitcoin' : 'Bitcoin Cash';
     const minerFeeInfoSheet = this.actionSheetProvider.createInfoSheet(
       'miner-fee',
       { coinName }

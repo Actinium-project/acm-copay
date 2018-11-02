@@ -75,7 +75,7 @@ describe('ImportWalletPage', () => {
       let info = {
         derivationPath: "m/44'/0'/0'",
         bwsURL: '',
-        coin: 'btc',
+        coin: 'acm',
         words: 'mom mom mom mom mom mom mom mom mom mom mom mom'
       };
 
@@ -92,7 +92,7 @@ describe('ImportWalletPage', () => {
       let info = {
         derivationPath: "m/44'/0'/0'",
         bwsURL: 'https://bws.bitpay.com/bws/api',
-        coin: 'btc',
+        coin: 'acm',
         words: 'mom mom mom mom mom mom mom mom mom mom mom mom',
         backupText: 'test'
       };
@@ -117,7 +117,7 @@ describe('ImportWalletPage', () => {
       let info = {
         derivationPath: "m/44'/0'/0'",
         bwsURL: 'https://bws.bitpay.com/bws/api',
-        coin: 'btc',
+        coin: 'acm',
         words: 'mom1 mom2 mom3 mom4 mom5 mom6 mom7 mom8 mom9 mom10 mom11 mom12',
         backupText: 'test'
       };

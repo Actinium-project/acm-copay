@@ -282,7 +282,7 @@ msgid "Broadcasting transaction..."
 msgstr "Übermittlung der Transaktion..."
 
 msgid "Buying Bitcoin..."
-msgstr "Kaufe Bitcoins..."
+msgstr "Kaufe Actiniums..."
 
 msgid "Buying Gift Card..."
 msgstr "Geschenkkarte kaufen..."
@@ -1071,7 +1071,7 @@ msgid "It's a ghost town in here"
 msgstr ""
 
 msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your bitcoins secure against hypothetical attacks by quantum computers."
-msgstr "Es ist eine gute Idee Adressen nicht wiederzuverwenden - dies schützt Ihre Privatsphäre und hält Ihre Bitcoins vor hypothetischen Angriffen durch Quanten-Computern sicher."
+msgstr "Es ist eine gute Idee Adressen nicht wiederzuverwenden - dies schützt Ihre Privatsphäre und hält Ihre Actiniums vor hypothetischen Angriffen durch Quanten-Computern sicher."
 
 msgid "It's important that you write your recovery phrase down correctly. If something happens to your wallet, you'll need it to recover your money. Please review and try again."
 msgstr ""
@@ -1230,7 +1230,7 @@ msgid "No Private Key"
 msgstr ""
 
 msgid "No backup, no actinium."
-msgstr "Keine Sicherung, keine Bitcoins."
+msgstr "Keine Sicherung, keine Actiniums."
 
 msgid "No contacts yet"
 msgstr "Noch keine Kontakte"
@@ -1401,7 +1401,7 @@ msgid "Paste this code on {website}. This gift card cannot be recovered if your 
 msgstr ""
 
 msgid "Pay 0% fees to turn actinium into dollars."
-msgstr "Zahle 0 % Gebühren um Bitcoins in Dollar zu wechseln."
+msgstr "Zahle 0 % Gebühren um Actiniums in Dollar zu wechseln."
 
 msgid "Pay To"
 msgstr "Zahle an"
@@ -1710,7 +1710,7 @@ msgid "Self-signed Certificate"
 msgstr "Selbstsigniertes Zertifikat"
 
 msgid "Selling Bitcoin..."
-msgstr "Verkauf von Bitcoins..."
+msgstr "Verkauf von Actiniums..."
 
 msgid "Send"
 msgstr "Senden"
@@ -1926,13 +1926,13 @@ msgid "The Wallet Service URL"
 msgstr "Die URL des Wallet-Diensts"
 
 msgid "The amount of actinium immediately spendable from this wallet."
-msgstr "Den Betrag an Bitcoins sofort aus dieser Wallet zahlen."
+msgstr "Den Betrag an Actiniums sofort aus dieser Wallet zahlen."
 
 msgid "The amount of actinium stored in this wallet that is allocated as inputs to your pending transaction proposals. The amount is determined using unspent transaction outputs associated with this wallet and may be more than the actual amounts associated with your pending transaction proposals."
-msgstr "Der Betrag an Bitcoins gespeichert in dieser Wallet ist zugewiesen als Einsatz für die ausstehende Transaktion. Dem Betrag wurde zugewiesen unverbrauchte Transaktions-Ausgänge zu verwenden, welche mit dieser Brieftasche verbunden sind, und entspricht möglicherweise mehr als die tatsächlichen Beträge welche im Zusammenhang mit Ihren ausstehenden Transaktions-Betrag stehen."
+msgstr "Der Betrag an Actiniums gespeichert in dieser Wallet ist zugewiesen als Einsatz für die ausstehende Transaktion. Dem Betrag wurde zugewiesen unverbrauchte Transaktions-Ausgänge zu verwenden, welche mit dieser Brieftasche verbunden sind, und entspricht möglicherweise mehr als die tatsächlichen Beträge welche im Zusammenhang mit Ihren ausstehenden Transaktions-Betrag stehen."
 
 msgid "The amount of actinium stored in this wallet with less than 1 blockchain confirmation."
-msgstr "Die Menge an Bitcoins sind in dieser Geldbörse mit weniger als 1 Blockchain Bestätigung gespeichert."
+msgstr "Die Menge an Actiniums sind in dieser Geldbörse mit weniger als 1 Blockchain Bestätigung gespeichert."
 
 msgid "The derivation path"
 msgstr "Die Ableitungsstruktur"
@@ -1977,7 +1977,7 @@ msgid "The testnet is an alternative Bitcoin block chain, to be used for testing
 msgstr ""
 
 msgid "The total amount of actinium stored in this wallet."
-msgstr "Der Gesamtbetrag an Bitcoins vorrätig in dieser Wallet."
+msgstr "Der Gesamtbetrag an Actiniums vorrätig in dieser Wallet."
 
 msgid "The transaction history and every new incoming transaction are cached in the app. This feature clean this up and synchronizes again from the server"
 msgstr ""
@@ -1998,7 +1998,7 @@ msgid "This app is not available for your device."
 msgstr ""
 
 msgid "This app stores your actinium with cutting-edge security."
-msgstr "Diese App speichert Ihre Bitcoins mit modernster Sicherheit."
+msgstr "Diese App speichert Ihre Actiniums mit modernster Sicherheit."
 
 msgid "This actinium payment request has expired."
 msgstr "Diese Bitcoin Zahlungsaufforderung ist abgelaufen."
@@ -2034,7 +2034,7 @@ msgid "To"
 msgstr "An"
 
 msgid "To get started, you'll need to create a actinium wallet and get some actinium."
-msgstr "Um loszulegen müssen Sie eine Bitcoin-Wallet erstellen und einige Bitcoins erhalten."
+msgstr "Um loszulegen müssen Sie eine Bitcoin-Wallet erstellen und einige Actiniums erhalten."
 
 msgid "To {{reason}} you must first add your BitPay account - {{email}}"
 msgstr ""
@@ -2391,7 +2391,7 @@ msgid "You can see the latest developments and contribute to this open source ap
 msgstr "Sie können auf GitHub die neuesten Entwicklungen ansehen und zu dieser Open-Source App beitragen."
 
 msgid "You can spend actinium at millions of websites and stores worldwide."
-msgstr "Sie können Bitcoins auf Millionen von Webseiten und Shops weltweit ausgeben."
+msgstr "Sie können Actiniums auf Millionen von Webseiten und Shops weltweit ausgeben."
 
 msgid "You can still export it from \"Export Wallet\" option."
 msgstr ""
@@ -2403,7 +2403,7 @@ msgid "You can use your Mercado Livre gift cards on your Mercado Pago account fo
 msgstr ""
 
 msgid "You control your actinium."
-msgstr "Sie kontrollieren Ihre Bitcoins."
+msgstr "Sie kontrollieren Ihre Actiniums."
 
 msgid "You could sign the transaction later in your wallet details"
 msgstr "Sie konnte die Transaktion später in Ihren Brieftasche-Details anmelden."

@@ -45,7 +45,7 @@ export class IncomingDataProvider {
       value = data.value;
     }
     if (redirTo === 'AmountPage') {
-      let coin = data.coin ? data.coin : 'btc';
+      let coin = data.coin ? data.coin : 'acm';
       this.events.publish('finishIncomingDataMenuEvent', {
         redirTo,
         value,

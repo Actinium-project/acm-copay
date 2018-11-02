@@ -233,7 +233,7 @@ export class CoinbasePage {
     this.navCtrl.push(AmountPage, {
       nextPage: 'BuyCoinbasePage',
       currency: this.currency,
-      coin: 'btc',
+      coin: 'acm',
       fixedUnit: true
     });
   }
@@ -242,7 +242,7 @@ export class CoinbasePage {
     this.navCtrl.push(AmountPage, {
       nextPage: 'SellCoinbasePage',
       currency: this.currency,
-      coin: 'btc',
+      coin: 'acm',
       fixedUnit: true
     });
   }

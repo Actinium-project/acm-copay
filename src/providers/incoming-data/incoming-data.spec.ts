@@ -269,7 +269,7 @@ describe('Provider: Incoming Data Provider', () => {
             amount,
             toAddress: addr,
             description: message,
-            coin: 'btc'
+            coin: 'acm'
           };
           let nextView = {
             name: 'ConfirmPage',
@@ -280,7 +280,7 @@ describe('Provider: Incoming Data Provider', () => {
           let stateParams = {
             toAddress: addr,
             description: message,
-            coin: 'btc'
+            coin: 'acm'
           };
           let nextView = {
             name: 'AmountPage',
@@ -379,7 +379,7 @@ describe('Provider: Incoming Data Provider', () => {
           data: {
             data: element,
             type: 'bitcoinAddress',
-            coin: 'btc'
+            coin: 'acm'
           }
         });
       });

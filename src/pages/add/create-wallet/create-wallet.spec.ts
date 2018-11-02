@@ -41,7 +41,7 @@ describe('CreateWalletPage', () => {
         networkName: 'livenet',
         bwsurl: 'https://bws.bitpay.com/bws/api',
         singleAddress: false,
-        coin: 'btc',
+        coin: 'acm',
         mnemonic: 'mom mom mom mom mom mom mom mom mom mom mom mom',
         derivationStrategy: 'BIP44'
       };
@@ -53,7 +53,7 @@ describe('CreateWalletPage', () => {
       instance.createForm.value.testnetEnabled = 'livenet';
       instance.createForm.value.bwsURL = 'https://bws.bitpay.com/bws/api';
       instance.createForm.value.singleAddress = false;
-      instance.createForm.value.coin = 'btc';
+      instance.createForm.value.coin = 'acm';
       instance.createForm.value.selectedSeed = 'set';
       instance.createForm.value.recoveryPhrase =
         'mom mom mom mom mom mom mom mom mom mom mom mom';

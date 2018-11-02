@@ -19,7 +19,7 @@ export class AddressProvider {
       },
       bch: {
         lib: this.bitcoreCash,
-        translateTo: 'btc'
+        translateTo: 'acm'
       }
     };
   }
@@ -27,8 +27,8 @@ export class AddressProvider {
   public getCoin(address: string) {
     address = address.replace(/^(bitcoincash:|bchtest:|actinium:)/i, '');
     try {
-      new this.Bitcore['btc'].lib.Address(address);
-      return 'btc';
+      new this.Bitcore['acm'].lib.Address(address);
+      return 'acm';
     } catch (e) {
       try {
         new this.Bitcore['bch'].lib.Address(address);

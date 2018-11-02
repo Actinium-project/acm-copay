@@ -131,7 +131,7 @@ describe('Provider: Wallet Provider', () => {
     });
 
     it('should return actinium if coin is btc', () => {
-      let coin = 'btc';
+      let coin = 'acm';
       let protocol = walletProvider.getProtocolHandler(coin);
       expect(protocol).toEqual('actinium');
     });

@@ -386,7 +386,7 @@ export class BuyCoinbasePage {
       await this.navCtrl.popToRoot({ animate: false });
       await this.navCtrl.push(
         CoinbasePage,
-        { coin: 'btc' },
+        { coin: 'acm' },
         { animate: false }
       );
     });

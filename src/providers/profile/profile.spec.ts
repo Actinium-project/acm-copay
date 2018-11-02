@@ -11,7 +11,7 @@ describe('Profile Provider', () => {
       cachedBalance: '10.00 ACM',
       cachedBalanceUpdatedOn: null,
       credentials: {
-        coin: 'btc',
+        coin: 'acm',
         network: 'livenet',
         n: 1,
         m: 1
@@ -47,7 +47,7 @@ describe('Profile Provider', () => {
       cachedBalance: '1.50 ACM',
       cachedBalanceUpdatedOn: null,
       credentials: {
-        coin: 'btc',
+        coin: 'acm',
         network: 'testnet',
         n: 2,
         m: 2
@@ -102,7 +102,7 @@ describe('Profile Provider', () => {
 
     it('should get successfully all wallets when opts are provided', () => {
       const opts = {
-        coin: 'btc',
+        coin: 'acm',
         network: 'testnet',
         n: 2,
         m: 2,

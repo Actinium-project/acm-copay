@@ -56,7 +56,7 @@ export class CustomAmountPage {
       let _currency = parsedAmount.currency;
       this.amountUnitStr = parsedAmount.amountUnitStr;
 
-      if (_currency != 'ACM' && _currency != 'BCH') {
+      if (_currency != 'BTC' && _currency != 'BCH') {
         // Convert to ACM or BCH
         let amountUnit = this.txFormatProvider.satToUnit(
           parsedAmount.amountSat

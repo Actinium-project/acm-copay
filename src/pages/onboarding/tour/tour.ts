@@ -48,11 +48,11 @@ export class TourPage {
     private popupProvider: PopupProvider
   ) {
     this.currentIndex = 0;
-    this.rateProvider.whenRatesAvailable('btc').then(() => {
+    this.rateProvider.whenRatesAvailable('acm').then(() => {
       let btcAmount = 1;
       this.localCurrencySymbol = '$';
       this.localCurrencyPerBtc = this.txFormatProvider.formatAlternativeStr(
-        'btc',
+        'acm',
         btcAmount * 1e8
       );
     });

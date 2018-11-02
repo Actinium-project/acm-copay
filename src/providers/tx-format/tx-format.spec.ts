@@ -75,19 +75,19 @@ describe('TxFormatProvider', () => {
   describe('formatAmountStr', () => {
     it('should return undefined if satoshis amount are not type of number', () => {
       expect(
-        txFormatProvider.formatAmountStr('btc', undefined)
+        txFormatProvider.formatAmountStr('acm', undefined)
       ).toBeUndefined();
     });
 
     it('should return a string with formatted amount', () => {
       let newOpts = {
         wallet: {
-          settings: { unitCode: 'btc' }
+          settings: { unitCode: 'acm' }
         }
       };
       configProvider.set(newOpts);
 
-      expect(txFormatProvider.formatAmountStr('btc', 12312312)).toEqual(
+      expect(txFormatProvider.formatAmountStr('acm', 12312312)).toEqual(
         '0.123123 ACM'
       );
     });
@@ -95,20 +95,20 @@ describe('TxFormatProvider', () => {
 
   describe('toFiat', () => {
     it('should return undefined if satoshis amount are undefined', () => {
-      txFormatProvider.toFiat('btc', undefined, 'USD').then(result => {
+      txFormatProvider.toFiat('acm', undefined, 'USD').then(result => {
         expect(result).toBeUndefined();
       });
     });
 
     it('should return null', () => {
-      txFormatProvider.toFiat('btc', 12312312, 'USD').then(result => {
+      txFormatProvider.toFiat('acm', 12312312, 'USD').then(result => {
         expect(result).toBeNull();
       });
     });
 
     it('should return a string with formatted amount', () => {
       spyOn(rateProvider, 'toFiat').and.returnValue(1000000);
-      txFormatProvider.toFiat('btc', 12312312, 'USD').then(result => {
+      txFormatProvider.toFiat('acm', 12312312, 'USD').then(result => {
         expect(result).toEqual('1000000.00');
       });
     });
@@ -116,20 +116,20 @@ describe('TxFormatProvider', () => {
 
   describe('formatToUSD', () => {
     it('should return undefined if satoshis amount are undefined', () => {
-      txFormatProvider.formatToUSD('btc', undefined).then(result => {
+      txFormatProvider.formatToUSD('acm', undefined).then(result => {
         expect(result).toBeUndefined();
       });
     });
 
     it('should return null', () => {
-      txFormatProvider.formatToUSD('btc', 12312312).then(result => {
+      txFormatProvider.formatToUSD('acm', 12312312).then(result => {
         expect(result).toBeNull();
       });
     });
 
     it('should return a string with formatted amount in USD', () => {
       spyOn(rateProvider, 'toFiat').and.returnValue(1000000);
-      txFormatProvider.formatToUSD('btc', 12312312).then(result => {
+      txFormatProvider.formatToUSD('acm', 12312312).then(result => {
         expect(result).toEqual('1000000.00');
       });
     });
@@ -140,7 +140,7 @@ describe('TxFormatProvider', () => {
       let newOpts = {
         wallet: {
           settings: {
-            unitCode: 'btc',
+            unitCode: 'acm',
             alternativeIsoCode: 'ARS'
           }
         }
@@ -150,26 +150,26 @@ describe('TxFormatProvider', () => {
 
     it('should return undefined if satoshis amount are undefined', () => {
       expect(
-        txFormatProvider.formatAlternativeStr('btc', undefined)
+        txFormatProvider.formatAlternativeStr('acm', undefined)
       ).toBeUndefined();
     });
 
     it('should return null', () => {
-      let result = txFormatProvider.formatAlternativeStr('btc', 12312312);
+      let result = txFormatProvider.formatAlternativeStr('acm', 12312312);
       expect(result).toBeNull();
     });
 
     it('should return null', () => {
       spyOn(filterProvider, 'formatFiatAmount').and.returnValue(undefined);
       spyOn(rateProvider, 'isBtcAvailable').and.returnValue(true);
-      let result = txFormatProvider.formatAlternativeStr('btc', 12312312);
+      let result = txFormatProvider.formatAlternativeStr('acm', 12312312);
       expect(result).toBeNull();
     });
 
     it('should return a string with formatted amount in alternative Iso Code setted in wallet', () => {
       spyOn(rateProvider, 'toFiat').and.returnValue(1000000);
       spyOn(rateProvider, 'isBtcAvailable').and.returnValue(true);
-      let result = txFormatProvider.formatAlternativeStr('btc', 12312312);
+      let result = txFormatProvider.formatAlternativeStr('acm', 12312312);
       expect(result).toEqual('1,000,000 ARS');
     });
   });
@@ -192,7 +192,7 @@ describe('TxFormatProvider', () => {
       let newOpts = {
         wallet: {
           settings: {
-            unitCode: 'btc',
+            unitCode: 'acm',
             alternativeIsoCode: 'USD'
           }
         }
@@ -202,12 +202,12 @@ describe('TxFormatProvider', () => {
 
     it('should return same tx if tx.action is invalid', () => {
       tx.action = 'invalid';
-      expect(txFormatProvider.processTx('btc', tx, false)).toEqual(tx);
+      expect(txFormatProvider.processTx('acm', tx, false)).toEqual(tx);
     });
 
     it('should return tx with defined values if tx.action is received', () => {
       tx.action = 'received';
-      let result = txFormatProvider.processTx('btc', tx, false);
+      let result = txFormatProvider.processTx('acm', tx, false);
 
       expect(tx.toAddress).toBeDefined();
       expect(tx.toAddress).toEqual('mxMUZvgFR8D3LRscz5GbXERPXNSp1ww8Bb');
@@ -253,7 +253,7 @@ describe('TxFormatProvider', () => {
 
     it('should return same tx.amount if only has one output', () => {
       tx.action = 'sent';
-      txFormatProvider.processTx('btc', tx, false);
+      txFormatProvider.processTx('acm', tx, false);
       expect(tx.hasMultiplesOutputs).toBeFalsy();
       expect(tx.amount).toEqual(447100);
     });
@@ -272,7 +272,7 @@ describe('TxFormatProvider', () => {
           toAddress: 'mxMUZvgFR8D3LRscz5GbXERPXNSp1ww8Bb'
         }
       ];
-      txFormatProvider.processTx('btc', tx, false);
+      txFormatProvider.processTx('acm', tx, false);
       expect(tx.hasMultiplesOutputs).toBeTruthy();
       expect(tx.amount).toEqual(1094200);
     });
@@ -283,7 +283,7 @@ describe('TxFormatProvider', () => {
       let newOpts = {
         wallet: {
           settings: {
-            unitCode: 'btc',
+            unitCode: 'acm',
             alternativeIsoCode: 'USD',
             unitToSatoshi: 100000000
           }
@@ -293,10 +293,10 @@ describe('TxFormatProvider', () => {
     });
 
     it('should return amount parsed correctly if the currency is ACM', () => {
-      let result = txFormatProvider.parseAmount('btc', 0.012235, 'ACM', false);
+      let result = txFormatProvider.parseAmount('acm', 0.012235, 'BTC', false);
       expect(result).toEqual({
         amount: '0.01223500',
-        currency: 'ACM',
+        currency: 'BTC',
         alternativeIsoCode: 'USD',
         amountSat: 1223500,
         amountUnitStr: '0.012235 ACM'
@@ -307,7 +307,7 @@ describe('TxFormatProvider', () => {
       spyOn(filterProvider, 'formatFiatAmount').and.returnValue('1,505');
       spyOn(rateProvider, 'fromFiat').and.returnValue(24117237);
 
-      let result = txFormatProvider.parseAmount('btc', 1505, 'USD', false);
+      let result = txFormatProvider.parseAmount('acm', 1505, 'USD', false);
       expect(result).toEqual({
         amount: 1505,
         currency: 'USD',
@@ -321,7 +321,7 @@ describe('TxFormatProvider', () => {
       let newOpts = {
         wallet: {
           settings: {
-            unitCode: 'btc',
+            unitCode: 'acm',
             alternativeIsoCode: 'JPY',
             unitToSatoshi: 100000000
           }
@@ -334,7 +334,7 @@ describe('TxFormatProvider', () => {
 
       let onlyIntegers = true;
       let result = txFormatProvider.parseAmount(
-        'btc',
+        'acm',
         1505,
         'JPY',
         onlyIntegers
@@ -351,10 +351,10 @@ describe('TxFormatProvider', () => {
     it('should return amount parsed correctly if the currency is sat', () => {
       spyOn(filterProvider, 'formatFiatAmount').and.returnValue('1,505');
 
-      let result = txFormatProvider.parseAmount('btc', 1505, 'sat', false);
+      let result = txFormatProvider.parseAmount('acm', 1505, 'sat', false);
       expect(result).toEqual({
         amount: '0.00001505',
-        currency: 'ACM',
+        currency: 'BTC',
         alternativeIsoCode: 'USD',
         amountSat: 1505,
         amountUnitStr: '0.000015 ACM'
@@ -368,7 +368,7 @@ describe('TxFormatProvider', () => {
         wallet: {
           settings: {
             alternativeIsoCode: 'USD',
-            unitCode: 'btc',
+            unitCode: 'acm',
             unitDecimals: 8,
             unitToSatoshi: 100000000
           }
