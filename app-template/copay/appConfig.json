@@ -1,8 +1,8 @@
 {
   "packageName": "acmcopay",
   "packageDescription": "Copay Actinium Wallet",
-  "packageNameId": "com.actinium.acmcopay",
-  "packageNameIdDesktop": "com.actinium.acmcopay.desktop2",
+  "packageNameId": "org.actinium.acmcopay",
+  "packageNameIdDesktop": "org.actinium.acmcopay.desktop2",
   "themeColor": "#192c3a",
   "userVisibleName": "Actinium-Copay",
   "purposeLine": "Copay Actinium Wallet",
@@ -16,7 +16,7 @@
   "gitHubRepoUrl": "git://github.com/Actinium-project/acm-copay.git",
   "gitHubRepoBugs": "https://github.com/Actinium-project/acm-copay/issues",
   "disclaimerUrl": "https://actinium.org/acm-copay-disclaimer",
-  "url": "https://acm-copay.actinium.org",
+  "url": "https://actinium.org",
   "appDescription": "Copay Actinium Wallet",
   "winAppName": "ActiniumCopayWallet",
   "WindowsStoreIdentityName": "18C7659D.CopayforWindows",
@@ -24,7 +24,7 @@
   "WindowsApplicationId": "ActiniumCopayforWindows",
   "pushSenderId": "1036948132229",
   "description": "A Secure Actinium Wallet",
-  "version": "5.0.6",
+  "version": "1.0.0",
   "androidVersion": "50600000",
   "_extraCSS": null,
   "_enabledExtensions": {

@@ -2,7 +2,7 @@
   "name": "acmcopay",
   "description": "A Secure Actinium Wallet",
   "author": "The Actinium Core Developers",
-  "version": "5.0.6",
+  "version": "1.0.0",
   "keywords": [
     "bitcoin",
     "wallet",
@@ -22,7 +22,7 @@
   },
   "dom_storage_quota": 200,
   "id": "jid1-x7bV5evAaI1P9Q",
-  "homepage": "https://acm-copay.actinium.org",
+  "homepage": "https://actinium.org",
   "license": "MIT",
   "repository": {
     "url": "git://github.com/Actinium-project/acm-copay.git",
@@ -95,7 +95,7 @@
     "verify:bitpay-desktop": "gpg --verify dist/BitPay-linux.zip.sig dist/BitPay-linux.zip; gpg --verify dist/BitPay.exe.sig dist/BitPay.exe; gpg --verify dist/BitPay.dmg.sig dist/BitPay.dmg"
   },
   "build": {
-    "appId": "com.actinium.acmcopay.desktop2",
+    "appId": "org.actinium.acmcopay.desktop2",
     "productName": "Actinium-Copay",
     "afterPack": "./electron/afterPack.js",
     "files": [
