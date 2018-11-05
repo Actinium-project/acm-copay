@@ -251,7 +251,7 @@ msgstr "Criterio delle Commissioni del Bitcoin Network"
 msgid "Bitcoin URI"
 msgstr "Bitcoin URI"
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "Portafogli Bitcoin"
 
 msgid "Bitcoin is a currency."

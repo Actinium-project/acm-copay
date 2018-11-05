@@ -251,7 +251,7 @@ msgstr "比特币网络手续费策略"
 msgid "Bitcoin URI"
 msgstr "Bitcoin URI"
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "比特币钱包"
 
 msgid "Bitcoin is a currency."

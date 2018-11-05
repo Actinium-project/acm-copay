@@ -253,7 +253,7 @@ msgstr "ビットコインネットワークの手数料設定"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "ビットコインウォレット"
 
 msgid "Bitcoin is a currency."

@@ -302,8 +302,8 @@ msgstr "Bitcoin Network Fee Policy"
 msgid "Bitcoin URI"
 msgstr "Bitcoin URI"
 
-msgid "Bitcoin Wallets"
-msgstr "Bitcoin Wallets"
+msgid "Actinium Wallets"
+msgstr "Actinium Wallets"
 
 msgid "Bitcoin is a currency."
 msgstr "Bitcoin is a currency."

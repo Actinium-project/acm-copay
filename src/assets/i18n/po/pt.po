@@ -251,7 +251,7 @@ msgstr "Política de taxa de rede Bitcoin"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "Carteiras Bitcoin"
 
 msgid "Bitcoin is a currency."

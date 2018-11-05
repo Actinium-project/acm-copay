@@ -251,7 +251,7 @@ msgstr "Политика комиссии сети Биткойн"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "Bitcoin Кошельки"
 
 msgid "Bitcoin is a currency."

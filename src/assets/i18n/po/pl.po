@@ -251,7 +251,7 @@ msgstr "Polityka prowizji sieci actinium"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "Portfele Bitcoin"
 
 msgid "Bitcoin is a currency."

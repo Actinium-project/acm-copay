@@ -251,7 +251,7 @@ msgstr "Bitcoin-Netzwerk Gebührenübersicht"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "Bitcoin-Wallet"
 
 msgid "Bitcoin is a currency."

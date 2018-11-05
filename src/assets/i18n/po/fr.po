@@ -251,7 +251,7 @@ msgstr "Frais de réseau"
 msgid "Bitcoin URI"
 msgstr "URI Bitcoin"
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "Portefeuilles Bitcoin"
 
 msgid "Bitcoin is a currency."

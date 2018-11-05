@@ -251,7 +251,7 @@ msgstr "Transactiekostenbeleid Bitcoin-netwerk"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr "Bitcoin Portemonnees"
 
 msgid "Bitcoin is a currency."

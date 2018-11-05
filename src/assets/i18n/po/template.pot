@@ -274,7 +274,7 @@ msgstr ""
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Bitcoin Wallets"
+msgid "Actinium Wallets"
 msgstr ""
 
 msgid "Bitcoin is a currency."
