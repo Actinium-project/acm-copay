@@ -7,8 +7,8 @@
 	.st1{fill:#192C3A;fill-opacity:0.65;stroke:#707D89;stroke-width:2;}
 	.st2{fill:none;stroke:#707D89;stroke-width:2;stroke-linecap:square;}
 	.st3{fill:#FFFFFF;}
-	.st4{fill:#192C3A;stroke:#12E5B6;stroke-width:2;}
-	.st5{fill:none;stroke:#12E5B6;stroke-width:2;}
+	.st4{fill:#192C3A;stroke:#26EEA2;stroke-width:2;}
+	.st5{fill:none;stroke:#26EEA2;stroke-width:2;}
 	.st6{fill:#F9F9F9;stroke:#12E5B6;stroke-width:2;}
 </style>
 <title>tour-control</title>
@@ -19,7 +19,7 @@
 			<g id="_x30_.2.3---Tour-3">
 				<g id="bg-3">
 					
-						<linearGradient id="Oval-2_1_" gradientUnits="userSpaceOnUse" x1="-115.0304" y1="522.8826" x2="-115.0304" y2="521.9879" gradientTransform="matrix(247 0 0 -247 28536 129152)">
+						<linearGradient id="Oval-2_1_" gradientUnits="userSpaceOnUse" x1="-230.5607" y1="2.2348" x2="-230.5607" y2="3.1295" gradientTransform="matrix(247 0 0 247 57072 -552)">
 						<stop  offset="0" style="stop-color:#192C3A"/>
 						<stop  offset="1" style="stop-color:#192C3A"/>
 					</linearGradient>
@@ -33,7 +33,7 @@
 						<path class="st3" d="M112.6,90.8l13.6,7.8l9-5.2l-22.6-13.1L90,93.5l9,5.2L112.6,90.8z M112.6,81.6l20.6,11.9l-7,4.1L113.1,90
 							l-0.5-0.3l-0.5,0.3L99,97.5l-7-4.1L112.6,81.6z"/>
 						<path class="st3" d="M126.8,99.8v15.7l-13.6,7.8v10.4l22.6-13V94.6L126.8,99.8z M134.8,120.2L114.3,132v-8.1l13.1-7.5l0.5-0.3
-							v-15.7l7-4.1V120.2z"/>
+							v-15.7l7-4.1L134.8,120.2L134.8,120.2z"/>
 						<path class="st3" d="M98.3,99.8l-9-5.2v26.1l22.6,13v-10.4l-13.6-7.8V99.8z M110.9,123.9v8.1l-20.6-11.9V96.4l7,4.1v15.7
 							l0.5,0.3L110.9,123.9z"/>
 						<path class="st3" d="M124.1,101.2v-0.6l-0.5-0.3l-11-6.4l-11,6.4l-0.5,0.3v0.6V114l11,6.4l0.5,0.3l0.5-0.3l11-6.4V101.2z

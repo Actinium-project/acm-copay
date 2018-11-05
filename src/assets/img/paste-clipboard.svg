@@ -1,6 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
-  <g fill="none" fill-rule="evenodd" stroke="#4F6EF7" stroke-linecap="square" transform="translate(1 1)">
-    <path stroke-dasharray="2 2" d="M13.9090909,5 L19,5 L19,19 L5,19 L5,13.9090909"/>
-    <path stroke-dasharray="1" d="M0,0 L14,0 L14,14 L0,14 L0,0 Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="21px" height="21px" viewBox="0 0 21 21" style="enable-background:new 0 0 21 21;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#0098CD;stroke-linecap:square;}
+	.st1{fill:none;stroke:#0098CD;stroke-linecap:square;stroke-dasharray:1.8462,2.7692;}
+	.st2{fill:none;stroke:#0098CD;stroke-linecap:square;stroke-dasharray:1;}
+</style>
+<g transform="translate(1 1)">
+	<g>
+		<g>
+			<line class="st0" x1="14.3" y1="5" x2="15.3" y2="5"/>
+			<polyline class="st0" points="18,5 19,5 19,6 			"/>
+			<line class="st1" x1="19" y1="8.8" x2="19" y2="16.6"/>
+			<polyline class="st0" points="19,18 19,19 18,19 			"/>
+			<line class="st1" x1="15.2" y1="19" x2="7.4" y2="19"/>
+			<polyline class="st0" points="6,19 5,19 5,18 			"/>
+			<line class="st0" x1="5" y1="15.3" x2="5" y2="14.3"/>
+		</g>
+	</g>
+	<path class="st2" d="M0,0h14v14H0V0z"/>
+</g>
 </svg>

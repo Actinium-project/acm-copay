@@ -1,27 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Addresss-(Unsecure-URL)" transform="translate(-9.000000, -9.000000)" stroke-width="2">
-            <g id="Items/Bitcoin-Address">
-                <g id="Items/Bitcoin-Address-Copy">
-                    <g id="ui-24px-outline-1_lock" transform="translate(10.955302, 10.000000)">
-                        <g id="Group">
-                            <path d="M6.5,0 L6.5,0 C4.225,0 2.4375,1.8 2.4375,4.09090909 L2.4375,6.54545455 L10.5625,6.54545455 L10.5625,4.09090909 C10.5625,1.8 8.775,0 6.5,0 L6.5,0 Z" id="Shape" stroke="#CACACA" fill="#EEEEEE" opacity="0.800000012"></path>
-                            <rect id="Rectangle-path" stroke="#CACACA" fill="#EEEEEE" opacity="0.800000012" x="0" y="6.54545455" width="13" height="11.4545455"></rect>
-                            <g id="ui-24px-outline-2_small-remove" transform="translate(8.000000, 7.000000)" stroke="#E14F61">
-                                <g id="Group">
-                                    <path d="M8,0 L0,8" id="Shape"></path>
-                                    <path d="M8,8 L0,0" id="Shape"></path>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="19px" height="20px" viewBox="0 0 19 20" style="enable-background:new 0 0 19 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.8;fill:#EEEEEE;stroke:#CACACA;stroke-width:2;enable-background:new    ;}
+	.st1{fill:none;stroke:#FF6666;stroke-width:2;}
+</style>
+<title>Group</title>
+<desc>Created with Sketch.</desc>
+<g id="Symbols">
+	<g id="Addresss-_x28_Unsecure-URL_x29_" transform="translate(-9.000000, -9.000000)">
+		<g id="Items_x2F_Bitcoin-Address">
+			<g id="Items_x2F_Bitcoin-Address-Copy">
+				<g id="ui-24px-outline-1_lock" transform="translate(10.955302, 10.000000)">
+					<g id="Group_1_">
+						<path id="Shape" class="st0" d="M6.5,0L6.5,0C4.2,0,2.4,1.8,2.4,4.1v2.5h8.1V4.1C10.6,1.8,8.8,0,6.5,0L6.5,0z"/>
+						<rect id="Rectangle-path" x="0" y="6.5" class="st0" width="13" height="11.5"/>
+						<g id="ui-24px-outline-2_small-remove" transform="translate(8.000000, 7.000000)">
+							<g id="Group">
+								<path id="Shape_1_" class="st1" d="M8,0L0,8"/>
+								<path id="Shape_2_" class="st1" d="M8,8L0,0"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>
