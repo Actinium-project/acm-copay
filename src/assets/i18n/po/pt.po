@@ -2465,7 +2465,7 @@ msgstr ""
 msgid "{coinName} miner fees unusually high"
 msgstr ""
 
-msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.bitpay.com (BitPay's public BWS instance)."
+msgid "{{appName}} depends on Bitcore Wallet Service (BWS) for blockchain information, networking and Copayer synchronization. The default configuration points to https://bws.actinium.org (Actinium Project's public BWS instance)."
 msgstr "{{appName}} depende do Serviço Bitcore Wallet (BWS) para informações do blockchain, rede e sincronização Copayer. A configuração padrão aponta para https://bws.bitpay.com (instância pública BWS do BitPay)."
 
 msgid "{{fee}} {{coin}} will be deducted for actinium networking fees."

@@ -42,7 +42,7 @@ export class SharePage {
     );
     let defaults = this.configProvider.getDefaults();
     this.downloadUrl =
-      this.appProvider.info.name == 'acm-copay'
+      this.appProvider.info.name == 'acmcopay'
         ? defaults.download.copay.url
         : defaults.download.bitpay.url;
   }

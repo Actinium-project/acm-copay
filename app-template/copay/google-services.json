@@ -9,7 +9,7 @@
     "client_info": {
       "mobilesdk_app_id": "1:791212934923:android:911e5af2cd580014",
       "android_client_info": {
-        "package_name": "com.actinium.copay"
+        "package_name": "com.actinium.acmcopay"
       }
     },
     "oauth_client": [{

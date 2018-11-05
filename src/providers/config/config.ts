@@ -140,15 +140,15 @@ const configDefault: Config = {
 
   // Bitcore wallet service URL
   bws: {
-    url: 'https://bws.actinium.org/bws/api'
+    url: 'http://localhost:3232/bws/api'
   },
 
   download: {
     bitpay: {
-      url: 'https://bitpay.com/wallet'
+      url: 'https://actinium.org'
     },
     copay: {
-      url: 'https://copay.io/#download'
+      url: 'https://actinium.org'
     }
   },
 
@@ -183,10 +183,10 @@ const configDefault: Config = {
   showIntegration: {
     coinbase: false,
     glidera: false,
-    debitcard: true,
-    amazon: true,
-    mercadolibre: true,
-    shapeshift: true
+    debitcard: false,
+    amazon: false,
+    mercadolibre: false,
+    shapeshift: false
   },
 
   rates: {
@@ -214,7 +214,7 @@ const configDefault: Config = {
   },
 
   blockExplorerUrl: {
-    acm: 'explorer.actinium.org',
+    acm: '199.247.20.84:3001',
     bch: 'bch-insight.bitpay.com/#'
   }
 };
