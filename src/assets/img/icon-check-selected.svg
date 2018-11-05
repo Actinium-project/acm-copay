@@ -1,24 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
-    <title>Icons/Check/Green</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Views/Select-Wallet" transform="translate(-325.000000, -344.000000)" stroke="#12E5B6">
-            <g id="Componets/Select-Wallet">
-                <g id="Items/Activity-Cards/Recent-Activity" transform="translate(15.000000, 256.000000)">
-                    <g id="Group-3" transform="translate(0.000000, 60.000000)">
-                        <g id="Icons/Check/Green" transform="translate(311.000000, 29.000000)">
-                            <g id="ui-24px-outline-1_check">
-                                <g id="Group" transform="translate(0.500000, 0.500000)" stroke-width="2">
-                                    <polyline id="Shape" points="0 7 7 14 17.5 0"></polyline>
-                                </g>
-                            </g>
-                        </g>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="20px" height="17px" viewBox="0 0 20 17" style="enable-background:new 0 0 20 17;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#29EFA3;stroke-width:2;}
+</style>
+<title>Icons/Check/Green</title>
+<desc>Created with Sketch.</desc>
+<g id="Symbols">
+	<g id="Views_x2F_Select-Wallet" transform="translate(-325.000000, -344.000000)">
+		<g id="Componets_x2F_Select-Wallet">
+			<g id="Items_x2F_Activity-Cards_x2F_Recent-Activity" transform="translate(15.000000, 256.000000)">
+				<g id="Group-3" transform="translate(0.000000, 60.000000)">
+					<g id="Icons_x2F_Check_x2F_Green" transform="translate(311.000000, 29.000000)">
+						<g id="ui-24px-outline-1_check">
+							<g id="Group" transform="translate(0.500000, 0.500000)">
+								<polyline id="Shape" class="st0" points="0,7 7,14 17.5,0 								"/>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>
