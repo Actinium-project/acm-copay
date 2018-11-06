@@ -2094,7 +2094,7 @@ msgstr "Las transacciones sin comisión no están soportadas."
 msgid "Transfer to Bitcoin Cash Wallet"
 msgstr "Transferir a Billetera Bitcoin Cash"
 
-msgid "Transfer to Bitcoin Wallet"
+msgid "Transfer to Actinium Wallet"
 msgstr "Transferir a Billetera Bitcoin"
 
 msgid "Transfer to Contact"

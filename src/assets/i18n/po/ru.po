@@ -2093,7 +2093,7 @@ msgstr "Транзакции без cборов не поддерживаютс�
 msgid "Transfer to Bitcoin Cash Wallet"
 msgstr ""
 
-msgid "Transfer to Bitcoin Wallet"
+msgid "Transfer to Actinium Wallet"
 msgstr "Перевести в биткоин кошелек"
 
 msgid "Transfer to Contact"

@@ -2093,7 +2093,7 @@ msgstr "Les transactions sans frais ne sont pas supportées."
 msgid "Transfer to Bitcoin Cash Wallet"
 msgstr "Transférer vers un portefeuille Bitcoin Cash"
 
-msgid "Transfer to Bitcoin Wallet"
+msgid "Transfer to Actinium Wallet"
 msgstr "Transférer vers un portefeuille Bitcoin"
 
 msgid "Transfer to Contact"

@@ -2427,8 +2427,8 @@ msgstr "Transactions without fee are not supported."
 msgid "Transfer to Bitcoin Cash Wallet"
 msgstr "Transfer to Bitcoin Cash Wallet"
 
-msgid "Transfer to Bitcoin Wallet"
-msgstr "Transfer to Bitcoin Wallet"
+msgid "Transfer to Actinium Wallet"
+msgstr "Transfer to Actinium Wallet"
 
 msgid "Transfer to Contact"
 msgstr "Transfer to Contact"

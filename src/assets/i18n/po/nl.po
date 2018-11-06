@@ -2093,7 +2093,7 @@ msgstr "Transacties zonder transactiekosten worden niet ondersteund."
 msgid "Transfer to Bitcoin Cash Wallet"
 msgstr ""
 
-msgid "Transfer to Bitcoin Wallet"
+msgid "Transfer to Actinium Wallet"
 msgstr ""
 
 msgid "Transfer to Contact"
