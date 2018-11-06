@@ -197,7 +197,7 @@ export class ScanProvider {
       let scanSub = this.qrScanner.scan().subscribe((text: string) => {
         this.logger.debug('Scan success');
         scanSub.unsubscribe(); // stop scanning
-        return resolve(text);
+        return resolve(text.replace('actinium:', ''));
       });
     });
   }
