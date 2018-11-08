@@ -20,7 +20,7 @@ export class BitPayProvider {
     this.NETWORK = 'livenet';
     this.BITPAY_API_URL =
       this.NETWORK == 'livenet'
-        ? 'https://bitpay.com'
+        ? 'https://api.actinium.org'
         : 'https://test.bitpay.com';
   }
 

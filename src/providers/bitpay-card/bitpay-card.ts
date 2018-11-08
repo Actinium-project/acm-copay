@@ -437,11 +437,11 @@ export class BitPayCardProvider {
       });
   }
 
-  public getRates(currency, cb) {
+  public getRates(currency = 'acm', cb) {
     this.bitPayProvider.get(
-      '/rates/' + currency,
+      `/v1/${currency}/rates'`,
       data => {
-        this.logger.info('BitPay Get Rates: SUCCESS');
+        this.logger.info('Actinium-API Get Rates: SUCCESS');
         return cb(data.error, data.data);
       },
       data => {

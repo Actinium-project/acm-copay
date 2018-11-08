@@ -36,12 +36,14 @@ export class RateProvider {
       this.getBTC()
         .then(dataBTC => {
           _.each(dataBTC, currency => {
-            this.rates[currency.code] = currency.rate;
-            this.alternatives.push({
-              name: currency.name,
-              isoCode: currency.code,
-              rate: currency.rate
-            });
+            if (currency.price) {
+              this.rates[currency.code] = currency.n;
+              this.alternatives.push({
+                name: currency.name,
+                isoCode: currency.code,
+                rate: currency.n
+              });
+            }
           });
           this.ratesBtcAvailable = true;
           resolve();
