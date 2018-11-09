@@ -54,7 +54,7 @@ export class ProfileProvider {
     let config = this.configProvider.get();
     let defaults = this.configProvider.getDefaults();
     let defaultColor =
-      this.appProvider.info.nameCase == 'Actinium Copay' ? '#1abb9b' : '#647ce8';
+      this.appProvider.info.nameCase == 'Actinium Copay' ? '#0000cc' : '#0000cc';
     // this.config.whenAvailable( (config) => { TODO
     wallet.usingCustomBWS =
       config.bwsFor &&
