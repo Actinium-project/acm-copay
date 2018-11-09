@@ -145,7 +145,7 @@ const configDefault: Config = {
 
   download: {
     bitpay: {
-      url: 'httpss://actinium.org'
+      url: 'https://actinium.org'
     },
     copay: {
       url: 'https://actinium.org'
