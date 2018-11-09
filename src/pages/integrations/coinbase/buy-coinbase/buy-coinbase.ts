@@ -61,7 +61,7 @@ export class BuyCoinbasePage {
     private platformProvider: PlatformProvider
   ) {
     this.isFiat = true;
-    this.coin = this.navParams.data.coin; // BTC
+    this.coin = this.navParams.data.coin; // ACM
     this.amount = this.navParams.data.amount; // USD
     this.currency = this.navParams.data.currency; // USD
     this.network = this.coinbaseProvider.getNetwork();
@@ -353,7 +353,7 @@ export class BuyCoinbasePage {
       this.currency
     );
 
-    // ** Buy always in BTC **
+    // ** Buy always in ACM **
     // It 's needed for calculate the fee to send
     // purchased actinium from Coinbase to Copay in a
     // single transaction

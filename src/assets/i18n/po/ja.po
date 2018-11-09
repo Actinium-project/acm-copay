@@ -155,7 +155,7 @@ msgstr ""
 msgid "Apply changes"
 msgstr ""
 
-msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
+msgid "Approximate Actinium network fee to transfer wallet's balance (with normal priority)"
 msgstr "ウォレットの残高を送るために推測される必要なビットコインネットワーク手数料(優先度：普通)"
 
 msgid "Archive Card"
@@ -235,43 +235,43 @@ msgstr ""
 msgid "BitPay Card URI"
 msgstr ""
 
-msgid "Bitcoin Address"
+msgid "Actinium Address"
 msgstr "ビットコインアドレス"
 
-msgid "Bitcoin Cash Address"
+msgid "Actinium Cash Address"
 msgstr ""
 
-msgid "Bitcoin Cash URI"
+msgid "Actinium Cash URI"
 msgstr ""
 
-msgid "Bitcoin Cash Wallets"
+msgid "Actinium Cash Wallets"
 msgstr "ビットコインキャッシュウォレット"
 
-msgid "Bitcoin Network Fee Policy"
+msgid "Actinium Network Fee Policy"
 msgstr "ビットコインネットワークの手数料設定"
 
-msgid "Bitcoin URI"
+msgid "Actinium URI"
 msgstr ""
 
 msgid "Actinium Wallets"
 msgstr "ビットコインウォレット"
 
-msgid "Bitcoin is a currency."
+msgid "Actinium is a currency."
 msgstr "ビットコインは通貨の一つ"
 
-msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
+msgid "Actinium is different - it cannot be safely held with a bank or web service."
 msgstr ""
 
-msgid "Bitcoin is secure, digital money."
+msgid "Actinium is secure, digital money."
 msgstr ""
 
-msgid "Bitcoin miner fee:"
+msgid "Actinium miner fee:"
 msgstr ""
 
-msgid "Bitcoin network fee policy"
+msgid "Actinium network fee policy"
 msgstr ""
 
-msgid "Bitcoin transactions include a fee collected by miners on the network."
+msgid "Actinium transactions include a fee collected by miners on the network."
 msgstr "ビットコインの取引はネットワークの安全を守る「採掘者」と呼ばれる者達に送る手数料が含まれます。"
 
 msgid "Broadcast Payment"
@@ -283,7 +283,7 @@ msgstr "送信済み"
 msgid "Broadcasting transaction..."
 msgstr ""
 
-msgid "Buying Bitcoin..."
+msgid "Buying Actinium..."
 msgstr "ビットコインを購入中..."
 
 msgid "Buying Gift Card..."
@@ -427,7 +427,7 @@ msgstr ""
 msgid "Copay Session Logs. Be careful, this could contain sensitive private data"
 msgstr ""
 
-msgid "Copay only supports Bitcoin Cash using new version numbers addresses"
+msgid "Copay only supports Actinium Cash using new version numbers addresses"
 msgstr "Copay のビットコインキャッシュはビットコインと完全に異なる別通貨なので、アドレスの頭文字が異なります。"
 
 msgid "Copayer already in this wallet"
@@ -658,7 +658,7 @@ msgstr ""
 msgid "Duplicate"
 msgstr ""
 
-msgid "Duplicate ( Bitcoin Cash )"
+msgid "Duplicate ( Actinium Cash )"
 msgstr ""
 
 msgid "Duplicating wallet..."
@@ -985,7 +985,7 @@ msgstr ""
 msgid "I've used this card"
 msgstr ""
 
-msgid "If enabled, Bitcoin Cash addresses will be shown using Copay style address, and not the new cashaddr format."
+msgid "If enabled, Actinium Cash addresses will be shown using Copay style address, and not the new cashaddr format."
 msgstr ""
 
 msgid "If enabled, the Recent Transactions card - a list of transactions occuring across all wallets - will appear in the Home tab."
@@ -1072,7 +1072,7 @@ msgstr ""
 msgid "It's a ghost town in here"
 msgstr ""
 
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your bitcoins secure against hypothetical attacks by quantum computers."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your actiniums secure against hypothetical attacks by quantum computers."
 msgstr ""
 
 msgid "It's important that you write your recovery phrase down correctly. If something happens to your wallet, you'll need it to recover your money. Please review and try again."
@@ -1711,7 +1711,7 @@ msgstr "ウォレットを選択"
 msgid "Self-signed Certificate"
 msgstr "自己署名証明書"
 
-msgid "Selling Bitcoin..."
+msgid "Selling Actinium..."
 msgstr "ビットコインを売却中..."
 
 msgid "Send"
@@ -1869,7 +1869,7 @@ msgstr "送金の提案が見つかりませんでした。"
 msgid "Spendable balance"
 msgstr ""
 
-msgid "Spending this balance will need significant Bitcoin network fees"
+msgid "Spending this balance will need significant Actinium network fees"
 msgstr "この入力の組み合わせを送金するために膨大なビットコインネットワーク手数料を必要とします"
 
 msgid "Status"
@@ -1977,7 +1977,7 @@ msgstr "サーバーが要求を処理できませんでした。"
 msgid "The spend proposal is not pending"
 msgstr "送金の提案が協議中ではありません。"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
+msgid "The testnet is an alternative Actinium block chain, to be used for testing. Testnet coins are separate and distinct from actual actiniums, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real actiniums."
 msgstr ""
 
 msgid "The total amount of actinium stored in this wallet."
@@ -2022,7 +2022,7 @@ msgstr ""
 msgid "This recovery phrase was created with a password. To recover this wallet both the recovery phrase and password are needed."
 msgstr "この復元フレーズにパスワードがかかっています。このウォレットを復元するためには、復元フレーズに加え、パスワードも必要です。"
 
-msgid "This transaction amount is too small compared to current Bitcoin network fees. Spending these funds will need a Bitcoin network fee cost comparable to the funds itself."
+msgid "This transaction amount is too small compared to current Actinium network fees. Spending these funds will need a Actinium network fee cost comparable to the funds itself."
 msgstr ""
 
 msgid "This transaction could take a long time to confirm or could be dropped due to the low fees set by the sender."
@@ -2094,7 +2094,7 @@ msgstr ""
 msgid "Transactions without fee are not supported."
 msgstr "手数料なしの取引はサポートされていません。"
 
-msgid "Transfer to Bitcoin Cash Wallet"
+msgid "Transfer to Actinium Cash Wallet"
 msgstr ""
 
 msgid "Transfer to Actinium Wallet"
@@ -2169,7 +2169,7 @@ msgstr "更新中... お待ち下さい"
 msgid "Urgent"
 msgstr "緊急"
 
-msgid "Use Bitcoin Cash Copay Style Addresses"
+msgid "Use Actinium Cash Copay Style Addresses"
 msgstr ""
 
 msgid "Use Unconfirmed Funds"

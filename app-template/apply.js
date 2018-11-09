@@ -147,7 +147,7 @@ package.build.appx.identityName = config.WindowsStoreIdentityName;
 package.build.appx.applicationId = config.WindowsApplicationId;
 package.build.appx.displayName = config.WindowsStoreDisplayName;
 package.build.protocols.schemes = [
-  'bitcoin',
+  'actinium',
   'bitcoincash',
   'bchtest',
   config.name

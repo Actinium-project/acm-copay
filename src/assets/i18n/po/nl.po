@@ -155,8 +155,8 @@ msgstr ""
 msgid "Apply changes"
 msgstr ""
 
-msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Geschatte Bitcoin netwerk transactiekosten voor overdracht van volledige saldo van portemonnee (met normale prioriteit)"
+msgid "Approximate Actinium network fee to transfer wallet's balance (with normal priority)"
+msgstr "Geschatte Actinium netwerk transactiekosten voor overdracht van volledige saldo van portemonnee (met normale prioriteit)"
 
 msgid "Archive Card"
 msgstr ""
@@ -233,44 +233,44 @@ msgstr ""
 msgid "BitPay Card URI"
 msgstr ""
 
-msgid "Bitcoin Address"
-msgstr "Bitcoin Adres"
+msgid "Actinium Address"
+msgstr "Actinium Adres"
 
-msgid "Bitcoin Cash Address"
+msgid "Actinium Cash Address"
 msgstr ""
 
-msgid "Bitcoin Cash URI"
+msgid "Actinium Cash URI"
 msgstr ""
 
-msgid "Bitcoin Cash Wallets"
-msgstr "Bitcoin Cash Portemonnees"
+msgid "Actinium Cash Wallets"
+msgstr "Actinium Cash Portemonnees"
 
-msgid "Bitcoin Network Fee Policy"
-msgstr "Transactiekostenbeleid Bitcoin-netwerk"
+msgid "Actinium Network Fee Policy"
+msgstr "Transactiekostenbeleid Actinium-netwerk"
 
-msgid "Bitcoin URI"
+msgid "Actinium URI"
 msgstr ""
 
 msgid "Actinium Wallets"
-msgstr "Bitcoin Portemonnees"
+msgstr "Actinium Portemonnees"
 
-msgid "Bitcoin is a currency."
-msgstr "Bitcoin is een valuta."
+msgid "Actinium is a currency."
+msgstr "Actinium is een valuta."
 
-msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
+msgid "Actinium is different - it cannot be safely held with a bank or web service."
 msgstr ""
 
-msgid "Bitcoin is secure, digital money."
+msgid "Actinium is secure, digital money."
 msgstr ""
 
-msgid "Bitcoin miner fee:"
+msgid "Actinium miner fee:"
 msgstr ""
 
-msgid "Bitcoin network fee policy"
+msgid "Actinium network fee policy"
 msgstr ""
 
-msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Bitcoin transacties bevatten transactiekosten betaald aan de miners in het netwerk."
+msgid "Actinium transactions include a fee collected by miners on the network."
+msgstr "Actinium transacties bevatten transactiekosten betaald aan de miners in het netwerk."
 
 msgid "Broadcast Payment"
 msgstr "Betaling Verzenden"
@@ -281,8 +281,8 @@ msgstr "Verzonden"
 msgid "Broadcasting transaction..."
 msgstr ""
 
-msgid "Buying Bitcoin..."
-msgstr "Bitcoin kopen..."
+msgid "Buying Actinium..."
+msgstr "Actinium kopen..."
 
 msgid "Buying Gift Card..."
 msgstr ""
@@ -425,8 +425,8 @@ msgstr ""
 msgid "Copay Session Logs. Be careful, this could contain sensitive private data"
 msgstr ""
 
-msgid "Copay only supports Bitcoin Cash using new version numbers addresses"
-msgstr "Copay ondersteunt Bitcoin Cash alleen met gebruik van nieuwe versienummer adressen"
+msgid "Copay only supports Actinium Cash using new version numbers addresses"
+msgstr "Copay ondersteunt Actinium Cash alleen met gebruik van nieuwe versienummer adressen"
 
 msgid "Copayer already in this wallet"
 msgstr "Copayer reeds in deze portemonnee"
@@ -552,7 +552,7 @@ msgid "Create a new wallet to start using this app."
 msgstr ""
 
 msgid "Create actinium wallet"
-msgstr "Bitcoin portemonnee aanmaken"
+msgstr "Actinium portemonnee aanmaken"
 
 msgid "Create personal wallet"
 msgstr ""
@@ -656,7 +656,7 @@ msgstr ""
 msgid "Duplicate"
 msgstr ""
 
-msgid "Duplicate ( Bitcoin Cash )"
+msgid "Duplicate ( Actinium Cash )"
 msgstr ""
 
 msgid "Duplicating wallet..."
@@ -983,7 +983,7 @@ msgstr ""
 msgid "I've used this card"
 msgstr ""
 
-msgid "If enabled, Bitcoin Cash addresses will be shown using Copay style address, and not the new cashaddr format."
+msgid "If enabled, Actinium Cash addresses will be shown using Copay style address, and not the new cashaddr format."
 msgstr ""
 
 msgid "If enabled, the Recent Transactions card - a list of transactions occuring across all wallets - will appear in the Home tab."
@@ -1070,7 +1070,7 @@ msgstr ""
 msgid "It's a ghost town in here"
 msgstr ""
 
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your bitcoins secure against hypothetical attacks by quantum computers."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your actiniums secure against hypothetical attacks by quantum computers."
 msgstr ""
 
 msgid "It's important that you write your recovery phrase down correctly. If something happens to your wallet, you'll need it to recover your money. Please review and try again."
@@ -1709,8 +1709,8 @@ msgstr "Selecteer een portemonnee"
 msgid "Self-signed Certificate"
 msgstr "Zelf-gesigneerd Certificaat"
 
-msgid "Selling Bitcoin..."
-msgstr "Bitcoin verkopen..."
+msgid "Selling Actinium..."
+msgstr "Actinium verkopen..."
 
 msgid "Send"
 msgstr "Verzenden"
@@ -1865,7 +1865,7 @@ msgstr "Bestedingsvoorstel niet gevonden"
 msgid "Spendable balance"
 msgstr ""
 
-msgid "Spending this balance will need significant Bitcoin network fees"
+msgid "Spending this balance will need significant Actinium network fees"
 msgstr "Dit bedrag uitgeven vereist aanzienlijke transactiekosten"
 
 msgid "Status"
@@ -1973,7 +1973,7 @@ msgstr "Het verzoek kon niet worden begrepen door de server"
 msgid "The spend proposal is not pending"
 msgstr "Het bestedingsvoorstel is niet meer in behandeling"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
+msgid "The testnet is an alternative Actinium block chain, to be used for testing. Testnet coins are separate and distinct from actual actiniums, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real actiniums."
 msgstr ""
 
 msgid "The total amount of actinium stored in this wallet."
@@ -2018,7 +2018,7 @@ msgstr ""
 msgid "This recovery phrase was created with a password. To recover this wallet both the recovery phrase and password are needed."
 msgstr "Deze herstel zin is aangemaakt met een wachtwoord. Om deze portemonnee te herstellen heeft u de herstel zin en het wachtwoord nodig."
 
-msgid "This transaction amount is too small compared to current Bitcoin network fees. Spending these funds will need a Bitcoin network fee cost comparable to the funds itself."
+msgid "This transaction amount is too small compared to current Actinium network fees. Spending these funds will need a Actinium network fee cost comparable to the funds itself."
 msgstr ""
 
 msgid "This transaction could take a long time to confirm or could be dropped due to the low fees set by the sender."
@@ -2090,7 +2090,7 @@ msgstr ""
 msgid "Transactions without fee are not supported."
 msgstr "Transacties zonder transactiekosten worden niet ondersteund."
 
-msgid "Transfer to Bitcoin Cash Wallet"
+msgid "Transfer to Actinium Cash Wallet"
 msgstr ""
 
 msgid "Transfer to Actinium Wallet"
@@ -2165,7 +2165,7 @@ msgstr "Bijwerken... Een moment geduld"
 msgid "Urgent"
 msgstr "Spoed"
 
-msgid "Use Bitcoin Cash Copay Style Addresses"
+msgid "Use Actinium Cash Copay Style Addresses"
 msgstr ""
 
 msgid "Use Unconfirmed Funds"

@@ -191,7 +191,7 @@ export class SendPage extends WalletTabsChild {
     const coinName =
       this.wallet.coin === Coin.ACM ? 'actinium' : 'bitcoin cash';
     const infoSheet = this.actionSheetProvider.createInfoSheet(
-      'receiving-bitcoin',
+      'receiving-actinium',
       { coinName }
     );
     await Observable.timer(250).toPromise();

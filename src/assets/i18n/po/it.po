@@ -155,8 +155,8 @@ msgstr ""
 msgid "Apply changes"
 msgstr "Applica le modifiche"
 
-msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "La tariffa approssimativa della rete Bitcoin per il trasferimento del saldo del portafoglio ( con priorità normale)"
+msgid "Approximate Actinium network fee to transfer wallet's balance (with normal priority)"
+msgstr "La tariffa approssimativa della rete Actinium per il trasferimento del saldo del portafoglio ( con priorità normale)"
 
 msgid "Archive Card"
 msgstr "Archivia carta"
@@ -233,44 +233,44 @@ msgstr ""
 msgid "BitPay Card URI"
 msgstr "Carta BitPay URI"
 
-msgid "Bitcoin Address"
-msgstr "Indirizzo Bitcoin"
+msgid "Actinium Address"
+msgstr "Indirizzo Actinium"
 
-msgid "Bitcoin Cash Address"
-msgstr "Indirizzo Bitcoin Cash"
+msgid "Actinium Cash Address"
+msgstr "Indirizzo Actinium Cash"
 
-msgid "Bitcoin Cash URI"
-msgstr "Bitcoin Cash URI"
+msgid "Actinium Cash URI"
+msgstr "Actinium Cash URI"
 
-msgid "Bitcoin Cash Wallets"
-msgstr "Portafogli Bitcoin Cash"
+msgid "Actinium Cash Wallets"
+msgstr "Portafogli Actinium Cash"
 
-msgid "Bitcoin Network Fee Policy"
-msgstr "Criterio delle Commissioni del Bitcoin Network"
+msgid "Actinium Network Fee Policy"
+msgstr "Criterio delle Commissioni del Actinium Network"
 
-msgid "Bitcoin URI"
-msgstr "Bitcoin URI"
+msgid "Actinium URI"
+msgstr "Actinium URI"
 
 msgid "Actinium Wallets"
-msgstr "Portafogli Bitcoin"
+msgstr "Portafogli Actinium"
 
-msgid "Bitcoin is a currency."
-msgstr "Bitcoin è una moneta."
+msgid "Actinium is a currency."
+msgstr "Actinium è una moneta."
 
-msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
-msgstr "Bitcoin è differente - Non può essere custodito al sicuro in una banca o su un servizio web."
+msgid "Actinium is different - it cannot be safely held with a bank or web service."
+msgstr "Actinium è differente - Non può essere custodito al sicuro in una banca o su un servizio web."
 
-msgid "Bitcoin is secure, digital money."
-msgstr "Bitcoin è denaro sicuro, digitale."
+msgid "Actinium is secure, digital money."
+msgstr "Actinium è denaro sicuro, digitale."
 
-msgid "Bitcoin miner fee:"
+msgid "Actinium miner fee:"
 msgstr "Commissione per miner actinium:"
 
-msgid "Bitcoin network fee policy"
+msgid "Actinium network fee policy"
 msgstr "Criterio commissioni del network actinium"
 
-msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Le transazioni Bitcoin comprendono un supplemento che viene raccolto dai mines nella rete."
+msgid "Actinium transactions include a fee collected by miners on the network."
+msgstr "Le transazioni Actinium comprendono un supplemento che viene raccolto dai mines nella rete."
 
 msgid "Broadcast Payment"
 msgstr "Diffusione del Pagamento"
@@ -281,8 +281,8 @@ msgstr "Trasmesso"
 msgid "Broadcasting transaction..."
 msgstr "Trasmissione transazione..."
 
-msgid "Buying Bitcoin..."
-msgstr "Comprare Bitcoin..."
+msgid "Buying Actinium..."
+msgstr "Comprare Actinium..."
 
 msgid "Buying Gift Card..."
 msgstr "Acquisizione carta regalo..."
@@ -425,8 +425,8 @@ msgstr "Contribuisci alle traduzioni"
 msgid "Copay Session Logs. Be careful, this could contain sensitive private data"
 msgstr ""
 
-msgid "Copay only supports Bitcoin Cash using new version numbers addresses"
-msgstr "Copay supporta Bitcoin Cash soltanto utilizzando la nuova versione di indirizzi"
+msgid "Copay only supports Actinium Cash using new version numbers addresses"
+msgstr "Copay supporta Actinium Cash soltanto utilizzando la nuova versione di indirizzi"
 
 msgid "Copayer already in this wallet"
 msgstr "Copayer già in questo portafoglio"
@@ -656,8 +656,8 @@ msgstr ""
 msgid "Duplicate"
 msgstr "Duplica"
 
-msgid "Duplicate ( Bitcoin Cash )"
-msgstr "Duplicare (Bitcoin Cash)"
+msgid "Duplicate ( Actinium Cash )"
+msgstr "Duplicare (Actinium Cash)"
 
 msgid "Duplicating wallet..."
 msgstr "Duplicazione di portafoglio..."
@@ -983,8 +983,8 @@ msgstr "Sono molto felice"
 msgid "I've used this card"
 msgstr "Ho usato questa carta"
 
-msgid "If enabled, Bitcoin Cash addresses will be shown using Copay style address, and not the new cashaddr format."
-msgstr "Se abilitato, gli indirizzi di Bitcoin Cash saranno mostrati con lo stile di indirizzo di Copay, e non con il nuovo formato di cashaddr."
+msgid "If enabled, Actinium Cash addresses will be shown using Copay style address, and not the new cashaddr format."
+msgstr "Se abilitato, gli indirizzi di Actinium Cash saranno mostrati con lo stile di indirizzo di Copay, e non con il nuovo formato di cashaddr."
 
 msgid "If enabled, the Recent Transactions card - a list of transactions occuring across all wallets - will appear in the Home tab."
 msgstr "Se abilitata, la scheda delle Transazioni Recenti - una lista di transazioni che avvengono attraverso tutti i portafogli - apparirà nella scheda Home."
@@ -1070,8 +1070,8 @@ msgstr ""
 msgid "It's a ghost town in here"
 msgstr ""
 
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your bitcoins secure against hypothetical attacks by quantum computers."
-msgstr "È una buona idea evitare di riutilizzare gli indirizzi - questo protegge la tua privacy e mantiene i Bitcoin al sicuro da ipotetici attacchi di computer quantistici."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your actiniums secure against hypothetical attacks by quantum computers."
+msgstr "È una buona idea evitare di riutilizzare gli indirizzi - questo protegge la tua privacy e mantiene i Actinium al sicuro da ipotetici attacchi di computer quantistici."
 
 msgid "It's important that you write your recovery phrase down correctly. If something happens to your wallet, you'll need it to recover your money. Please review and try again."
 msgstr ""
@@ -1709,8 +1709,8 @@ msgstr "Selezionare un portafoglio"
 msgid "Self-signed Certificate"
 msgstr "Certificato autofirmato"
 
-msgid "Selling Bitcoin..."
-msgstr "Vendere Bitcoin..."
+msgid "Selling Actinium..."
+msgstr "Vendere Actinium..."
 
 msgid "Send"
 msgstr "Invia"
@@ -1865,8 +1865,8 @@ msgstr "Proposta di pagamento non trovata"
 msgid "Spendable balance"
 msgstr "Saldo spendibile"
 
-msgid "Spending this balance will need significant Bitcoin network fees"
-msgstr "Per spendere questa quantità saranno necessarie significative commissioni di rete Bitcoin"
+msgid "Spending this balance will need significant Actinium network fees"
+msgstr "Per spendere questa quantità saranno necessarie significative commissioni di rete Actinium"
 
 msgid "Status"
 msgstr "Stato"
@@ -1973,8 +1973,8 @@ msgstr "La richiesta potrebbe non essere compresa dal server"
 msgid "The spend proposal is not pending"
 msgstr "La proposta di pagamento non è in sospeso"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
-msgstr "La testnet è una blockchain Bitcoin alternativa, da utilizzare per i test. Le monete testnet sono separate e distinte dall'effettivo Bitcoin e non hanno alcun valore. Questo consente agli sviluppatori di applicazioni o tester actinium di sperimentare, senza dover usare il reale Bitcoin."
+msgid "The testnet is an alternative Actinium block chain, to be used for testing. Testnet coins are separate and distinct from actual actiniums, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real actiniums."
+msgstr "La testnet è una blockchain Actinium alternativa, da utilizzare per i test. Le monete testnet sono separate e distinte dall'effettivo Actinium e non hanno alcun valore. Questo consente agli sviluppatori di applicazioni o tester actinium di sperimentare, senza dover usare il reale Actinium."
 
 msgid "The total amount of actinium stored in this wallet."
 msgstr "La quantità totale di actinium depositati su questo portafoglio."
@@ -2018,8 +2018,8 @@ msgstr "Questa password è solo per questo dispositivo, e non può essere recupe
 msgid "This recovery phrase was created with a password. To recover this wallet both the recovery phrase and password are needed."
 msgstr "Questa frase di recupero è stata creata con una password. Per recuperare questo portafoglio sono necessari sia la frase di recupero e che la password."
 
-msgid "This transaction amount is too small compared to current Bitcoin network fees. Spending these funds will need a Bitcoin network fee cost comparable to the funds itself."
-msgstr "Questo importo della transazione è troppo piccolo rispetto alle attuali commissioni della rete Bitcoin. Per spendere questi fondi sarà necessaria una commissione Bitcoin paragonabile ai fondi stessi."
+msgid "This transaction amount is too small compared to current Actinium network fees. Spending these funds will need a Actinium network fee cost comparable to the funds itself."
+msgstr "Questo importo della transazione è troppo piccolo rispetto alle attuali commissioni della rete Actinium. Per spendere questi fondi sarà necessaria una commissione Actinium paragonabile ai fondi stessi."
 
 msgid "This transaction could take a long time to confirm or could be dropped due to the low fees set by the sender."
 msgstr "Questa operazione potrebbe richiedere molto tempo per essere confermata o potrebbe essere abbandonata a causa delle commissioni basse impostate dal mittente."
@@ -2090,11 +2090,11 @@ msgstr "Transazioni"
 msgid "Transactions without fee are not supported."
 msgstr "Non sono supportate transazioni senza commissione."
 
-msgid "Transfer to Bitcoin Cash Wallet"
-msgstr "Trasferimento a portafoglio Bitcoin Cash"
+msgid "Transfer to Actinium Cash Wallet"
+msgstr "Trasferimento a portafoglio Actinium Cash"
 
 msgid "Transfer to Actinium Wallet"
-msgstr "Trasferimento a portafoglio Bitcoin"
+msgstr "Trasferimento a portafoglio Actinium"
 
 msgid "Transfer to Contact"
 msgstr "Trasferisci a Contatto"
@@ -2165,8 +2165,8 @@ msgstr "In aggiornamento... Attendere"
 msgid "Urgent"
 msgstr "Urgente"
 
-msgid "Use Bitcoin Cash Copay Style Addresses"
-msgstr "Utilizzare gli indirizzi Bitcoin Cash in stile Copay"
+msgid "Use Actinium Cash Copay Style Addresses"
+msgstr "Utilizzare gli indirizzi Actinium Cash in stile Copay"
 
 msgid "Use Unconfirmed Funds"
 msgstr "Usa i fondi non confermati"

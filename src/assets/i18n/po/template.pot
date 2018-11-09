@@ -170,7 +170,7 @@ msgid "Apply changes"
 msgstr ""
 
 msgid ""
-"Approximate Bitcoin network fee to transfer wallet's balance (with normal "
+"Approximate Actinium network fee to transfer wallet's balance (with normal "
 "priority)"
 msgstr ""
 
@@ -256,43 +256,43 @@ msgstr ""
 msgid "BitPay Card URI"
 msgstr ""
 
-msgid "Bitcoin Address"
+msgid "Actinium Address"
 msgstr ""
 
-msgid "Bitcoin Cash Address"
+msgid "Actinium Cash Address"
 msgstr ""
 
-msgid "Bitcoin Cash URI"
+msgid "Actinium Cash URI"
 msgstr ""
 
-msgid "Bitcoin Cash Wallets"
+msgid "Actinium Cash Wallets"
 msgstr ""
 
-msgid "Bitcoin Network Fee Policy"
+msgid "Actinium Network Fee Policy"
 msgstr ""
 
-msgid "Bitcoin URI"
+msgid "Actinium URI"
 msgstr ""
 
 msgid "Actinium Wallets"
 msgstr ""
 
-msgid "Bitcoin is a currency."
+msgid "Actinium is a currency."
 msgstr ""
 
-msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
+msgid "Actinium is different - it cannot be safely held with a bank or web service."
 msgstr ""
 
-msgid "Bitcoin is secure, digital money."
+msgid "Actinium is secure, digital money."
 msgstr ""
 
-msgid "Bitcoin miner fee:"
+msgid "Actinium miner fee:"
 msgstr ""
 
-msgid "Bitcoin network fee policy"
+msgid "Actinium network fee policy"
 msgstr ""
 
-msgid "Bitcoin transactions include a fee collected by miners on the network."
+msgid "Actinium transactions include a fee collected by miners on the network."
 msgstr ""
 
 msgid "Broadcast Payment"
@@ -304,7 +304,7 @@ msgstr ""
 msgid "Broadcasting transaction..."
 msgstr ""
 
-msgid "Buying Bitcoin..."
+msgid "Buying Actinium..."
 msgstr ""
 
 msgid "Buying Gift Card..."
@@ -453,7 +453,7 @@ msgstr ""
 msgid "Copay Session Logs. Be careful, this could contain sensitive private data"
 msgstr ""
 
-msgid "Copay only supports Bitcoin Cash using new version numbers addresses"
+msgid "Copay only supports Actinium Cash using new version numbers addresses"
 msgstr ""
 
 msgid "Copayer already in this wallet"
@@ -686,7 +686,7 @@ msgstr ""
 msgid "Duplicate"
 msgstr ""
 
-msgid "Duplicate ( Bitcoin Cash )"
+msgid "Duplicate ( Actinium Cash )"
 msgstr ""
 
 msgid "Duplicating wallet..."
@@ -1032,7 +1032,7 @@ msgid "I've used this card"
 msgstr ""
 
 msgid ""
-"If enabled, Bitcoin Cash addresses will be shown using Copay style address, "
+"If enabled, Actinium Cash addresses will be shown using Copay style address, "
 "and not the new cashaddr format."
 msgstr ""
 
@@ -1136,7 +1136,7 @@ msgstr ""
 
 msgid ""
 "It's a good idea to avoid reusing addresses - this both protects your "
-"privacy and keeps your bitcoins secure against hypothetical attacks by "
+"privacy and keeps your actiniums secure against hypothetical attacks by "
 "quantum computers."
 msgstr ""
 
@@ -1795,7 +1795,7 @@ msgstr ""
 msgid "Self-signed Certificate"
 msgstr ""
 
-msgid "Selling Bitcoin..."
+msgid "Selling Actinium..."
 msgstr ""
 
 msgid "Send"
@@ -1953,7 +1953,7 @@ msgstr ""
 msgid "Spendable balance"
 msgstr ""
 
-msgid "Spending this balance will need significant Bitcoin network fees"
+msgid "Spending this balance will need significant Actinium network fees"
 msgstr ""
 
 msgid "Status"
@@ -2086,10 +2086,10 @@ msgid "The spend proposal is not pending"
 msgstr ""
 
 msgid ""
-"The testnet is an alternative Bitcoin block chain, to be used for testing. "
-"Testnet coins are separate and distinct from actual bitcoins, and do not "
+"The testnet is an alternative Actinium block chain, to be used for testing. "
+"Testnet coins are separate and distinct from actual actiniums, and do not "
 "have any value. This allows application developers or actinium testers to "
-"experiment, without having to use real bitcoins."
+"experiment, without having to use real actiniums."
 msgstr ""
 
 msgid "The total amount of actinium stored in this wallet."
@@ -2150,8 +2150,8 @@ msgid ""
 msgstr ""
 
 msgid ""
-"This transaction amount is too small compared to current Bitcoin network "
-"fees. Spending these funds will need a Bitcoin network fee cost comparable "
+"This transaction amount is too small compared to current Actinium network "
+"fees. Spending these funds will need a Actinium network fee cost comparable "
 "to the funds itself."
 msgstr ""
 
@@ -2228,7 +2228,7 @@ msgstr ""
 msgid "Transactions without fee are not supported."
 msgstr ""
 
-msgid "Transfer to Bitcoin Cash Wallet"
+msgid "Transfer to Actinium Cash Wallet"
 msgstr ""
 
 msgid "Transfer to Actinium Wallet"
@@ -2303,7 +2303,7 @@ msgstr ""
 msgid "Urgent"
 msgstr ""
 
-msgid "Use Bitcoin Cash Copay Style Addresses"
+msgid "Use Actinium Cash Copay Style Addresses"
 msgstr ""
 
 msgid "Use Unconfirmed Funds"

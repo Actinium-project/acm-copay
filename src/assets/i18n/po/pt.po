@@ -114,7 +114,7 @@ msgid "All addresses"
 msgstr "Todos os endereços"
 
 msgid "All of your actinium wallet balance may not be available for immediate spending."
-msgstr "Todos os seus bitcoins na carteira poderão não estar disponíveis de imediato para gastar."
+msgstr "Todos os seus actiniums na carteira poderão não estar disponíveis de imediato para gastar."
 
 msgid "Allow camera access"
 msgstr "Permitir acesso a câmera"
@@ -155,8 +155,8 @@ msgstr ""
 msgid "Apply changes"
 msgstr "Aplicar as alterações"
 
-msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Taxa de rede Bitcoin aproximada para transferir o saldo da carteira (com prioridade normal)"
+msgid "Approximate Actinium network fee to transfer wallet's balance (with normal priority)"
+msgstr "Taxa de rede Actinium aproximada para transferir o saldo da carteira (com prioridade normal)"
 
 msgid "Archive Card"
 msgstr ""
@@ -233,44 +233,44 @@ msgstr ""
 msgid "BitPay Card URI"
 msgstr ""
 
-msgid "Bitcoin Address"
-msgstr "Endereço Bitcoin"
+msgid "Actinium Address"
+msgstr "Endereço Actinium"
 
-msgid "Bitcoin Cash Address"
+msgid "Actinium Cash Address"
 msgstr ""
 
-msgid "Bitcoin Cash URI"
+msgid "Actinium Cash URI"
 msgstr ""
 
-msgid "Bitcoin Cash Wallets"
-msgstr "Carteiras Bitcoin Cash"
+msgid "Actinium Cash Wallets"
+msgstr "Carteiras Actinium Cash"
 
-msgid "Bitcoin Network Fee Policy"
-msgstr "Política de taxa de rede Bitcoin"
+msgid "Actinium Network Fee Policy"
+msgstr "Política de taxa de rede Actinium"
 
-msgid "Bitcoin URI"
+msgid "Actinium URI"
 msgstr ""
 
 msgid "Actinium Wallets"
-msgstr "Carteiras Bitcoin"
+msgstr "Carteiras Actinium"
 
-msgid "Bitcoin is a currency."
-msgstr "Bitcoin é uma moeda."
+msgid "Actinium is a currency."
+msgstr "Actinium é uma moeda."
 
-msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
-msgstr "Bitcoin é diferente &ndash; ela não pode ser retida com segurança por um serviço web ou banco."
+msgid "Actinium is different - it cannot be safely held with a bank or web service."
+msgstr "Actinium é diferente &ndash; ela não pode ser retida com segurança por um serviço web ou banco."
 
-msgid "Bitcoin is secure, digital money."
-msgstr "Bitcoin é seguro, dinheiro digital."
+msgid "Actinium is secure, digital money."
+msgstr "Actinium é seguro, dinheiro digital."
 
-msgid "Bitcoin miner fee:"
-msgstr "Taxa de mineração de Bitcoin:"
+msgid "Actinium miner fee:"
+msgstr "Taxa de mineração de Actinium:"
 
-msgid "Bitcoin network fee policy"
-msgstr "Política de taxa de rede Bitcoin"
+msgid "Actinium network fee policy"
+msgstr "Política de taxa de rede Actinium"
 
-msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "As transações Bitcoin incluem uma taxa cobrada pelos mineiros na rede."
+msgid "Actinium transactions include a fee collected by miners on the network."
+msgstr "As transações Actinium incluem uma taxa cobrada pelos mineiros na rede."
 
 msgid "Broadcast Payment"
 msgstr "Transmitir Pagamento"
@@ -281,8 +281,8 @@ msgstr "Transmitido"
 msgid "Broadcasting transaction..."
 msgstr "Transmitindo transação..."
 
-msgid "Buying Bitcoin..."
-msgstr "A comprar Bitcoin..."
+msgid "Buying Actinium..."
+msgstr "A comprar Actinium..."
 
 msgid "Buying Gift Card..."
 msgstr "Comprando Cartão-Presente..."
@@ -425,8 +425,8 @@ msgstr "Contribuir com a tradução"
 msgid "Copay Session Logs. Be careful, this could contain sensitive private data"
 msgstr ""
 
-msgid "Copay only supports Bitcoin Cash using new version numbers addresses"
-msgstr "Copay apenas suporta Bitcoin Cash utilizando a nova versão de endereço"
+msgid "Copay only supports Actinium Cash using new version numbers addresses"
+msgstr "Copay apenas suporta Actinium Cash utilizando a nova versão de endereço"
 
 msgid "Copayer already in this wallet"
 msgstr "Copayer já está nesta carteira"
@@ -656,8 +656,8 @@ msgstr ""
 msgid "Duplicate"
 msgstr "Duplicar"
 
-msgid "Duplicate ( Bitcoin Cash )"
-msgstr "Duplicado (Bitcoin Cash)"
+msgid "Duplicate ( Actinium Cash )"
+msgstr "Duplicado (Actinium Cash)"
 
 msgid "Duplicating wallet..."
 msgstr "Duplicando carteira..."
@@ -983,8 +983,8 @@ msgstr ""
 msgid "I've used this card"
 msgstr ""
 
-msgid "If enabled, Bitcoin Cash addresses will be shown using Copay style address, and not the new cashaddr format."
-msgstr "Se habilitado, os endereços de Bitcoin Cash podem ser mostrados usando o estilo de endereços do Copay e não no novo formato cashaddr."
+msgid "If enabled, Actinium Cash addresses will be shown using Copay style address, and not the new cashaddr format."
+msgstr "Se habilitado, os endereços de Actinium Cash podem ser mostrados usando o estilo de endereços do Copay e não no novo formato cashaddr."
 
 msgid "If enabled, the Recent Transactions card - a list of transactions occuring across all wallets - will appear in the Home tab."
 msgstr "Se habilitado, o Cartão de Transações - Lista todas as transações que ocorreram em todas as Carteiras - aparecerá na aba Início."
@@ -1070,8 +1070,8 @@ msgstr ""
 msgid "It's a ghost town in here"
 msgstr ""
 
-msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your bitcoins secure against hypothetical attacks by quantum computers."
-msgstr "É uma boa idéia evitar o reuso de endereços - isso protege sua privacidade e mantém seus bitcoins seguros contra ataques hipotéticos de computadores quânticos."
+msgid "It's a good idea to avoid reusing addresses - this both protects your privacy and keeps your actiniums secure against hypothetical attacks by quantum computers."
+msgstr "É uma boa idéia evitar o reuso de endereços - isso protege sua privacidade e mantém seus actiniums seguros contra ataques hipotéticos de computadores quânticos."
 
 msgid "It's important that you write your recovery phrase down correctly. If something happens to your wallet, you'll need it to recover your money. Please review and try again."
 msgstr ""
@@ -1299,7 +1299,7 @@ msgid "Not right now"
 msgstr ""
 
 msgid "Not valid actinium address"
-msgstr "O endereço Bitcoin não é válido"
+msgstr "O endereço Actinium não é válido"
 
 msgid "Note"
 msgstr "Nota"
@@ -1709,8 +1709,8 @@ msgstr "Selecione uma carteira"
 msgid "Self-signed Certificate"
 msgstr "Certificado Auto-Assinado"
 
-msgid "Selling Bitcoin..."
-msgstr "Vendendo Bitcoin..."
+msgid "Selling Actinium..."
+msgstr "Vendendo Actinium..."
 
 msgid "Send"
 msgstr "Enviar"
@@ -1865,8 +1865,8 @@ msgstr "Proposta de pagamento não encontrada"
 msgid "Spendable balance"
 msgstr "Saldo disponível"
 
-msgid "Spending this balance will need significant Bitcoin network fees"
-msgstr "Gastar este balanço necessitará uma taxa de rede Bitcoin significativa"
+msgid "Spending this balance will need significant Actinium network fees"
+msgstr "Gastar este balanço necessitará uma taxa de rede Actinium significativa"
 
 msgid "Status"
 msgstr ""
@@ -1973,7 +1973,7 @@ msgstr "O pedido não pôde ser entendido pelo servidor"
 msgid "The spend proposal is not pending"
 msgstr "A proposta de gasto não está pendente"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
+msgid "The testnet is an alternative Actinium block chain, to be used for testing. Testnet coins are separate and distinct from actual actiniums, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real actiniums."
 msgstr ""
 
 msgid "The total amount of actinium stored in this wallet."
@@ -2018,7 +2018,7 @@ msgstr "Esta senha é apenas para este dispositivo e não pode ser recuperada. P
 msgid "This recovery phrase was created with a password. To recover this wallet both the recovery phrase and password are needed."
 msgstr "Esta frase de recuperação foi criada com uma senha. Para recuperar esta carteira, tanto a frase de recuperação como a senha são necessárias."
 
-msgid "This transaction amount is too small compared to current Bitcoin network fees. Spending these funds will need a Bitcoin network fee cost comparable to the funds itself."
+msgid "This transaction amount is too small compared to current Actinium network fees. Spending these funds will need a Actinium network fee cost comparable to the funds itself."
 msgstr ""
 
 msgid "This transaction could take a long time to confirm or could be dropped due to the low fees set by the sender."
@@ -2034,7 +2034,7 @@ msgid "To"
 msgstr "Para"
 
 msgid "To get started, you'll need to create a actinium wallet and get some actinium."
-msgstr "Para começar, você precisa criar uma carteira de bitcoins e obter alguns bitcoins."
+msgstr "Para começar, você precisa criar uma carteira de actiniums e obter alguns actiniums."
 
 msgid "To {{reason}} you must first add your BitPay account - {{email}}"
 msgstr "Para {{reason}}, você primeiro deve adicionar sua conta BitPay - {{email}}"
@@ -2090,11 +2090,11 @@ msgstr "Transações"
 msgid "Transactions without fee are not supported."
 msgstr "Transações sem taxa não são suportadas."
 
-msgid "Transfer to Bitcoin Cash Wallet"
-msgstr "Transferir para Carteira Bitcoin Cash"
+msgid "Transfer to Actinium Cash Wallet"
+msgstr "Transferir para Carteira Actinium Cash"
 
 msgid "Transfer to Actinium Wallet"
-msgstr "Transferir para Carteira Bitcoin"
+msgstr "Transferir para Carteira Actinium"
 
 msgid "Transfer to Contact"
 msgstr "Transferir para um Contato"
@@ -2165,8 +2165,8 @@ msgstr "Atualizando... Por favor, aguarde"
 msgid "Urgent"
 msgstr "Urgente"
 
-msgid "Use Bitcoin Cash Copay Style Addresses"
-msgstr "Use Endereços Bitcoin Cash Estilo Copay"
+msgid "Use Actinium Cash Copay Style Addresses"
+msgstr "Use Endereços Actinium Cash Estilo Copay"
 
 msgid "Use Unconfirmed Funds"
 msgstr "Utilizar fundos não confirmados"
@@ -2385,13 +2385,13 @@ msgid "You can make contributions by signing up on our Crowdin community transla
 msgstr "Você pode fazer contribuições inscrevendo-se no nosso site da comunidade de tradução Crowdin. Estamos ansiosos para ouvir de você!"
 
 msgid "You can scan actinium addresses, payment requests, paper wallets, and more."
-msgstr "Você pode escanear endereços bitcoins, pedidos de pagamento carteiras de papel e muito mais."
+msgstr "Você pode escanear endereços actiniums, pedidos de pagamento carteiras de papel e muito mais."
 
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
 msgstr "Você pode ver os mais recentes desenvolvimentos e contribuir para este aplicativo de código aberto, visitando nosso projeto no GitHub."
 
 msgid "You can spend actinium at millions of websites and stores worldwide."
-msgstr "Você pode gastar bitcoins em milhões de sites e lojas em todo o mundo."
+msgstr "Você pode gastar actiniums em milhões de sites e lojas em todo o mundo."
 
 msgid "You can still export it from \"Export Wallet\" option."
 msgstr ""
@@ -2415,7 +2415,7 @@ msgid "Your BitPay Card is ready. Add funds to your card to start using it at st
 msgstr "Seu BitPay Card está pronto. Adicione fundos ao seu cartão para começar a usá-lo em lojas e caixas eletrônicos em todo o mundo."
 
 msgid "Your actinium wallet is ready!"
-msgstr "Sua carteira de bitcoins está pronta!"
+msgstr "Sua carteira de actiniums está pronta!"
 
 msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
 msgstr "Suas chaves privadas estendidas é tudo o que precisa para acessar seus fundos actinium. Certifique-se de proteger suas chaves privadas e armazená-las somente em dispositivos seguros. A BitPay não tem acesso as suas chaves privadas, então você é responsável pelas suas chaves. Se você compartilhar a chave de acesso com serviços externos, responsabilize-se pelo risco de roubo ou violação. Apenas usuários avançados devem lidar com chaves privadas estendidas diretamente."

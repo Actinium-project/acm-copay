@@ -70,7 +70,7 @@ export class SellCoinbasePage {
     private platformProvider: PlatformProvider
   ) {
     this.isFiat = true;
-    this.coin = this.navParams.data.coin; // BTC
+    this.coin = this.navParams.data.coin; // ACM
     this.amount = this.navParams.data.amount; // USD
     this.currency = this.navParams.data.currency; // USD
     this.priceSensitivity = this.coinbaseProvider.priceSensitivity;
@@ -219,7 +219,7 @@ export class SellCoinbasePage {
           count +
           '/5'
       );
-      // TX amount in BTC
+      // TX amount in ACM
       let satToBtc = 1 / 100000000;
       let amountBTC = (txp.amount * satToBtc).toFixed(8);
       this.coinbaseProvider.init((err, res) => {
