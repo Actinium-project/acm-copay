@@ -106,7 +106,7 @@
     "protocols": {
       "name": "URL protocol schemes",
       "schemes": [
-        "bitcoin",
+        "actinium",
         "bitcoincash",
         "bchtest",
         "acmcopay"
