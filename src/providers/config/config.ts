@@ -140,7 +140,7 @@ const configDefault: Config = {
 
   // Bitcore wallet service URL
   bws: {
-    url: 'https://bws.actinium.org/bws/api'
+    url: 'https://bws.actinium.org:3232/bws/api'
   },
 
   download: {
