@@ -180,7 +180,7 @@
     "@zxing/ngx-scanner": "1.2.1",
     "acmcore-wallet-client": "git+https://github.com/Actinium-project/acmcore-wallet-client.git",
     "angular2-moment": "1.7.1",
-    "bitauth": "git+https://github.com/bitpay/bitauth.git#copay",
+    "bitauth": "git+https://github.com/bitpay/bitauth.git",
     "buffer-compare": "1.1.1",
     "cordova": "8.0.0",
     "cordova-android": "7.1.1",
