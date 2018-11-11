@@ -214,7 +214,7 @@ const configDefault: Config = {
   },
 
   blockExplorerUrl: {
-    acm: 'explorer.actinium.org',
+    acm: 'explorer3.actinium.org',
     bch: 'bch-insight.bitpay.com/#'
   }
 };
