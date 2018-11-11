@@ -24,7 +24,7 @@ msgid "* A payment proposal can be deleted if 1) you are the creator, and no oth
 msgstr "* 以下情况支付提议可被删除 1) 你是创建者但没有任何其他copayer已签名 或 2) 支付提议生成已超过十分钟"
 
 msgid "5-star ratings help us get BitPay Wallet into more hands, and more users means more resources can be committed to the app!"
-msgstr "Xếp hạng 5 sao giúp chúng tôi nhận BitPay Wallet thành nhiều hơn và nhiều người dùng hơn đồng nghĩa với việc nhiều tài nguyên hơn có thể được cam kết với ứng dụng!"
+msgstr "Xếp hạng 5 sao giúp chúng tôi nhận Actinium Wallet thành nhiều hơn và nhiều người dùng hơn đồng nghĩa với việc nhiều tài nguyên hơn có thể được cam kết với ứng dụng!"
 
 msgid "A total of {{amountAboveMaxSizeStr}} {{coin}} were excluded. The maximum size allowed for a transaction was exceeded."
 msgstr "总数为{{amountAboveMaxSizeStr}}{{coin}} 的交易已被拒绝。超过了交易允许的最大额度。"
@@ -888,7 +888,7 @@ msgid "Get local cash anywhere you go, from any Visa® compatible ATM. ATM bank 
 msgstr "您可以从任意兼容Visa®的ATM中提取本地现金。可能会产生ATM银行手续费。"
 
 msgid "Get news and updates from BitPay"
-msgstr "从 BitPay 获取新闻和更新"
+msgstr "从 Actinum 获取新闻和更新"
 
 msgid "Get started"
 msgstr "马上体验"
@@ -951,7 +951,7 @@ msgid "I agree to the Terms and certify that I am the beneficial owner of the in
 msgstr "本人同意条款，并证明本人是输入资产及目的地地址的实益拥有人。"
 
 msgid "I give explicit consent to BitPay to use my email address to send me email notifications about payments (and, if selected, email updates and news about the wallet)."
-msgstr "我明确同意BitPay使用我的电子邮件地址向我发送关于付款的电子邮件通知(如果选择，发送有关钱包的更新和资讯)。"
+msgstr "我明确同意Actinium使用我的电子邮件地址向我发送关于付款的电子邮件通知(如果选择，发送有关钱包的更新和资讯)。"
 
 msgid "I have read, understood, and agree to the Terms of Use"
 msgstr "我已阅读、 理解并同意本使用条款。"
@@ -993,7 +993,7 @@ msgid "If enabled, wallets will also try to spend unconfirmed funds."
 msgstr "如果启用，钱包将尝试支出未经验证的资金。"
 
 msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
-msgstr "如果更换此设备或删除此app，您和BitPay都无法在没有备份的情况下收回您的资金。"
+msgstr "如果更换此设备或删除此app，您和Actinium都无法在没有备份的情况下收回您的资金。"
 
 msgid "If you disable the persistent logs, all the logs registered so far will be deleted. However, you can still see the session logs on this screen."
 msgstr ""
@@ -1290,7 +1290,7 @@ msgid "Not enough funds for fee"
 msgstr "费用的资金不足"
 
 msgid "Not even BitPay can access it."
-msgstr "甚至没有 BitPay 可以访问它。"
+msgstr "甚至没有 Actinium 可以访问它。"
 
 msgid "Not including the private key allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so funds will not be accessible from the export."
 msgstr ""
@@ -2414,11 +2414,11 @@ msgstr "你不应设置高于 {{maxFeeRecommended}} satoshis/字节 的交易手
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr "您的 BitPay 卡是准备好了。添加到您的卡开始使用它在商店和自动取款机全球基金。"
 
-msgid "Your actinium wallet is ready!"
+msgid "Your Actinium wallet is ready!"
 msgstr "你的比特币钱包是准备好了 ！"
 
 msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr "访问您的比特币基金只需要的是您的扩展私钥。请确保保护好您的私钥，并将它们存储在安全的设备上。BitPay无法访问您的私钥，因此您自己负责您的密钥。如果您与外部服务共享密钥访问，则您将对被盗或违规的风险承担责任。只有高级用户才能直接处理扩展的私钥。"
+msgstr "访问您的比特币基金只需要的是您的扩展私钥。请确保保护好您的私钥，并将它们存储在安全的设备上。Actinium无法访问您的私钥，因此您自己负责您的密钥。如果您与外部服务共享密钥访问，则您将对被盗或违规的风险承担责任。只有高级用户才能直接处理扩展的私钥。"
 
 msgid "Your fee is lower than recommended."
 msgstr "你的交易手续费低于建议量。"
@@ -2460,7 +2460,7 @@ msgid "{appName} BCH wallets use the CashAddr format by default"
 msgstr ""
 
 msgid "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. BitPay does not receive and does not control {coinName} miner fees."
-msgstr ""
+msgstr "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. Actinium does not receive and does not control {coinName} miner fees."
 
 msgid "{coinName} miner fees unusually high"
 msgstr ""

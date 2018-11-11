@@ -24,7 +24,7 @@ msgid "* A payment proposal can be deleted if 1) you are the creator, and no oth
 msgstr "* Una proposta di pagamento può essere eliminata se 1) tu sei il creatore e nessun altro copayer ha firmato, oppure 2) sono passati 10 minuti da quando la proposta è stata creata."
 
 msgid "5-star ratings help us get BitPay Wallet into more hands, and more users means more resources can be committed to the app!"
-msgstr "Un rating a 5 stelle ci aiuta affinché BitPay Wallet possa giungere in molte più mani, e molti utenti significa molte risorse che possono venire impiegate sull'app!"
+msgstr "Un rating a 5 stelle ci aiuta affinché Actinium Wallet possa giungere in molte più mani, e molti utenti significa molte risorse che possono venire impiegate sull'app!"
 
 msgid "A total of {{amountAboveMaxSizeStr}} {{coin}} were excluded. The maximum size allowed for a transaction was exceeded."
 msgstr "Un totale di {{amountAboveMaxSizeStr}} {{coin}} sono stati esclusi. È stata superata la dimensione massima consentita per una transazione."
@@ -288,7 +288,7 @@ msgid "Buying Gift Card..."
 msgstr "Acquisizione carta regalo..."
 
 msgid "By providing your email address, you give explicit consent to BitPay to use your email address to send you email notifications about payments."
-msgstr "Fornendo il tuo indirizzo email, darai il consenso esplicito a BitPay di utilizzare il tuo indirizzo email per inviarti notifiche via email relative ai pagamenti."
+msgstr "Fornendo il tuo indirizzo email, darai il consenso esplicito a Actinium di utilizzare il tuo indirizzo email per inviarti notifiche via email relative ai pagamenti."
 
 msgid "Calculating fee..."
 msgstr "Calcolo commissione..."
@@ -888,7 +888,7 @@ msgid "Get local cash anywhere you go, from any Visa® compatible ATM. ATM bank 
 msgstr "Ottieni contante locale ovunque tu vada, da qualsiasi ATM bancomat compatibile con Visa®. Possibili commissioni bancarie da parte dell'ATM."
 
 msgid "Get news and updates from BitPay"
-msgstr "Ricevi notizie e aggiornamenti da BitPay"
+msgstr "Ricevi notizie e aggiornamenti da Actinium"
 
 msgid "Get started"
 msgstr "Inizia"
@@ -951,7 +951,7 @@ msgid "I agree to the Terms and certify that I am the beneficial owner of the in
 msgstr "Accetto i Termini e certifico che io sono il proprietario dei fondi in entrata e dagli indirizzi di destinazione."
 
 msgid "I give explicit consent to BitPay to use my email address to send me email notifications about payments (and, if selected, email updates and news about the wallet)."
-msgstr "Do il consenso esplicito a BitPay di utilizzare il mio indirizzo di posta elettronica per inviarmi notifiche e-mail relative ai pagamenti (e, se selezionato, e-mail di aggiornamenti e notizie sul portafoglio)."
+msgstr "Do il consenso esplicito a Actinium di utilizzare il mio indirizzo di posta elettronica per inviarmi notifiche e-mail relative ai pagamenti (e, se selezionato, e-mail di aggiornamenti e notizie sul portafoglio)."
 
 msgid "I have read, understood, and agree to the Terms of Use"
 msgstr "Ho letto, compreso e accettato i Termini di Utilizzo"
@@ -993,7 +993,7 @@ msgid "If enabled, wallets will also try to spend unconfirmed funds."
 msgstr "Se abilitata, i portafogli cercheranno di spendere fondi anche se non confermati."
 
 msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
-msgstr "Se questo dispositivo viene sostituito o eliminato questa app, né tu né BitPay può recuperare i fondi senza una copia di backup."
+msgstr "Se questo dispositivo viene sostituito o eliminato questa app, né tu né Actinium può recuperare i fondi senza una copia di backup."
 
 msgid "If you disable the persistent logs, all the logs registered so far will be deleted. However, you can still see the session logs on this screen."
 msgstr ""
@@ -1290,7 +1290,7 @@ msgid "Not enough funds for fee"
 msgstr "Non ci sono abbastanza fondi per la commissione"
 
 msgid "Not even BitPay can access it."
-msgstr "Nemmeno BitPay può accedervi."
+msgstr "Nemmeno Actinium può accedervi."
 
 msgid "Not including the private key allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so funds will not be accessible from the export."
 msgstr "L'esclusione della chiave privata permette di controllare il bilancio del portafoglio, la cronologia delle transazioni e creare proposte di spesa dall'esportazione. Tuttavia, non consente di approvare le proposte (firma), così fondi non saranno accessibili dall'esportazione."
@@ -2414,11 +2414,11 @@ msgstr "Non è necessario impostare una commissione maggiore di {{maxFeeRecommen
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr "La carta BitPay è pronta. Aggiungi fondi alla tua carta per iniziare ad usarla presso i negozi e gli sportelli automatici in tutto il mondo."
 
-msgid "Your actinium wallet is ready!"
+msgid "Your Actinium wallet is ready!"
 msgstr "Il tuo portafoglio actinium è pronto!"
 
 msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr "Le tue chiavi private estese sono tutto ciò che è necessario per accedere ai tuoi fondi actinium. Assicuratevi di proteggere le chiavi private e memorizzarle solo su dispositivi sicuri. BitPay non ha accesso alla vostre chiavi private, quindi sei l'unico responsabile per le tue chiavi. Se si condivide la tua chiave di accesso con servizi esterni, ti assumi la responsabilità per il rischio di furto o di violazione. Solo gli utenti esperti dovrebbero gestire direttamente le chiavi estese private."
+msgstr "Le tue chiavi private estese sono tutto ciò che è necessario per accedere ai tuoi fondi actinium. Assicuratevi di proteggere le chiavi private e memorizzarle solo su dispositivi sicuri. Actinium non ha accesso alla vostre chiavi private, quindi sei l'unico responsabile per le tue chiavi. Se si condivide la tua chiave di accesso con servizi esterni, ti assumi la responsabilità per il rischio di furto o di violazione. Solo gli utenti esperti dovrebbero gestire direttamente le chiavi estese private."
 
 msgid "Your fee is lower than recommended."
 msgstr "La tua commissione è inferiore a quella consigliata."
@@ -2460,7 +2460,7 @@ msgid "{appName} BCH wallets use the CashAddr format by default"
 msgstr ""
 
 msgid "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. BitPay does not receive and does not control {coinName} miner fees."
-msgstr ""
+msgstr "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. Actinium does not receive and does not control {coinName} miner fees."
 
 msgid "{coinName} miner fees unusually high"
 msgstr ""

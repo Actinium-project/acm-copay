@@ -2582,7 +2582,7 @@ msgid ""
 "stores and ATMs worldwide."
 msgstr ""
 
-msgid "Your actinium wallet is ready!"
+msgid "Your Actinium wallet is ready!"
 msgstr ""
 
 msgid ""

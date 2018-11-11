@@ -24,7 +24,7 @@ msgid "* A payment proposal can be deleted if 1) you are the creator, and no oth
 msgstr "Uma proposta de pagamento pode ser excluída se: 1) você for o criador e nenhum outro assinante tiver assinado, ou 2) 10 minutos se passaram desde que a proposta foi criada."
 
 msgid "5-star ratings help us get BitPay Wallet into more hands, and more users means more resources can be committed to the app!"
-msgstr ""
+msgstr "5-star ratings help us get Actinium Wallet into more hands, and more users means more resources can be committed to the app!"
 
 msgid "A total of {{amountAboveMaxSizeStr}} {{coin}} were excluded. The maximum size allowed for a transaction was exceeded."
 msgstr "Um total de {{amountAboveMaxSizeStr}} {{coin}} foi excluído. O tamanho máximo permitido para uma transação foi excedido."
@@ -288,7 +288,7 @@ msgid "Buying Gift Card..."
 msgstr "Comprando Cartão-Presente..."
 
 msgid "By providing your email address, you give explicit consent to BitPay to use your email address to send you email notifications about payments."
-msgstr "Ao fornecer seu endereço de e-mail, você dá consentimento explícito para BitPay usar seu endereço de e-mail para enviar que e-mail notificações sobre pagamentos."
+msgstr "Ao fornecer seu endereço de e-mail, você dá consentimento explícito para Actinium usar seu endereço de e-mail para enviar que e-mail notificações sobre pagamentos."
 
 msgid "Calculating fee..."
 msgstr "Calculando taxa..."
@@ -888,7 +888,7 @@ msgid "Get local cash anywhere you go, from any Visa® compatible ATM. ATM bank 
 msgstr ""
 
 msgid "Get news and updates from BitPay"
-msgstr "Receba notícias e atualizações da BitPay"
+msgstr "Receba notícias e atualizações da Actinium"
 
 msgid "Get started"
 msgstr "Começar"
@@ -951,7 +951,7 @@ msgid "I agree to the Terms and certify that I am the beneficial owner of the in
 msgstr "Eu concordo com os termos e certifico que sou o beneficiário efetivo dos ativos e do endereço de destino."
 
 msgid "I give explicit consent to BitPay to use my email address to send me email notifications about payments (and, if selected, email updates and news about the wallet)."
-msgstr "Dou consentimento explícito para BitPay usar meu endereço de e-mail para enviar-me e-mail notificações sobre pagamentos (e, se selecionado, email atualizações e novidades sobre a carteira)."
+msgstr "Dou consentimento explícito para Actinium usar meu endereço de e-mail para enviar-me e-mail notificações sobre pagamentos (e, se selecionado, email atualizações e novidades sobre a carteira)."
 
 msgid "I have read, understood, and agree to the Terms of Use"
 msgstr "Eu li, entendi e concordo com os Termos de Uso"
@@ -993,7 +993,7 @@ msgid "If enabled, wallets will also try to spend unconfirmed funds."
 msgstr "Se habilitado, as carteiras também tentará gastar fundos não confirmados."
 
 msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
-msgstr "Se este dispositivo é substituído ou este app é excluído, nem você, nem BitPay pode recuperar seus fundos sem um backup."
+msgstr "Se este dispositivo é substituído ou este app é excluído, nem você, nem Actinium pode recuperar seus fundos sem um backup."
 
 msgid "If you disable the persistent logs, all the logs registered so far will be deleted. However, you can still see the session logs on this screen."
 msgstr ""
@@ -1290,7 +1290,7 @@ msgid "Not enough funds for fee"
 msgstr "Não há fundos para taxa"
 
 msgid "Not even BitPay can access it."
-msgstr "Nem mesmo Bitpay pode acessar isso."
+msgstr "Nem mesmo Actinium pode acessar isso."
 
 msgid "Not including the private key allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so funds will not be accessible from the export."
 msgstr ""
@@ -2414,11 +2414,11 @@ msgstr "Você não deve definir uma taxa maior do que {{maxFeeRecommended}} sato
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr "Seu BitPay Card está pronto. Adicione fundos ao seu cartão para começar a usá-lo em lojas e caixas eletrônicos em todo o mundo."
 
-msgid "Your actinium wallet is ready!"
+msgid "Your Actinium wallet is ready!"
 msgstr "Sua carteira de bitcoins está pronta!"
 
 msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr "Suas chaves privadas estendidas é tudo o que precisa para acessar seus fundos actinium. Certifique-se de proteger suas chaves privadas e armazená-las somente em dispositivos seguros. A BitPay não tem acesso as suas chaves privadas, então você é responsável pelas suas chaves. Se você compartilhar a chave de acesso com serviços externos, responsabilize-se pelo risco de roubo ou violação. Apenas usuários avançados devem lidar com chaves privadas estendidas diretamente."
+msgstr "Suas chaves privadas estendidas é tudo o que precisa para acessar seus fundos actinium. Certifique-se de proteger suas chaves privadas e armazená-las somente em dispositivos seguros. A Actinium não tem acesso as suas chaves privadas, então você é responsável pelas suas chaves. Se você compartilhar a chave de acesso com serviços externos, responsabilize-se pelo risco de roubo ou violação. Apenas usuários avançados devem lidar com chaves privadas estendidas diretamente."
 
 msgid "Your fee is lower than recommended."
 msgstr "Sua taxa é mais baixa do que a recomendada."
@@ -2460,7 +2460,7 @@ msgid "{appName} BCH wallets use the CashAddr format by default"
 msgstr ""
 
 msgid "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. BitPay does not receive and does not control {coinName} miner fees."
-msgstr ""
+msgstr "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. Actinium does not receive and does not control {coinName} miner fees."
 
 msgid "{coinName} miner fees unusually high"
 msgstr ""

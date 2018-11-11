@@ -24,7 +24,7 @@ msgid "* A payment proposal can be deleted if 1) you are the creator, and no oth
 msgstr ""
 
 msgid "5-star ratings help us get BitPay Wallet into more hands, and more users means more resources can be committed to the app!"
-msgstr ""
+msgstr "5-star ratings help us get Actinium Wallet into more hands, and more users means more resources can be committed to the app!"
 
 msgid "A total of {{amountAboveMaxSizeStr}} {{coin}} were excluded. The maximum size allowed for a transaction was exceeded."
 msgstr "A total of {{amountAboveMaxSizeStr}} {{coin}} were excluded. The maximum size allowed for a transaction was exceeded."
@@ -888,7 +888,7 @@ msgid "Get local cash anywhere you go, from any Visa® compatible ATM. ATM bank 
 msgstr ""
 
 msgid "Get news and updates from BitPay"
-msgstr "BitPay 뉴스 및 업데이트 소식을 받으세요"
+msgstr "Actinium 뉴스 및 업데이트 소식을 받으세요"
 
 msgid "Get started"
 msgstr "시작하기"
@@ -993,7 +993,7 @@ msgid "If enabled, wallets will also try to spend unconfirmed funds."
 msgstr ""
 
 msgid "If this device is replaced or this app is deleted, neither you nor BitPay can recover your funds without a backup."
-msgstr ""
+msgstr "If this device is replaced or this app is deleted, neither you nor Actinium can recover your funds without a backup."
 
 msgid "If you disable the persistent logs, all the logs registered so far will be deleted. However, you can still see the session logs on this screen."
 msgstr ""
@@ -1290,7 +1290,7 @@ msgid "Not enough funds for fee"
 msgstr "수수료에 대해 자금이 부족합니다"
 
 msgid "Not even BitPay can access it."
-msgstr "BitPay조차도 액세스할 수 없습니다."
+msgstr "Actinium조차도 액세스할 수 없습니다."
 
 msgid "Not including the private key allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so funds will not be accessible from the export."
 msgstr ""
@@ -2414,11 +2414,11 @@ msgstr "수수료를 {{maxFeeRecommended}} satoshis/byte보다 높게 설정하�
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr "귀하의 BitPay 카드가 준비되었습니다. 전 세계 상점 및 ATM에서 이용하시려면 카드에 자금을 추가해주세요."
 
-msgid "Your actinium wallet is ready!"
+msgid "Your Actinium wallet is ready!"
 msgstr "귀하의 비트코인 지갑이 준비되었습니다!"
 
 msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr ""
+msgstr "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. Actinium does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
 
 msgid "Your fee is lower than recommended."
 msgstr "귀하의 수수료는 권장액보다 낮습니다."
@@ -2460,7 +2460,7 @@ msgid "{appName} BCH wallets use the CashAddr format by default"
 msgstr ""
 
 msgid "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. BitPay does not receive and does not control {coinName} miner fees."
-msgstr ""
+msgstr "{coinName} miner fees are high due to record demand for limited space on the {coinName} network. Actinium does not receive and does not control {coinName} miner fees."
 
 msgid "{coinName} miner fees unusually high"
 msgstr ""

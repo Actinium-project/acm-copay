@@ -24,7 +24,7 @@ msgid "* A payment proposal can be deleted if 1) you are the creator, and no oth
 msgstr ""
 
 msgid "5-star ratings help us get BitPay Wallet into more hands, and more users means more resources can be committed to the app!"
-msgstr ""
+msgstr "5-star ratings help us get Actinium Wallet into more hands, and more users means more resources can be committed to the app!"
 
 msgid "A total of {{amountAboveMaxSizeStr}} {{coin}} were excluded. The maximum size allowed for a transaction was exceeded."
 msgstr ""
@@ -290,7 +290,7 @@ msgid "Buying Gift Card..."
 msgstr ""
 
 msgid "By providing your email address, you give explicit consent to BitPay to use your email address to send you email notifications about payments."
-msgstr ""
+msgstr "By providing your email address, you give explicit consent to Actinium to use your email address to send you email notifications about payments."
 
 msgid "Calculating fee..."
 msgstr ""
@@ -890,7 +890,7 @@ msgid "Get local cash anywhere you go, from any Visa® compatible ATM. ATM bank 
 msgstr ""
 
 msgid "Get news and updates from BitPay"
-msgstr "BitPay からのニュースや更新情報を受け取ります。"
+msgstr "Actinium からのニュースや更新情報を受け取ります。"
 
 msgid "Get started"
 msgstr "始めよう"
@@ -1292,7 +1292,7 @@ msgid "Not enough funds for fee"
 msgstr "手数料含めたら残高が不足しています。"
 
 msgid "Not even BitPay can access it."
-msgstr "BitPayは管理できない。"
+msgstr "Actiniumは管理できない。"
 
 msgid "Not including the private key allows to check the wallet balance, transaction history, and create spend proposals from the export. However, does not allow to approve (sign) proposals, so funds will not be accessible from the export."
 msgstr ""
@@ -2418,11 +2418,11 @@ msgstr "{{maxFeeRecommended}} satoshis/byte より高い手数料を設定しな
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
 msgstr "BitPayカードの準備が整いました。入金して全世界のお店やATMでご利用下さい。"
 
-msgid "Your actinium wallet is ready!"
+msgid "Your Actinium wallet is ready!"
 msgstr "ビットコインウォレットが完成しました!"
 
 msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr ""
+msgstr "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. Actinium does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
 
 msgid "Your fee is lower than recommended."
 msgstr "手数料設定が推奨値より低くなっております。"
