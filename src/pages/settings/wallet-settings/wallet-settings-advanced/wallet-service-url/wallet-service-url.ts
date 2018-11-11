@@ -84,7 +84,7 @@ export class WalletServiceUrlPage {
         break;
       case 'sta':
       case 'staging':
-        bws = 'https://bws.actinium.org/bws/api';
+        bws = 'https://bws.actinium.org:3232/bws/api';
         break;
       case 'loc':
       case 'local':
