@@ -252,7 +252,7 @@ msgid "Bitcoin URI"
 msgstr ""
 
 msgid "Bitcoin Wallets"
-msgstr "Bitcoin Кошельки"
+msgstr "Actinium Кошельки"
 
 msgid "Bitcoin is a currency."
 msgstr "Биткойн - это валюта."
