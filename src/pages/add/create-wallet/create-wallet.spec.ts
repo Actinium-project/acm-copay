@@ -51,7 +51,8 @@ describe('CreateWalletPage', () => {
       instance.createForm.value.requiredCopayers = 2;
       instance.createForm.value.totalCopayers = 3;
       instance.createForm.value.testnetEnabled = 'livenet';
-      instance.createForm.value.bwsURL = 'https://bws.bitpay.com/bws/api';
+      instance.createForm.value.bwsURL =
+        'https://bws.actinium.org:3232/bws/api';
       instance.createForm.value.singleAddress = false;
       instance.createForm.value.coin = 'acm';
       instance.createForm.value.selectedSeed = 'set';

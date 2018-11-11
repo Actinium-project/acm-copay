@@ -178,6 +178,7 @@
     "@types/papaparse": "4.1.33",
     "@zxing/library": "0.8.2",
     "@zxing/ngx-scanner": "1.2.1",
+    "acmcore-lib": "git+https://github.com/Actinium-project/acmcore-lib.git",
     "acmcore-wallet-client": "git+https://github.com/Actinium-project/acmcore-wallet-client.git",
     "angular2-moment": "1.7.1",
     "bitauth": "git+https://github.com/bitpay/bitauth.git",
