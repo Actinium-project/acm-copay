@@ -156,7 +156,7 @@ msgid "Apply changes"
 msgstr "Aplicar as alterações"
 
 msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Taxa de rede Bitcoin aproximada para transferir o saldo da carteira (com prioridade normal)"
+msgstr "Taxa de rede Actinium aproximada para transferir o saldo da carteira (com prioridade normal)"
 
 msgid "Archive Card"
 msgstr ""
@@ -234,7 +234,7 @@ msgid "BitPay Card URI"
 msgstr ""
 
 msgid "Bitcoin Address"
-msgstr "Endereço Bitcoin"
+msgstr "Endereço Actinium"
 
 msgid "Bitcoin Cash Address"
 msgstr ""
@@ -246,31 +246,31 @@ msgid "Bitcoin Cash Wallets"
 msgstr "Carteiras Bitcoin Cash"
 
 msgid "Bitcoin Network Fee Policy"
-msgstr "Política de taxa de rede Bitcoin"
+msgstr "Política de taxa de rede Actinium"
 
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Actinium Wallets"
-msgstr "Carteiras Bitcoin"
+msgid "Bitcoin Wallets"
+msgstr "Carteiras Actinium"
 
 msgid "Bitcoin is a currency."
-msgstr "Bitcoin é uma moeda."
+msgstr "Actinium é uma moeda."
 
 msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
-msgstr "Bitcoin é diferente &ndash; ela não pode ser retida com segurança por um serviço web ou banco."
+msgstr "Actinium é diferente &ndash; ela não pode ser retida com segurança por um serviço web ou banco."
 
 msgid "Bitcoin is secure, digital money."
-msgstr "Bitcoin é seguro, dinheiro digital."
+msgstr "Actinium é seguro, dinheiro digital."
 
 msgid "Bitcoin miner fee:"
-msgstr "Taxa de mineração de Bitcoin:"
+msgstr "Taxa de mineração de Actinium:"
 
 msgid "Bitcoin network fee policy"
-msgstr "Política de taxa de rede Bitcoin"
+msgstr "Política de taxa de rede Actinium"
 
 msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "As transações Bitcoin incluem uma taxa cobrada pelos mineiros na rede."
+msgstr "As transações Actinium incluem uma taxa cobrada pelos mineiros na rede."
 
 msgid "Broadcast Payment"
 msgstr "Transmitir Pagamento"
@@ -282,7 +282,7 @@ msgid "Broadcasting transaction..."
 msgstr "Transmitindo transação..."
 
 msgid "Buying Bitcoin..."
-msgstr "A comprar Bitcoin..."
+msgstr "A comprar Actinium..."
 
 msgid "Buying Gift Card..."
 msgstr "Comprando Cartão-Presente..."
@@ -1299,7 +1299,7 @@ msgid "Not right now"
 msgstr ""
 
 msgid "Not valid actinium address"
-msgstr "O endereço Bitcoin não é válido"
+msgstr "O endereço Actinium não é válido"
 
 msgid "Note"
 msgstr "Nota"
@@ -1710,7 +1710,7 @@ msgid "Self-signed Certificate"
 msgstr "Certificado Auto-Assinado"
 
 msgid "Selling Bitcoin..."
-msgstr "Vendendo Bitcoin..."
+msgstr "Vendendo Actinium..."
 
 msgid "Send"
 msgstr "Enviar"
@@ -1866,7 +1866,7 @@ msgid "Spendable balance"
 msgstr "Saldo disponível"
 
 msgid "Spending this balance will need significant Bitcoin network fees"
-msgstr "Gastar este balanço necessitará uma taxa de rede Bitcoin significativa"
+msgstr "Gastar este balanço necessitará uma taxa de rede Actinium significativa"
 
 msgid "Status"
 msgstr ""
@@ -2094,7 +2094,7 @@ msgid "Transfer to Bitcoin Cash Wallet"
 msgstr "Transferir para Carteira Bitcoin Cash"
 
 msgid "Transfer to Actinium Wallet"
-msgstr "Transferir para Carteira Bitcoin"
+msgstr "Transferir para Carteira Actinium"
 
 msgid "Transfer to Contact"
 msgstr "Transferir para um Contato"

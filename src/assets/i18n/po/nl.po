@@ -156,7 +156,7 @@ msgid "Apply changes"
 msgstr ""
 
 msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Geschatte Bitcoin netwerk transactiekosten voor overdracht van volledige saldo van portemonnee (met normale prioriteit)"
+msgstr "Geschatte Actinium netwerk transactiekosten voor overdracht van volledige saldo van portemonnee (met normale prioriteit)"
 
 msgid "Archive Card"
 msgstr ""
@@ -234,7 +234,7 @@ msgid "BitPay Card URI"
 msgstr ""
 
 msgid "Bitcoin Address"
-msgstr "Bitcoin Adres"
+msgstr "Actinium Adres"
 
 msgid "Bitcoin Cash Address"
 msgstr ""
@@ -246,16 +246,16 @@ msgid "Bitcoin Cash Wallets"
 msgstr "Bitcoin Cash Portemonnees"
 
 msgid "Bitcoin Network Fee Policy"
-msgstr "Transactiekostenbeleid Bitcoin-netwerk"
+msgstr "Transactiekostenbeleid Actinium-netwerk"
 
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Actinium Wallets"
-msgstr "Bitcoin Portemonnees"
+msgid "Bitcoin Wallets"
+msgstr "Actinium Portemonnees"
 
 msgid "Bitcoin is a currency."
-msgstr "Bitcoin is een valuta."
+msgstr "Actinium is een valuta."
 
 msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
 msgstr ""
@@ -270,7 +270,7 @@ msgid "Bitcoin network fee policy"
 msgstr ""
 
 msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Bitcoin transacties bevatten transactiekosten betaald aan de miners in het netwerk."
+msgstr "Actinium transacties bevatten transactiekosten betaald aan de miners in het netwerk."
 
 msgid "Broadcast Payment"
 msgstr "Betaling Verzenden"
@@ -282,7 +282,7 @@ msgid "Broadcasting transaction..."
 msgstr ""
 
 msgid "Buying Bitcoin..."
-msgstr "Bitcoin kopen..."
+msgstr "Actinium kopen..."
 
 msgid "Buying Gift Card..."
 msgstr ""
@@ -552,7 +552,7 @@ msgid "Create a new wallet to start using this app."
 msgstr ""
 
 msgid "Create actinium wallet"
-msgstr "Bitcoin portemonnee aanmaken"
+msgstr "Actinium portemonnee aanmaken"
 
 msgid "Create personal wallet"
 msgstr ""
@@ -1710,7 +1710,7 @@ msgid "Self-signed Certificate"
 msgstr "Zelf-gesigneerd Certificaat"
 
 msgid "Selling Bitcoin..."
-msgstr "Bitcoin verkopen..."
+msgstr "Actinium verkopen..."
 
 msgid "Send"
 msgstr "Verzenden"

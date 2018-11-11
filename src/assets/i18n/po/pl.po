@@ -156,7 +156,7 @@ msgid "Apply changes"
 msgstr "Zastosuj zmiany"
 
 msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Szacunkowe opłaty sieci Bitcoin do przeniesienia salda portfela (normalny priorytet)"
+msgstr "Szacunkowe opłaty sieci Actinium do przeniesienia salda portfela (normalny priorytet)"
 
 msgid "Archive Card"
 msgstr ""
@@ -251,26 +251,26 @@ msgstr "Polityka prowizji sieci actinium"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Actinium Wallets"
-msgstr "Portfele Bitcoin"
+msgid "Bitcoin Wallets"
+msgstr "Portfele Actinium"
 
 msgid "Bitcoin is a currency."
-msgstr "Bitcoin jest walutą."
+msgstr "Actinium jest walutą."
 
 msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
 msgstr ""
 
 msgid "Bitcoin is secure, digital money."
-msgstr "Bitcoin jest bezpiecznym, cyfrowym pieniądzem."
+msgstr "Actinium jest bezpiecznym, cyfrowym pieniądzem."
 
 msgid "Bitcoin miner fee:"
 msgstr ""
 
 msgid "Bitcoin network fee policy"
-msgstr "Polityka prowizji sieci Bitcoin"
+msgstr "Polityka prowizji sieci Actinium"
 
 msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Transakcje Bitcoin obejmują prowizję pobieraną przez górników w sieci."
+msgstr "Transakcje Actinium obejmują prowizję pobieraną przez górników w sieci."
 
 msgid "Broadcast Payment"
 msgstr "Przekaż płatność"

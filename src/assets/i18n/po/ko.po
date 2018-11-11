@@ -251,7 +251,7 @@ msgstr "비트코인 네트워크 수수료 정책"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Actinium Wallets"
+msgid "Bitcoin Wallets"
 msgstr "비트코인 지갑"
 
 msgid "Bitcoin is a currency."

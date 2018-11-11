@@ -114,7 +114,7 @@ msgid "All addresses"
 msgstr "Alle Adressen"
 
 msgid "All of your actinium wallet balance may not be available for immediate spending."
-msgstr "Möglicherweise kann nicht ihr gesamtes Bitcoin Guthaben sofort ausgegeben werden."
+msgstr "Möglicherweise kann nicht ihr gesamtes Actinium Guthaben sofort ausgegeben werden."
 
 msgid "Allow camera access"
 msgstr "Kamerazugriff erlauben"
@@ -156,7 +156,7 @@ msgid "Apply changes"
 msgstr "Änderungen vornehmen"
 
 msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Ungefähre Bitcoin Netzwerkgebühr um das Wallet Guthaben zu übertragen (mit normaler Priorität)"
+msgstr "Ungefähre Actinium Netzwerkgebühr um das Wallet Guthaben zu übertragen (mit normaler Priorität)"
 
 msgid "Archive Card"
 msgstr ""
@@ -234,7 +234,7 @@ msgid "BitPay Card URI"
 msgstr ""
 
 msgid "Bitcoin Address"
-msgstr "Bitcoin-Adresse"
+msgstr "Actinium-Adresse"
 
 msgid "Bitcoin Cash Address"
 msgstr ""
@@ -246,31 +246,31 @@ msgid "Bitcoin Cash Wallets"
 msgstr "Bitcoin Cash Wallet"
 
 msgid "Bitcoin Network Fee Policy"
-msgstr "Bitcoin-Netzwerk Gebührenübersicht"
+msgstr "Actinium-Netzwerk Gebührenübersicht"
 
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Actinium Wallets"
-msgstr "Bitcoin-Wallet"
+msgid "Bitcoin Wallets"
+msgstr "Actinium-Wallet"
 
 msgid "Bitcoin is a currency."
-msgstr "Bitcoin ist eine Währung."
+msgstr "Actinium ist eine Währung."
 
 msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
 msgstr ""
 
 msgid "Bitcoin is secure, digital money."
-msgstr "Bitcoin ist sicheres, digitales Geld."
+msgstr "Actinium ist sicheres, digitales Geld."
 
 msgid "Bitcoin miner fee:"
 msgstr ""
 
-msgid "Bitcoin network fee policy"
+msgid "Actinium network fee policy"
 msgstr "Bitcoin-Netzwerk Gebührenübersicht"
 
 msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Bitcoin Transaktionen enthalten eine Gebühr für die \"Miners\" im Netzwerk."
+msgstr "Actinium Transaktionen enthalten eine Gebühr für die \"Miners\" im Netzwerk."
 
 msgid "Broadcast Payment"
 msgstr "Zahlung übermitteln"
@@ -426,7 +426,7 @@ msgid "Copay Session Logs. Be careful, this could contain sensitive private data
 msgstr ""
 
 msgid "Copay only supports Bitcoin Cash using new version numbers addresses"
-msgstr "Copay unterstützt nur die neue Version der Bitcoin Cash adressen"
+msgstr "Copay unterstützt nur die neue Version der Actinium Cash adressen"
 
 msgid "Copayer already in this wallet"
 msgstr "Copayer nimmt bereits teil"
@@ -984,7 +984,7 @@ msgid "I've used this card"
 msgstr ""
 
 msgid "If enabled, Bitcoin Cash addresses will be shown using Copay style address, and not the new cashaddr format."
-msgstr "Wenn aktiviert, werden Bargeld Bitcoin-Adressen mit Copay Stil Adresse und nicht die neue Cashaddr-Format angezeigt."
+msgstr "Wenn aktiviert, werden Bargeld Actinium-Adressen mit Copay Stil Adresse und nicht die neue Cashaddr-Format angezeigt."
 
 msgid "If enabled, the Recent Transactions card - a list of transactions occuring across all wallets - will appear in the Home tab."
 msgstr "Wenn aktiviert wird die \"Kürzlich Ausgeführte Transaktionen\" Karte - eine Liste von Transaktionen aller Wallets - in der Registerkarte \"Start\" erscheinen."
@@ -1299,7 +1299,7 @@ msgid "Not right now"
 msgstr ""
 
 msgid "Not valid actinium address"
-msgstr "Keine gültige Bitcoin-Adresse"
+msgstr "Keine gültige Actinium-Adresse"
 
 msgid "Note"
 msgstr "Notiz"
@@ -1689,7 +1689,7 @@ msgid "Search a contact"
 msgstr "Kontakte durchsuchen"
 
 msgid "Search or enter actinium address"
-msgstr "Bitcoin-Adresse suchen oder eingeben"
+msgstr "Actinium-Adresse suchen oder eingeben"
 
 msgid "Search your currency"
 msgstr "Suchen Sie Ihre Währung"
@@ -1866,7 +1866,7 @@ msgid "Spendable balance"
 msgstr "Betrag zum Ausgeben"
 
 msgid "Spending this balance will need significant Bitcoin network fees"
-msgstr "Das Ausgeben von dieser Menge wird erhebliche Bitcoin Netzwerk-Gebühren fordern"
+msgstr "Das Ausgeben von dieser Menge wird erhebliche Actinium Netzwerk-Gebühren fordern"
 
 msgid "Status"
 msgstr ""
@@ -1896,7 +1896,7 @@ msgid "THIS ACTION CANNOT BE REVERSED"
 msgstr "DIESE AKTION KANN NICHT RÜCKGÄNGIG GEMACHT WERDEN"
 
 msgid "Take control of your money, get started with actinium."
-msgstr "Übernehmen Sie die Kontrolle über Ihr Geld, legen Sie mit Bitcoin los."
+msgstr "Übernehmen Sie die Kontrolle über Ihr Geld, legen Sie mit Actinium los."
 
 msgid "Tap and hold to show"
 msgstr "Anzeigen durch tippen und halten"
@@ -1973,7 +1973,7 @@ msgstr "Die Anforderung konnte nicht vom Server interpretiert werden"
 msgid "The spend proposal is not pending"
 msgstr "Der Zahlungsvorschlag ist nicht ausstehend"
 
-msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
+msgid "The testnet is an alternative Actinium block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
 msgstr ""
 
 msgid "The total amount of actinium stored in this wallet."
@@ -2001,7 +2001,7 @@ msgid "This app stores your actinium with cutting-edge security."
 msgstr "Diese App speichert Ihre Actiniums mit modernster Sicherheit."
 
 msgid "This actinium payment request has expired."
-msgstr "Diese Bitcoin Zahlungsaufforderung ist abgelaufen."
+msgstr "Diese Actinium Zahlungsaufforderung ist abgelaufen."
 
 msgid "This field is only for users who, in previous versions (it's not supported anymore), set a password to protect their recovery phrase. This field is not for your encrypt password."
 msgstr ""
@@ -2018,7 +2018,7 @@ msgstr "Dieses Passwort ist nur für dieses Gerät und es kann nicht wiederherge
 msgid "This recovery phrase was created with a password. To recover this wallet both the recovery phrase and password are needed."
 msgstr "Diese Wiederherstellungsphrase entstand mit einem Passwort. Zur Wiederherstellung der Wallet sind die Wiederherstellungsphrase und das Passwort erforderlich."
 
-msgid "This transaction amount is too small compared to current Bitcoin network fees. Spending these funds will need a Bitcoin network fee cost comparable to the funds itself."
+msgid "This transaction amount is too small compared to current Actinium network fees. Spending these funds will need a Actinium network fee cost comparable to the funds itself."
 msgstr ""
 
 msgid "This transaction could take a long time to confirm or could be dropped due to the low fees set by the sender."
@@ -2034,7 +2034,7 @@ msgid "To"
 msgstr "An"
 
 msgid "To get started, you'll need to create a actinium wallet and get some actinium."
-msgstr "Um loszulegen müssen Sie eine Bitcoin-Wallet erstellen und einige Actiniums erhalten."
+msgstr "Um loszulegen müssen Sie eine Actinium-Wallet erstellen und einige Actiniums erhalten."
 
 msgid "To {{reason}} you must first add your BitPay account - {{email}}"
 msgstr ""
@@ -2385,7 +2385,7 @@ msgid "You can make contributions by signing up on our Crowdin community transla
 msgstr "Sie können Beiträge leisten indem Sie sich auf unserer Crowdin Community Übersetzungs-Website registrieren. Wir freuen uns darauf von Ihnen zu hören!"
 
 msgid "You can scan actinium addresses, payment requests, paper wallets, and more."
-msgstr "Sie können Bitcoin-Adressen, Zahlungsaufforderungen, Papier-Wallets und mehr scannen."
+msgstr "Sie können Actinium-Adressen, Zahlungsaufforderungen, Papier-Wallets und mehr scannen."
 
 msgid "You can see the latest developments and contribute to this open source app by visiting our project on GitHub."
 msgstr "Sie können auf GitHub die neuesten Entwicklungen ansehen und zu dieser Open-Source App beitragen."
@@ -2412,13 +2412,13 @@ msgid "You should not set a fee higher than {{maxFeeRecommended}} satoshis/byte.
 msgstr "Du solltest keine Gebür über {{maxFeeRecommended}} satoshis/byte setzen."
 
 msgid "Your BitPay Card is ready. Add funds to your card to start using it at stores and ATMs worldwide."
-msgstr "Ihre Bitcoin Card ist bereit, fügen sie Guthaben hinzu um sie in Läden und Banken weltweit zu nutzen."
+msgstr "Ihre Actinium Card ist bereit, fügen sie Guthaben hinzu um sie in Läden und Banken weltweit zu nutzen."
 
 msgid "Your actinium wallet is ready!"
-msgstr "Ihre Bitcoin-Wallet ist fertig!"
+msgstr "Ihre Actinium-Wallet ist fertig!"
 
 msgid "Your extended private keys are all that is needed to access your actinium funds. Be sure to protect your private keys and store them only on secure devices. BitPay does not have access to your private keys, so you alone are responsible for your keys. If you share key access with external services, you take responsibility for the risk of theft or breach. Only advanced users should handle extended private keys directly."
-msgstr "Ihre erweiterten privaten Schlüssel sind alles um auf ihr Bitcoin Guthaben zu zugreifen. Beschützen Sie Ihren privaten Schlüssel und bewahren Sie Ihn ausschließlich auf einem sicheren Gerät auf. BitPay hat keinen Einfluss auf Ihren Schlüssel, also müssen Sie sich alleine um Ihre Schlüssel kümmern. Wenn Sie den Schlüssel für andere externe Services teilen, tragen Sie die Verantwortung für den eventuellen Diebstahl. Nur erfahrene Nutzer sollten erweiterte private Schlüssel direkt verschicken."
+msgstr "Ihre erweiterten privaten Schlüssel sind alles um auf ihr Actinium Guthaben zu zugreifen. Beschützen Sie Ihren privaten Schlüssel und bewahren Sie Ihn ausschließlich auf einem sicheren Gerät auf. BitPay hat keinen Einfluss auf Ihren Schlüssel, also müssen Sie sich alleine um Ihre Schlüssel kümmern. Wenn Sie den Schlüssel für andere externe Services teilen, tragen Sie die Verantwortung für den eventuellen Diebstahl. Nur erfahrene Nutzer sollten erweiterte private Schlüssel direkt verschicken."
 
 msgid "Your fee is lower than recommended."
 msgstr "Ihre Gebür ist niedriger als sie empfohlen wird."

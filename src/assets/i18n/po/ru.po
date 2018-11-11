@@ -156,7 +156,7 @@ msgid "Apply changes"
 msgstr "Применить изменения"
 
 msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Приблизительная комиссия на перевод сети Bitcoin для передачи баланса кошелька (с нормальным приоритетом)"
+msgstr "Приблизительная комиссия на перевод сети Actinium для передачи баланса кошелька (с нормальным приоритетом)"
 
 msgid "Archive Card"
 msgstr ""
@@ -251,7 +251,7 @@ msgstr "Политика комиссии сети Биткойн"
 msgid "Bitcoin URI"
 msgstr ""
 
-msgid "Actinium Wallets"
+msgid "Bitcoin Wallets"
 msgstr "Bitcoin Кошельки"
 
 msgid "Bitcoin is a currency."
@@ -261,7 +261,7 @@ msgid "Bitcoin is different - it cannot be safely held with a bank or web servic
 msgstr ""
 
 msgid "Bitcoin is secure, digital money."
-msgstr "Bitcoin это безопасные, цифровые деньги."
+msgstr "Actinium это безопасные, цифровые деньги."
 
 msgid "Bitcoin miner fee:"
 msgstr "Tранзакционные сборы:"
@@ -270,7 +270,7 @@ msgid "Bitcoin network fee policy"
 msgstr "Политика комиссии сети Биткойн"
 
 msgid "Bitcoin transactions include a fee collected by miners on the network."
-msgstr "Bitcoin transactions include a fee collected by miners on the network."
+msgstr "Actinium transactions include a fee collected by miners on the network."
 
 msgid "Broadcast Payment"
 msgstr "Отправить платёж"

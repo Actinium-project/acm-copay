@@ -156,7 +156,7 @@ msgid "Apply changes"
 msgstr "Aplicar los cambios"
 
 msgid "Approximate Bitcoin network fee to transfer wallet's balance (with normal priority)"
-msgstr "Comisión aproximada de la red Bitcoin para transferir el saldo de esta billetera (con prioridad normal)"
+msgstr "Comisión aproximada de la red Actinium para transferir el saldo de esta billetera (con prioridad normal)"
 
 msgid "Archive Card"
 msgstr "Archivar Tarjeta"
@@ -234,7 +234,7 @@ msgid "BitPay Card URI"
 msgstr "URI de la Tarjeta de BitPay"
 
 msgid "Bitcoin Address"
-msgstr "Dirección Bitcoin"
+msgstr "Dirección Actinium"
 
 msgid "Bitcoin Cash Address"
 msgstr "Dirección Bitcoin Cash"
@@ -246,22 +246,22 @@ msgid "Bitcoin Cash Wallets"
 msgstr "Billeteras Bitcoin Cash"
 
 msgid "Bitcoin Network Fee Policy"
-msgstr "Política de Comisión de la Red Bitcoin"
+msgstr "Política de Comisión de la Red Actinium"
 
 msgid "Bitcoin URI"
-msgstr "URI de Bitcoin"
+msgstr "URI de Actinium"
 
-msgid "Actinium Wallets"
-msgstr "Billeteras Bitcoin"
+msgid "Bitcoin Wallets"
+msgstr "Billeteras Actinium"
 
 msgid "Bitcoin is a currency."
-msgstr "Bitcoin es una moneda."
+msgstr "Actinium es una moneda."
 
 msgid "Bitcoin is different - it cannot be safely held with a bank or web service."
-msgstr "Bitcoin es diferente - no se puede resguardar con ningún servicio web o banco."
+msgstr "Actinium es diferente - no se puede resguardar con ningún servicio web o banco."
 
 msgid "Bitcoin is secure, digital money."
-msgstr "Bitcoin es seguro, es dinero digital."
+msgstr "Actinium es seguro, es dinero digital."
 
 msgid "Bitcoin miner fee:"
 msgstr "Comisión de minero actinium:"
@@ -1974,7 +1974,7 @@ msgid "The spend proposal is not pending"
 msgstr "La propuesta de gasto no esta pendiente"
 
 msgid "The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and distinct from actual bitcoins, and do not have any value. This allows application developers or actinium testers to experiment, without having to use real bitcoins."
-msgstr "Testnet es una cadena de bloques alternativa de Bitcoin utilizada para pruebas. Las monedas testnet trabajan en una red separada y distinta de los bitcoins reales y no tienen ningún valor. Esto permite a los desarrolladores o usuarios en general experimentar sin tener que usar bitcoins reales."
+msgstr "Testnet es una cadena de bloques alternativa de Actinium utilizada para pruebas. Las monedas testnet trabajan en una red separada y distinta de los bitcoins reales y no tienen ningún valor. Esto permite a los desarrolladores o usuarios en general experimentar sin tener que usar bitcoins reales."
 
 msgid "The total amount of actinium stored in this wallet."
 msgstr "El total de bitcoins almacenados en esta billetera."
@@ -2095,7 +2095,7 @@ msgid "Transfer to Bitcoin Cash Wallet"
 msgstr "Transferir a Billetera Bitcoin Cash"
 
 msgid "Transfer to Actinium Wallet"
-msgstr "Transferir a Billetera Bitcoin"
+msgstr "Transferir a Billetera Actinium"
 
 msgid "Transfer to Contact"
 msgstr "Transferir a Contacto"
@@ -2110,7 +2110,7 @@ msgid "Try again in {{expires}}"
 msgstr "Intenta de nuevo en {{expires}}"
 
 msgid "Turn actinium into dollars, swipe anywhere Visa® is accepted."
-msgstr "Convierta Bitcoin en Dólares, use en cualquier lugar que acepte Visa®."
+msgstr "Convierta Actinium en Dólares, use en cualquier lugar que acepte Visa®."
 
 msgid "Type the recovery phrase (usually 12 words)"
 msgstr "Escribe la frase de recuperación (normalmente 12 palabras)"

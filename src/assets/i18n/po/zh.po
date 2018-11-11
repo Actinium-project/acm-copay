@@ -249,9 +249,9 @@ msgid "Bitcoin Network Fee Policy"
 msgstr "比特币网络手续费策略"
 
 msgid "Bitcoin URI"
-msgstr "Bitcoin URI"
+msgstr "Actinium URI"
 
-msgid "Actinium Wallets"
+msgid "Bitcoin Wallets"
 msgstr "比特币钱包"
 
 msgid "Bitcoin is a currency."
