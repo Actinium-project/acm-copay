@@ -140,7 +140,7 @@ const configDefault: Config = {
 
   // Bitcore wallet service URL
   bws: {
-    url: 'http://localhost:3232/bws/api'
+    url: 'https://bws.actinium.org:3232/bws/api'
   },
 
   download: {
@@ -214,7 +214,7 @@ const configDefault: Config = {
   },
 
   blockExplorerUrl: {
-    acm: '199.247.20.84:3001',
+    acm: 'explorer.actinium.org',
     bch: 'bch-insight.bitpay.com/#'
   }
 };
