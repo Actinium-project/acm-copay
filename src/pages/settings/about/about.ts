@@ -64,7 +64,8 @@ export class AboutPage {
   }
 
   public openTermsOfUse() {
-    let url = 'https://bitpay.com/about/terms#wallet';
+    let url =
+      'https://github.com/Actinium-project/acm-copay/blob/master/terms-of-use.md';
     let optIn = true;
     let title = null;
     let message = this.translate.instant('View Wallet Terms of Use');
@@ -81,7 +82,8 @@ export class AboutPage {
   }
 
   public openPrivacyPolicy() {
-    let url = 'https://bitpay.com/about/privacy';
+    let url =
+      'https://github.com/Actinium-project/acm-copay/blob/master/privacy-policy.md';
     let optIn = true;
     let title = null;
     let message = this.translate.instant('View Privacy Policy');
