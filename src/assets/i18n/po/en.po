@@ -1240,7 +1240,7 @@ msgid ""
 "quantum computers."
 msgstr ""
 "It's a good idea to avoid reusing addresses - this both protects your "
-"privacy and keeps your bitcoins secure against hypothetical attacks by "
+"privacy and keeps your actiniums secure against hypothetical attacks by "
 "quantum computers."
 
 msgid ""
