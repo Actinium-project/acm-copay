@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## Scope and Consent
-This policy describes the ways The Actinium Team and its subsidiaries (Actinium B.V. and Stichting Client Funds BMSE, hereinafter, “Actinium”, “we”, “our” or “us”) collect, store, use and protect Personal Data. The purpose of this policy is to ensure that Actinium complies with applicable United States (US) federal and state regulations, and European Union (hereinafter, “EU”) data protection laws such as the General Data Protection Regulation (hereinafter, “GDPR”). Actinium’s Services include merchant processing services, products, or any other features, technologies or functionalities (hereinafter: “Services”) offered by The Actinium Team
+This policy describes the ways The Actinium Team and its subsidiaries (hereinafter, “Actinium”, “we”, “our” or “us”) collect, store, use and protect Personal Data. The purpose of this policy is to ensure that Actinium complies with applicable United States (US) federal and state regulations, and European Union (hereinafter, “EU”) data protection laws such as the General Data Protection Regulation (hereinafter, “GDPR”). Actinium’s Services include merchant processing services, products, or any other features, technologies or functionalities (hereinafter: “Services”) offered by The Actinium Team
 
 This policy describes the ways The Actinium Team and its subsidiaries (hereinafter, “Actinium”, “we”, “our” or “us”) collect, store, use and protect Personal Data. The purpose of this policy is to ensure that Actinium complies with applicable United States (US) federal and state regulations, and European Union (hereinafter, “EU”) data protection laws such as the General Data Protection Regulation (hereinafter, “GDPR”). Actinium’s Services include merchant processing services, products, or any other features, technologies or functionalities (hereinafter: “Services”) offered by The Actinium Team Users accept this Policy by visiting our website and/or by using our Services.
 
@@ -10,10 +10,10 @@ This policy describes the ways The Actinium Team and its subsidiaries (hereinaft
 Visitors of our websites (Actinium.org);
 Merchants that sign up for our Services;
 Shoppers who indirectly interface with Actinium when paying a merchant’s invoice that is forwarded by Actinium to merchants during checkout (refer to Section III.3 for more details);
-Actinium cardholders that have signed up for a Actinium Prepaid Visa® Debit Card;
-Actinium wallet users that have downloaded and installed either the Actinium or Copay app on their mobile device;
-Shoppers who indirectly interface with Actinium when requesting a cryptocurrency withdrawal via a Merchant that is using Actinium’s Services.
-What is “personally identifiable information?”
+Actinium wallet users that have downloaded and installed either the Actinium-Copay app on their mobile device;
+
+### What is “personally identifiable information?”
+
 “Personally Identifiable Information” (hereinafter: “Personal Data”) is any information that can be directly associated with a specific person and can be used to identify that person. A prime example of identifiable information is a person’s name.
 
 What kind of personal data do we collect?
@@ -21,56 +21,12 @@ The Personal Data we collect depends on the type of user:
 
 ### Visitors: 
 
-We may collect the following Personal Data for visitors of our websites (https://www.Actinium.org):
+We may collect the following Personal Data for visitors of our websites (https://www.actinium.org):
 IP address
 Email address (e.g. when you subscribe to our blog or opt in to receive other marketing materials)
 Phone number (e.g. when you contact our sales team or media team or opt in to our media list)
 Name (e.g. when you submit a support request)
 We may collect information about a visitor’s computer or other access devices for fraud prevention purposes.
-
-### Merchants: 
-
-When opening an account, we may collect the following types of Personal Data of the beneficial owner or any user that is added to the account:
-Name
-Email address
-Date of birth
-Identification documents (such as a passport or driver’s license)
-We may use this Personal Data for risk-management purposes (i.e. to verify merchant’s identity or address). We may also obtain information about our merchants from third parties such as credit bureaus and identity verification services. We ensure that such third parties adhere to the same data protection principles as Actinium.
-
-### Shoppers of merchants:
-
-When a shopper is paying a Actinium invoice, the following Personal Data is captured:
-Email address
-IP addresses used to view the Actinium invoice
-The email address is either automatically provided by the merchant or manually entered by the shopper. This enables our system to send an email to Shoppers directly to obtain a cryptocurrency refund address in case of a payment exception (e.g. overpayments, underpayments, etc.). This creates a more seamless payment experience for both the merchant and the shopper.
-
-Additionally, only upon the merchant’s explicit request, we will collect and store Personal Data for the merchant’s benefit only and as a service through our invoicing service. Personal Data that merchants may request from the shoppers are:
-
-Name
-Address
-Phone number
-Additionally, for donations that are made through Actinium’s processing platform, the merchant might opt for Actinium to collect the following Personal Data as required by the US Federal Election Commission (FEC) or other applicable local regulations:
-
-Donor’s name
-Donor’s email address
-Donor’s address
-Donor’s phone number
-Donor’s employer
-Donor’s job title
-Donor’s city of employment
-In all cases mentioned above, Shoppers’ or Donors' information is processed and stored according to the same principles as we process / store our merchant’s Personal Data.
-
-### Cardholders: 
-
-When a user signs up for a Actinium Visa® Prepaid Card, the following information is collected as part of the onboarding program:
-Name
-Address
-Date of birth
-IP address
-Phone number
-Email address
-Social Security Number
-Please note that our Card Program is currently only available to US residents. Actinium only stores date of birth and social security number until the time the card application is accepted or archived.
 
 ### Wallet holders: 
 
@@ -78,15 +34,10 @@ For wallet holders, Actinium collects the following Personal Data:
 Email address
 The email address collection is optional in case the user would like to receive email notifications and (if selected) Actinium news and product updates and can be removed at any point in time.
 
-Shoppers that use Actinium’s cryptocurrency withdrawal service: The following Personal Data is collected for shoppers that would like to process more than 3000 USD per day:
-Name
-Email address
-Identification documents (such as a passport or a driver’s license)
-Proof of address document (such as a bank statement or a utility bill)
-Sensitive or special categories of personal data
 Actinium does not process any sensitive personal information, such as religion, race, ethnicity and/or political views.
 
-Why we collect personal information
+### Why we collect personal information
+
 Our primary purpose for collecting Personal Data is to provide you with a secure, smooth, efficient, and customized experience. We may use your Personal Data to:
 
 comply with applicable laws and regulations;
@@ -97,18 +48,10 @@ prevent potentially prohibited or illegal activities, and enforce our Terms of U
 customize, measure, and improve the Actinium Services and the content and layout of our website and applications;
 deliver targeted marketing, service update notices, and promotional offers based on your communication preferences;
 compare information for accuracy and verify it with third parties.
-How we protect and store personal information
+
+### How we protect and store personal information
+
 We take security of data very seriously. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to Personal Data only for those employees who require it to fulfill their job responsibilities.
-
-In addition to this Privacy Policy, we have several other (internal) policies and procedures in place that deal with data security:
-
-IT Security Policy: This policy describes how we store and process your Personal Data on our servers in the United States and elsewhere in the world where Actinium facilities are located. It also describes how we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations, and EU data protection laws.
-Incident Response Policy: This policy describes our response to an information security incident.
-Data Breach Policy: This policy specifically describes what steps will be taken by us in case of a data breach. This includes notifying the supervisory authorities and the affected data subjects when required.
-Business Continuity and Disaster Recovery Policy: This policy describes how we recover from a disaster and what steps will be taken to continue or resume routine business operations.
-Cookie Policy: This policy describes how Actinium uses cookies to customize the Actinium Services, content and advertising; measure promotional effectiveness, and promote trust and safety.
-Data retention
-We are a regulated Financial Institution in the United States and per the applicable Bank Secrecy Act provisions, we will retain Personal Data that has been obtained as a part of our Customer Identification Program for a period of 5 years after an account has been closed or became dormant.
 
 ## How we share personal data with third parties
 ### We may share your Personal Data with:
@@ -124,9 +67,7 @@ EU Model Clauses: Actinium offers EU Model Clauses, also known as Standard Contr
 Actinium shall be liable for the acts and omissions of any third parties with whom we share Personal Data unless Actinium proves that it is not responsible for the event giving rise to the damage.
 
 How data subjects can access or change their personal data
-Individuals located in the European Union have statutory rights in relation to their Personal Data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete, correct, or restrict the processing of this Personal Data. If you are located in the European Union and would like to exercise the right of access, you can make a request via our support form which can be found here: https://help.Actinium.org/requestHelp.
-
-Merchants can review and edit their information by logging in to their account and reviewing their Personal Data under the Settings tab on the Dashboard. If you wish to change information relating to your industry or company website, or if you wish delete your account, you can send an email to compliance@Actinium.org or submit a request at help.Actinium.org/requestHelp. If you choose to delete your Actinium account, we will mark your account in our database as "Closed". We will retain the information on the account in line with the data retention principles as outlined in Section VII.
+Individuals located in the European Union have statutory rights in relation to their Personal Data. Subject to any exemptions provided by law, you may have the right to request access to Information, as well as to seek to update, delete, correct, or restrict the processing of this Personal Data. If you are located in the European Union and would like to exercise the right of access, you can make a request via email: support@actinium.org
 
 ### Marketing
 
