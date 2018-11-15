@@ -185,7 +185,7 @@ export class ImportWalletPage {
       this.popupProvider.ionicAlert(title, subtitle);
     }
 
-    let isTestnet = info.network == 'testnet' ? true : false;
+    let isTestnet = false; // info.network == 'testnet' ? true : false;
     this.importForm.controls['testnetEnabled'].setValue(isTestnet);
     this.importForm.controls['derivationPath'].setValue(info.derivationPath);
     this.importForm.controls['words'].setValue(info.data);
@@ -374,7 +374,7 @@ export class ImportWalletPage {
     }
 
     opts.account = pathData.account;
-    opts.networkName = pathData.networkName;
+    opts.networkName = 'livenet'; // pathData.networkName;
     opts.derivationStrategy = pathData.derivationStrategy;
     opts.coin = this.importForm.value.coin;
 
