@@ -59,15 +59,6 @@
       </ion-item>
     </div>
 
-    <ion-item *ngIf="selectedTab != 'file'">
-      <ion-label stacked>{{'Coin' | translate}}</ion-label>
-      <ion-select okText="{{okText}}" cancelText="{{cancelText}}" placeholder="{{'Select a coin' | translate}}"
-        formControlName="coin">
-        <ion-option value="acm">Actinium (ACM)</ion-option>
-        <ion-option value="bch">Bitcoin Cash (BCH)</ion-option>
-      </ion-select>
-    </ion-item>
-
     <ion-item-divider></ion-item-divider>
 
     <ion-item (click)="toggleShowAdvOpts()">
@@ -97,20 +88,6 @@
           <ion-label stacked>{{'Derivation path' | translate}}</ion-label>
           <ion-input type="text" formControlName="derivationPath" [value]="importForm.value.derivationPath"></ion-input>
         </ion-item>
-
-        <ion-item [ngClass]="{'with-label': importForm.value.testnetEnabled}">
-          <ion-label>Testnet</ion-label>
-          <ion-toggle formControlName="testnetEnabled" (ionChange)="setDerivationPath()"></ion-toggle>
-        </ion-item>
-
-        <label-tip *ngIf="importForm.value.testnetEnabled" type="warn">
-          <span label-tip-title translate>Testnet Wallet</span>
-          <div label-tip-body translate>
-            The testnet is an alternative Bitcoin block chain, to be used for testing. Testnet coins are separate and
-            distinct from actual bitcoins, and do not have any value. This allows application developers or actinium
-            testers to experiment, without having to use real bitcoins.
-          </div>
-        </label-tip>
 
       </div>
 
