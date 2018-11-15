@@ -1,43 +1,36 @@
 {
   "project_info": {
-    "project_number": "149194066736",
-    "firebase_url": "https://bitpay-wallet.firebaseio.com",
-    "project_id": "bitpay-wallet",
-    "storage_bucket": "bitpay-wallet.appspot.com"
+    "project_number": "791212934923",
+    "firebase_url": "https://actinium-copay.firebaseio.com",
+    "project_id": "actinium-copay",
+    "storage_bucket": "actinium-copay.appspot.com"
   },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:149194066736:android:64dc8a200f13f9ee",
-        "android_client_info": {
-          "package_name": "com.bitpay.wallet"
-        }
+  "client": [{
+    "client_info": {
+      "mobilesdk_app_id": "1:791212934923:android:911e5af2cd580014",
+      "android_client_info": {
+        "package_name": "org.actinium.acmcopay"
+      }
+    },
+    "oauth_client": [{
+      "client_id": "791212934923-9u6293npgcq7pl2flgpeefjlq0moeeg0.apps.googleusercontent.com",
+      "client_type": 3
+    }],
+    "api_key": [{
+      "current_key": "AIzaSyCg9SKG76zxz5PIfyGejtwDjlhEYY0Xux8"
+    }],
+    "services": {
+      "analytics_service": {
+        "status": 1
       },
-      "oauth_client": [
-        {
-          "client_id":
-            "149194066736-1gf0d9nk288dke5jdiuj8unkplhl8nco.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCZ8nyjRBe-0Lyur0LjO-SOkjv32uNQKy0"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
+      "appinvite_service": {
+        "status": 1,
+        "other_platform_oauth_client": []
+      },
+      "ads_service": {
+        "status": 2
       }
     }
-  ],
+  }],
   "configuration_version": "1"
 }
