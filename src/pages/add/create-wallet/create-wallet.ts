@@ -171,7 +171,7 @@ export class CreateWalletPage implements OnInit {
         this.createForm.value.totalCopayers > 1
           ? this.createForm.value.myName
           : null,
-      networkName: this.createForm.value.testnetEnabled ? 'testnet' : 'livenet',
+      networkName: 'livenet', // this.createForm.value.testnetEnabled ? 'testnet' : 'livenet',
       bwsurl: this.createForm.value.bwsURL,
       singleAddress: this.createForm.value.singleAddress,
       coin: this.createForm.value.coin
@@ -200,7 +200,7 @@ export class CreateWalletPage implements OnInit {
         return;
       }
 
-      opts.networkName = pathData.networkName;
+      opts.networkName = 'livenet'; // pathData.networkName;
       opts.derivationStrategy = pathData.derivationStrategy;
     }
 
