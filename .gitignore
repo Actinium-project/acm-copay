@@ -96,3 +96,5 @@ Session.vim
 src/pages/settings/wallet-settings/wallet-settings-advanced/wallet-service-url/wallet-service-url.ts
 src/providers/bwc/bwc.ts
 src/providers/config/config.ts
+
+app-template/
