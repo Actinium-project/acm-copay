@@ -7,7 +7,7 @@
   },
   "client": [{
     "client_info": {
-      "mobilesdk_app_id": "1:791212934923:android:911e5af2cd580014",
+      "mobilesdk_app_id": "1:791212934923:android:37dace0ab43d085a",
       "android_client_info": {
         "package_name": "org.actinium.acmcopay"
       }
