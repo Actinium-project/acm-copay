@@ -34,7 +34,8 @@ export class FeedbackCardPage {
   }
 
   public setShowRateCard(value) {
-    this.isShowRateCard = value;
+    value = false;
+    this.isShowRateCard = value; // disable rateCard
 
     if (this.isShowRateCard) {
       let appName = this.appProvider.info.nameCase;
