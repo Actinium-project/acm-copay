@@ -279,6 +279,9 @@
     "tslint-config-prettier": "1.7.0",
     "typescript": "2.6.2"
   },
+  "resolutions": {
+    "**/event-stream": "3.3.4"
+  },
   "cordova": {
     "plugins": {
       "cordova-plugin-device": {},
