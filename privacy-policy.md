@@ -1,15 +1,14 @@
 # Privacy Policy
 
 ## Scope and Consent
-This policy describes the ways The Actinium Team and its subsidiaries (hereinafter, “Actinium”, “we”, “our” or “us”) collect, store, use and protect Personal Data. The purpose of this policy is to ensure that Actinium complies with applicable United States (US) federal and state regulations, and European Union (hereinafter, “EU”) data protection laws such as the General Data Protection Regulation (hereinafter, “GDPR”). Actinium’s Services include merchant processing services, products, or any other features, technologies or functionalities (hereinafter: “Services”) offered by The Actinium Team
 
-This policy describes the ways The Actinium Team and its subsidiaries (hereinafter, “Actinium”, “we”, “our” or “us”) collect, store, use and protect Personal Data. The purpose of this policy is to ensure that Actinium complies with applicable United States (US) federal and state regulations, and European Union (hereinafter, “EU”) data protection laws such as the General Data Protection Regulation (hereinafter, “GDPR”). Actinium’s Services include merchant processing services, products, or any other features, technologies or functionalities (hereinafter: “Services”) offered by The Actinium Team Users accept this Policy by visiting our website and/or by using our Services.
+This policy describes the ways The Actinium Project Ltd and its subsidiaries (hereinafter, “Actinium”, “we”, “our” or “us”) collect, store, use and protect Personal Data. The purpose of this policy is to ensure that Actinium complies with applicable United States (US) federal and state regulations, and European Union (hereinafter, “EU”) data protection laws such as the General Data Protection Regulation (hereinafter, “GDPR”). Actinium’s Services include merchant processing services, products, or any other features, technologies or functionalities (hereinafter: “Services”) offered by The Actinium Project Ltd
+
+This policy describes the ways The Actinium Project Ltd and its subsidiaries (hereinafter, “Actinium”, “we”, “our” or “us”) collect, store, use and protect Personal Data. The purpose of this policy is to ensure that Actinium complies with applicable United States (US) federal and state regulations, and European Union (hereinafter, “EU”) data protection laws such as the General Data Protection Regulation (hereinafter, “GDPR”). Actinium’s Services include merchant processing services, products, or any other features, technologies or functionalities (hereinafter: “Services”) offered by The Actinium Project Ltd Users accept this Policy by visiting our website and/or by using our Services.
 
 ### There are six types of data subjects whose personal data we may process:
 
-Visitors of our websites (Actinium.org);
-Merchants that sign up for our Services;
-Shoppers who indirectly interface with Actinium when paying a merchant’s invoice that is forwarded by Actinium to merchants during checkout (refer to Section III.3 for more details);
+Visitors of our websites (https://actinium.org);
 Actinium wallet users that have downloaded and installed either the Actinium-Copay app on their mobile device;
 
 ### What is “personally identifiable information?”
@@ -19,16 +18,16 @@ Actinium wallet users that have downloaded and installed either the Actinium-Cop
 What kind of personal data do we collect?
 The Personal Data we collect depends on the type of user:
 
-### Visitors: 
+### Visitors:
 
-We may collect the following Personal Data for visitors of our websites (https://www.actinium.org):
+We may collect the following Personal Data for visitors of our websites (https://actinium.org):
 IP address
 Email address (e.g. when you subscribe to our blog or opt in to receive other marketing materials)
 Phone number (e.g. when you contact our sales team or media team or opt in to our media list)
 Name (e.g. when you submit a support request)
 We may collect information about a visitor’s computer or other access devices for fraud prevention purposes.
 
-### Wallet holders: 
+### Wallet holders:
 
 For wallet holders, Actinium collects the following Personal Data:
 Email address
@@ -54,6 +53,7 @@ compare information for accuracy and verify it with third parties.
 We take security of data very seriously. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to Personal Data only for those employees who require it to fulfill their job responsibilities.
 
 ## How we share personal data with third parties
+
 ### We may share your Personal Data with:
 
 Other Actinium entities, in order to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about our products, services and communications;
@@ -75,7 +75,7 @@ We do not sell your Personal Data to third parties for their marketing purposes 
 
 ### Contact
 
-To communicate with our Data Protection Officer, please email dpo@Actinium.org. Subject to applicable law, you also have the right to lodge a complaint with your local Data Protection Authority or the Dutch Data Protection Commissioner, which is Actinium’s lead supervisory authority in the EU. If you are residing within the European Union and believe we maintain your Personal Data within the scope of the GDPR, you may direct questions or complaints to our lead supervisory authority:
+To communicate with our Data Protection Officer, please email dpo@actinium.org. Subject to applicable law, you also have the right to lodge a complaint with your local Data Protection Authority or the Dutch Data Protection Commissioner, which is Actinium’s lead supervisory authority in the EU. If you are residing within the European Union and believe we maintain your Personal Data within the scope of the GDPR, you may direct questions or complaints to our lead supervisory authority:
 
 Autoriteit PersoonsgegevensPostbus 93374
 
