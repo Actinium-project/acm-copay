@@ -1,6 +1,7 @@
 ## Actinium Mobile Wallet (Acm-Copay)
 
 [![Get it on AppStore](https://raw.githubusercontent.com/Actinium-project/ACM-Designs/master/random/get_from_appstore.png)](https://itunes.apple.com/us/app/actinium-wallet/id1441925845?ls=1&mt=8)
+
 [![Get it on Google Play](https://raw.githubusercontent.com/Actinium-project/ACM-Designs/master/random/get_from_google_play.png)](https://play.google.com/store/apps/details?id=org.actinium.acmcopay&hl=en_US)
 
 
