@@ -1,8 +1,8 @@
 ## Actinium Mobile Wallet (Acm-Copay)
 
-[AppStore download](https://itunes.apple.com/us/app/actinium-wallet/id1441925845?ls=1&mt=8)
+[![Get it on AppStore](https://raw.githubusercontent.com/Actinium-project/ACM-Designs/master/random/get_from_appstore.png)](https://itunes.apple.com/us/app/actinium-wallet/id1441925845?ls=1&mt=8)
+[![Get it on Google Play](https://raw.githubusercontent.com/Actinium-project/ACM-Designs/master/random/get_from_google_play.png)](https://play.google.com/store/apps/details?id=org.actinium.acmcopay&hl=en_US)
 
-[Google Play download](https://play.google.com/store/apps/details?id=org.actinium.acmcopay&hl=en_US)
 
 Acm-Copay is a secure actinium wallet platform for both desktop and mobile devices. Copay uses [Acmcore Wallet Service](https://github.com/Actinium-project/acmcore-wallet-service) (AcWS) for peer synchronization and network interfacing.
 
